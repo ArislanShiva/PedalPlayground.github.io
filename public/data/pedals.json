@@ -33014,6 +33014,27 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "001 Gas Station",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-001.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "002 UK Gold 900",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-002.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "003 Power Zone",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-003.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "004 Day Tripper",
 		"Width": 1.67,
 		"Height": 3.75,
@@ -33028,10 +33049,45 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "006 US Classic Deluxe",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-006.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "007 Regal Tone",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-007.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "008 Cali-MK3",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-008.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "009 Black Knight",
 		"Width": 1.67,
 		"Height": 3.75,
 		"Image": "mooer-009.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "010 Two Stones",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-010.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "011 Cali-Dual",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-011.png"
 	},
 	{
 		"Brand": "Mooer",
@@ -33042,6 +33098,20 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "013 Matchbox",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-013.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "014 Taxidea Taxus",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-014.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "015 Brown Sound",
 		"Width": 1.67,
 		"Height": 3.75,
@@ -33049,10 +33119,38 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "016 Phoenix Digital",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-016.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "017 Cali MKIV",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-017.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "018 Custom 100",
 		"Width": 1.67,
 		"Height": 3.75,
 		"Image": "mooer-018.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "019 UK Gold PLX",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-019.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "020 Blueno",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-020.png"
 	},
 	{
 		"Brand": "Mooer",
@@ -40382,6 +40480,13 @@
 		"Width": 2.81,
 		"Height": 4.5,
 		"Image": "pedal-pawn-fuzz.png"
+	},
+	{
+		"Brand": "Pedal Pawn",
+		"Name": "Germanium Fuzz (AC 128)",
+		"Width": 2.81,
+		"Height": 4.5,
+		"Image": "pedal-pawn-germanium-fuzz-ac128.png"
 	},
 	{
 		"Brand": "Pedal Pawn",
