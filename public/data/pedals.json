@@ -12336,6 +12336,13 @@
 	},
 	{
 		"Brand": "DLS Effects",
+		"Name": "Echo Tap",
+		"Width": 5.5,
+		"Height": 5.09,
+		"Image": "dls-echo-tap.png"
+	},
+	{
+		"Brand": "DLS Effects",
 		"Name": "Rotospin",
 		"Width": 3.7,
 		"Height": 4.96,
@@ -49063,6 +49070,13 @@
 		"Width": 2.57,
 		"Height": 4.85,
 		"Image": "templo-the-outer-limit.png"
+	},
+	{
+		"Brand": "Terrytronix",
+		"Name": "The Rex",
+		"Width": 3.94,
+		"Height": 4.22,
+		"Image": "terrytronix-the-rex.png"
 	},
 	{
 		"Brand": "Testing Blanks",
