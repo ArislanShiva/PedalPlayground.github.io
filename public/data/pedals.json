@@ -5965,9 +5965,9 @@
 	},
 	{
 		"Brand": "BOSS",
-		"Name": "FV-500L Volume Pedal",
+		"Name": "FV-500 Volume Pedal",
 		"Width": 4.4,
-		"Height": 11.4,
+		"Height": 11.84,
 		"Image": "boss-fv500.png"
 	},
 	{
@@ -21947,6 +21947,20 @@
 	},
 	{
 		"Brand": "Hagerman",
+		"Name": "12AU7 Compressor",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "hagerman-12au7-compressor.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "12AX7 Overdriver",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "hagerman-12ax7-overdriver.png"
+	},
+	{
+		"Brand": "Hagerman",
 		"Name": "Boost EF86",
 		"Width": 4,
 		"Height": 5.05,
@@ -21961,10 +21975,115 @@
 	},
 	{
 		"Brand": "Hagerman",
+		"Name": "EV86 Booster",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "hagerman-ev86-booster.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Fuzz",
+		"Width": 2.77,
+		"Height": 5.4,
+		"Image": "hagerman-fuzz.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Gamma Radiation",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-gamma-radiation.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Neokløn",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-neoklon.png"
+	},
+	{
+		"Brand": "Hagerman",
 		"Name": "Overdrive 12AX7",
 		"Width": 4,
 		"Height": 5.05,
 		"Image": "hagerman-overdrive-12ax7.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Overdrive Clipper",
+		"Width": 4.7,
+		"Height": 5.8,
+		"Image": "hagerman-overdrive-clipper.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Power Baby",
+		"Width": 4.7,
+		"Height": 5.8,
+		"Image": "hagerman-power-baby.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Reactivator",
+		"Width": 4.19,
+		"Height": 5.8,
+		"Image": "hagerman-reactivator.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Replicate",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-replicate.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Reverb",
+		"Width": 4.19,
+		"Height": 5.8,
+		"Image": "hagerman-reverb.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Thermionic Reinforcer",
+		"Width": 5.95,
+		"Height": 4.7,
+		"Image": "hagerman-thermionic-reinforcer.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Tsar Boost",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-tsar-boost.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Tsar Face",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-tsar-face.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Tsar Octave",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-tsar-octave.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Tubekløn",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "hagerman-tube-klon.png"
+	},
+	{
+		"Brand": "Hagerman",
+		"Name": "Valve",
+		"Width": 2.78,
+		"Height": 4.5,
+		"Image": "hagerman-valve.png"
 	},
 	{
 		"Brand": "Hammond",
@@ -41393,17 +41512,17 @@
 	},
 	{
 		"Brand": "Pro Co",
-		"Name": "Big Box Vintage Rat",
-		"Width": 5,
-		"Height": 4.14,
-		"Image": "pro-co-big-box-rat.png"
+		"Name": "Deucetone Rat",
+		"Width": 8.19,
+		"Height": 4.76,
+		"Image": "proco-deucetone-rat.png"
 	},
 	{
 		"Brand": "Pro Co",
-		"Name": "Deucetone Rat",
-		"Width": 8.19,
-		"Height": 4.57,
-		"Image": "proco-deucetone-rat.png"
+		"Name": "Fat Rat",
+		"Width": 4,
+		"Height": 4.61,
+		"Image": "proco-fat-rat.png"
 	},
 	{
 		"Brand": "Pro Co",
@@ -41416,22 +41535,36 @@
 		"Brand": "Pro Co",
 		"Name": "Rat",
 		"Width": 3.5,
-		"Height": 4,
+		"Height": 4.13,
 		"Image": "proco-rat.png"
 	},
 	{
 		"Brand": "Pro Co",
 		"Name": "Rat 2",
 		"Width": 3.5,
-		"Height": 4,
+		"Height": 4.13,
 		"Image": "proco-rat-2.png"
+	},
+	{
+		"Brand": "Pro Co",
+		"Name": "The Rat",
+		"Width": 5,
+		"Height": 4.19,
+		"Image": "pro-co-big-box-rat.png"
 	},
 	{
 		"Brand": "Pro Co",
 		"Name": "Turbo Rat",
 		"Width": 3.5,
-		"Height": 4,
+		"Height": 4.13,
 		"Image": "proco-turbo-rat.png"
+	},
+	{
+		"Brand": "Pro Co",
+		"Name": "You Dirty Rat",
+		"Width": 3.5,
+		"Height": 4.13,
+		"Image": "proco-you-dirty-rat.png"
 	},
 	{
 		"Brand": "ProAnalog Devices",
