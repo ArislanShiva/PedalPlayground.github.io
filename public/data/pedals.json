@@ -5868,8 +5868,8 @@
 	{
 		"Brand": "BOSS",
 		"Name": "EV-30 Dual Expression Pedal",
-		"Width": 3.1875,
-		"Height": 7.5625,
+		"Width": 3.19,
+		"Height": 7.66,
 		"Image": "boss-ev30.png"
 	},
 	{
@@ -5958,9 +5958,9 @@
 	},
 	{
 		"Brand": "BOSS",
-		"Name": "FV-30L Foot Volume",
-		"Width": 3.1875,
-		"Height": 7.5625,
+		"Name": "FV-30 Foot Volume",
+		"Width": 3.19,
+		"Height": 7.66,
 		"Image": "boss-fv30.png"
 	},
 	{
@@ -33925,8 +33925,8 @@
 	{
 		"Brand": "Moog",
 		"Name": "EP-3",
-		"Width": 3.54331,
-		"Height": 9.488189,
+		"Width": 3.54,
+		"Height": 9.14,
 		"Image": "moog-ep3.png"
 	},
 	{
@@ -40774,6 +40774,13 @@
 		"Width": 1.95,
 		"Height": 3.77,
 		"Image": "peterson-strobostomp-mini.png"
+	},
+	{
+		"Brand": "Peterson",
+		"Name": "StroboVUE",
+		"Width": 2.75,
+		"Height": 3.81,
+		"Image": "peterson-strobovue.png"
 	},
 	{
 		"Brand": "Petla",
