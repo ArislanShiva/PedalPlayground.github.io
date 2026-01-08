@@ -12511,7 +12511,7 @@
 	},
 	{
 		"Brand": "DOD",
-		"Name": "Overdrive Preamp FX60",
+		"Name": "Stereo Chorus FX60",
 		"Width": 3.35,
 		"Height": 5.13,
 		"Image": "dod-fx60.png"
@@ -12529,6 +12529,20 @@
 		"Width": 3.3,
 		"Height": 5.13,
 		"Image": "dod-fx75b.png"
+	},
+	{
+		"Brand": "DOD",
+		"Name": "Super American Metal FX56",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx56.png"
+	},
+	{
+		"Brand": "DOD",
+		"Name": "Super American Metal FX56-B",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx56b.png"
 	},
 	{
 		"Brand": "DOD",
@@ -12858,6 +12872,13 @@
 		"Width": 2.71,
 		"Height": 4.91,
 		"Image": "dr-scientist-the-tremolessence.png"
+	},
+	{
+		"Brand": "Dr Z",
+		"Name": "Variable Boost Footswitch",
+		"Width": 2.5,
+		"Height": 4.8,
+		"Image": "drz-z-variable-boost-footswitch.png"
 	},
 	{
 		"Brand": "Dr Z",
@@ -14884,6 +14905,13 @@
 	},
 	{
 		"Brand": "EarthQuaker",
+		"Name": "ZEQD-Pre",
+		"Width": 3.94,
+		"Height": 5.99,
+		"Image": "earthquaker-zeqd-pre.png"
+	},
+	{
+		"Brand": "EarthQuaker",
 		"Name": "Zoar",
 		"Width": 2.6,
 		"Height": 4.94,
@@ -16204,6 +16232,13 @@
 		"Width": 1.99,
 		"Height": 3.65,
 		"Image": "ehx-pico-deep-freeze.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
+		"Name": "Pico Intelligent Harmony Machine",
+		"Width": 1.99,
+		"Height": 3.65,
+		"Image": "ehx-pico-pico-ihm.png"
 	},
 	{
 		"Brand": "Electro-Harmonix",
