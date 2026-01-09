@@ -23663,7 +23663,7 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Analog Delay Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-analog-delay-mini.png"
 	},
@@ -23677,7 +23677,7 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Booster Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-booster-mini.png"
 	},
@@ -23691,7 +23691,7 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Chorus Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-chorus-mini.png"
 	},
@@ -23740,9 +23740,16 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Flanger Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-flanger-mini.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "LD303 Layer Delayer",
+		"Width": 6.9,
+		"Height": 4.86,
+		"Image": "ibanez-ld303.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -23775,7 +23782,7 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Phaser Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-phaser-mini.png"
 	},
@@ -23803,7 +23810,7 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Super Metal Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-super-metal-mini.png"
 	},
@@ -23817,7 +23824,7 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Tremolo Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-tremolo-mini.png"
 	},
@@ -23908,21 +23915,28 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "Tube Screamer Mini",
-		"Width": 1.96,
+		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-tube-screamer-mini.png"
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "TWP10 Twin Peaks",
+		"Width": 3.66,
+		"Height": 7.95,
+		"Image": "ibanez-twp10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "WD7 Weeping Demon",
-		"Width": 6.10,
-		"Height": 10.20,
+		"Width": 6.1,
+		"Height": 10.2,
 		"Image": "ibanez-wd7.png"
 	},
 	{
 		"Brand": "Ibanez",
 		"Name": "WH10 V3 Wah",
-		"Width": 3.83,
+		"Width": 3.82,
 		"Height": 7.95,
 		"Image": "ibanez-wh10-v3.png"
 	},
