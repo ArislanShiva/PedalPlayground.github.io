@@ -9536,6 +9536,13 @@
 	},
 	{
 		"Brand": "Collision Devices",
+		"Name": "FZ",
+		"Width": 3.7,
+		"Height": 5.06,
+		"Image": "collision-fz.png"
+	},
+	{
+		"Brand": "Collision Devices",
 		"Name": "Nocturnal",
 		"Width": 7.61,
 		"Height": 4.88,
@@ -9554,6 +9561,27 @@
 		"Width": 4.75,
 		"Height": 4.77,
 		"Image": "collision-devices-singularity.png"
+	},
+	{
+		"Brand": "Collision Devices",
+		"Name": "Snack Delay",
+		"Width": 1.97,
+		"Height": 5.36,
+		"Image": "collision-devices-snack-delay.png"
+	},
+	{
+		"Brand": "Collision Devices",
+		"Name": "Snack Fuzz",
+		"Width": 1.97,
+		"Height": 5.36,
+		"Image": "collision-devices-snack-fuzz.png"
+	},
+	{
+		"Brand": "Collision Devices",
+		"Name": "Snack Pitcher",
+		"Width": 1.97,
+		"Height": 5.36,
+		"Image": "collision-devices-snack-pitcher.png"
 	},
 	{
 		"Brand": "Collision Devices",
@@ -24359,6 +24387,13 @@
 		"Width": 2.6,
 		"Height": 4,
 		"Image": "jrockett-ape.png"
+	},
+	{
+		"Brand": "J. Rockett",
+		"Name": "Aqueous",
+		"Width": 2.75,
+		"Height": 4.31,
+		"Image": "jrockett-aqueous.png"
 	},
 	{
 		"Brand": "J. Rockett",
