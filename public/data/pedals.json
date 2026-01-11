@@ -19595,10 +19595,59 @@
 	},
 	{
 		"Brand": "Frost Giant Electronics",
+		"Name": "Architect of Reality",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-architect-of-reality.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Athos",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "frost-giant-athos.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Little Acid Fuzz",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "frost-giant-little-acid-fuzz.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Massif",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "frost-giant-massif.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Mourning Star",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "frost-giant-mourning-star.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
 		"Name": "Osiris",
 		"Width": 2.6,
-		"Height": 5.08,
+		"Height": 5,
 		"Image": "frost-giant-osiris.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Soma V3",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-soma-v3.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Yama",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "frost-giant-yama.png"
 	},
 	{
 		"Brand": "FTelettronica",
