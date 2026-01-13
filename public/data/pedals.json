@@ -15724,6 +15724,13 @@
 	},
 	{
 		"Brand": "Electro-Harmonix",
+		"Name": "Effects Interface",
+		"Width": 4.5,
+		"Height": 5.49,
+		"Image": "ehx-effects-interface.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
 		"Name": "EHX Tortion",
 		"Width": 6.07,
 		"Height": 4.75,
