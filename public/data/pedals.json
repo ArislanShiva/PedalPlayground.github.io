@@ -15724,13 +15724,6 @@
 	},
 	{
 		"Brand": "Electro-Harmonix",
-		"Name": "Effects Interface",
-		"Width": 4.5,
-		"Height": 5.49,
-		"Image": "ehx-effects-interface.png"
-	},
-	{
-		"Brand": "Electro-Harmonix",
 		"Name": "EHX Tortion",
 		"Width": 6.07,
 		"Height": 4.75,
@@ -23244,49 +23237,35 @@
 		"Brand": "Horrothia FX",
 		"Name": "Berkeley",
 		"Width": 3.7,
-		"Height": 4.96,
+		"Height": 4.94,
 		"Image": "horrothia-fx-berkeley.png"
-	},
-	{
-		"Brand": "Horrothia FX",
-		"Name": "Lutz",
-		"Width": 3.7,
-		"Height": 4.96,
-		"Image": "horrothia-fx-lutz.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Teeth",
 		"Width": 3.7,
-		"Height": 4.96,
+		"Height": 4.94,
 		"Image": "horrothia-fx-teeth.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Teeth MKII",
 		"Width": 3.7,
-		"Height": 4.96,
+		"Height": 4.94,
 		"Image": "horrothiafx-teeth-mk2.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Triage",
 		"Width": 3.7,
-		"Height": 4.96,
+		"Height": 4.94,
 		"Image": "horrothia-fx-triage.png"
-	},
-	{
-		"Brand": "Horrothia FX",
-		"Name": "Triage Deluxe",
-		"Width": 3.7,
-		"Height": 4.96,
-		"Image": "horrothia-fx-triage-deluxe.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Type One",
 		"Width": 3.7,
-		"Height": 4.96,
+		"Height": 4.94,
 		"Image": "horrothia-fx-type-one.png"
 	},
 	{
@@ -44491,13 +44470,6 @@
 		"Width": 2.8,
 		"Height": 4.8,
 		"Image": "sinvertek-fluidtimemkii.png"
-	},
-	{
-		"Brand": "Sinvertek",
-		"Name": "MGAT-1 EVO",
-		"Width": 2.8,
-		"Height": 4.8,
-		"Image": "sinvertek-mgat-1-evo.png"
 	},
 	{
 		"Brand": "Sinvertek",
