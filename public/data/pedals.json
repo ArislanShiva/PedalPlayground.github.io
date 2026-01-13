@@ -25202,10 +25202,17 @@
 	},
 	{
 		"Brand": "Jam Pedals",
-		"Name": "Retrovibe mk3",
+		"Name": "RetroVibe mk.3",
 		"Width": 4.01,
 		"Height": 4.7,
 		"Image": "jam-retrovibe-mk3.png"
+	},
+	{
+		"Brand": "Jam Pedals",
+		"Name": "RetroVibe mk.4",
+		"Width": 4.91,
+		"Height": 3.85,
+		"Image": "jam-retrovibe-mk4.png"
 	},
 	{
 		"Brand": "Jam Pedals",
@@ -30855,6 +30862,13 @@
 		"Width": 1.26,
 		"Height": 1.18,
 		"Image": "lwave-tiny-tap.png"
+	},
+	{
+		"Brand": "Lytt Effects",
+		"Name": "1984",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "lytt-1984.png"
 	},
 	{
 		"Brand": "M2 Labs",
@@ -53298,6 +53312,13 @@
 		"Width": 2.85,
 		"Height": 4.9,
 		"Image": "walrus-r1-mk2.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Mantle",
+		"Width": 6.06,
+		"Height": 4.7,
+		"Image": "walrus-mantle.png"
 	},
 	{
 		"Brand": "Walrus Audio",
