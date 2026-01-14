@@ -23244,35 +23244,49 @@
 		"Brand": "Horrothia FX",
 		"Name": "Berkeley",
 		"Width": 3.7,
-		"Height": 4.94,
+		"Height": 4.96,
 		"Image": "horrothia-fx-berkeley.png"
+	},
+	{
+		"Brand": "Horrothia FX",
+		"Name": "Lutz",
+		"Width": 3.7,
+		"Height": 4.96,
+		"Image": "horrothia-fx-lutz.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Teeth",
 		"Width": 3.7,
-		"Height": 4.94,
+		"Height": 4.96,
 		"Image": "horrothia-fx-teeth.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Teeth MKII",
 		"Width": 3.7,
-		"Height": 4.94,
+		"Height": 4.96,
 		"Image": "horrothiafx-teeth-mk2.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Triage",
 		"Width": 3.7,
-		"Height": 4.94,
+		"Height": 4.96,
 		"Image": "horrothia-fx-triage.png"
+	},
+	{
+		"Brand": "Horrothia FX",
+		"Name": "Triage Deluxe",
+		"Width": 3.7,
+		"Height": 4.96,
+		"Image": "horrothia-fx-triage-deluxe.png"
 	},
 	{
 		"Brand": "Horrothia FX",
 		"Name": "Type One",
 		"Width": 3.7,
-		"Height": 4.94,
+		"Height": 4.96,
 		"Image": "horrothia-fx-type-one.png"
 	},
 	{
@@ -30848,6 +30862,13 @@
 		"Width": 1.26,
 		"Height": 1.18,
 		"Image": "lwave-tiny-tap.png"
+	},
+	{
+		"Brand": "Lytt Effects",
+		"Name": "1984",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "lytt-1984.png"
 	},
 	{
 		"Brand": "M2 Labs",
@@ -41638,6 +41659,13 @@
 	},
 	{
 		"Brand": "Poly Effects",
+		"Name": "Kanso",
+		"Width": 3.03,
+		"Height": 3.49,
+		"Image": "poly-kanso.png"
+	},
+	{
+		"Brand": "Poly Effects",
 		"Name": "Trails",
 		"Width": 4.09,
 		"Height": 4.56,
@@ -44484,6 +44512,13 @@
 		"Width": 2.8,
 		"Height": 4.8,
 		"Image": "sinvertek-fluidtimemkii.png"
+	},
+	{
+		"Brand": "Sinvertek",
+		"Name": "MGAT-1 EVO",
+		"Width": 2.8,
+		"Height": 4.8,
+		"Image": "sinvertek-mgat-1-evo.png"
 	},
 	{
 		"Brand": "Sinvertek",
