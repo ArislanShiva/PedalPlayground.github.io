@@ -6077,6 +6077,20 @@
 	},
 	{
 		"Brand": "BOSS",
+		"Name": "GX-1 Guitar Effects Processor",
+		"Width": 12.07,
+		"Height": 5.73,
+		"Image": "boss-gx1.png"
+	},
+	{
+		"Brand": "BOSS",
+		"Name": "GX-1B Bass Effects Processor",
+		"Width": 12.07,
+		"Height": 5.73,
+		"Image": "boss-gx1b.png"
+	},
+	{
+		"Brand": "BOSS",
 		"Name": "GX-10 Guitar Effects Processor",
 		"Width": 11.81,
 		"Height": 6.97,
@@ -52829,6 +52843,13 @@
 		"Width": 4.75,
 		"Height": 2.42,
 		"Image": "walrus-canvas-tuner-horizontal.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Canvas Volume Pedal",
+		"Width": 3.6,
+		"Height": 9.12,
+		"Image": "walrus-canvas-volume-pedal.png"
 	},
 	{
 		"Brand": "Walrus Audio",
