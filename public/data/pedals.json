@@ -13308,6 +13308,13 @@
 		"Image": "drunk-beaver-trainers-ts100.png"
 	},
 	{
+		"Brand": "Drunk Beaver",
+		"Name": "Vatra",
+		"Width": 2.6,
+		"Height": 4.9,
+		"Image": "drunk-beaver-vatra.png"
+	},
+	{
 		"Brand": "Drybell",
 		"Name": "Footswitch F-1L",
 		"Width": 2.17,
@@ -16848,6 +16855,13 @@
 		"Width": 2.6,
 		"Height": 5.05,
 		"Image": "electronic-audio-experiments-halberd-v2-green.png"
+	},
+	{
+		"Brand": "EAE",
+		"Name": "Halberd v2 (Terran)",
+		"Width": 2.6,
+		"Height": 5.05,
+		"Image": "electronic-audio-experiments-halberd-v2-terran.png"
 	},
 	{
 		"Brand": "EAE",
@@ -43024,6 +43038,13 @@
 	},
 	{
 		"Brand": "Revv",
+		"Name": "Dirtydog",
+		"Width": 2.63,
+		"Height": 4.44,
+		"Image": "revv-dirtydog.png"
+	},
+	{
+		"Brand": "Revv",
 		"Name": "G2",
 		"Width": 2.75,
 		"Height": 4.87,
@@ -52378,7 +52399,7 @@
 	{
 		"Brand": "Vox",
 		"Name": "V847 Wah",
-		"Width": 4.02,
+		"Width": 3.8,
 		"Height": 9.92,
 		"Image": "vox-wah.png"
 	},
@@ -52402,6 +52423,20 @@
 		"Width": 2.83,
 		"Height": 4.72,
 		"Image": "vox-valvenergy-silk-drive.png"
+	},
+	{
+		"Brand": "Vox",
+		"Name": "VFZ-1 Fuzz",
+		"Width": 2.91,
+		"Height": 4.82,
+		"Image": "vox-vfz1-fuzz.png"
+	},
+	{
+		"Brand": "Vox",
+		"Name": "VTB-1 Treble Booster",
+		"Width": 2.91,
+		"Height": 4.82,
+		"Image": "vox-vtb1-treble-booster.png"
 	},
 	{
 		"Brand": "VTR Effects",
