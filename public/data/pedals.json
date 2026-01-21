@@ -287,6 +287,111 @@
 		"Image": "abasi-pathos.png"
 	},
 	{
+		"Brand": "Abominable",
+		"Name": "Deatheater",
+		"Width": 2.6,
+		"Height": 5.03,
+		"Image": "abominable-deatheater.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Demon Lung",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-demon-lung.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Don't Shred On Me",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-dont-shred-on-me.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Full of Hell Weeping Chaos",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-full-of-hell-weeping-chaos.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Hail Satan Deluxe",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-hail-satan-deluxe.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Haunting Pools",
+		"Width": 2.6,
+		"Height": 5.03,
+		"Image": "abominable-haunting-pools.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Hellmouth",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-hellmouth.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Oppresive Cult Destroyer",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-oppresive-cult-destroyer.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Pedalboard Friendly C.E.N.",
+		"Width": 2.6,
+		"Height": 5.03,
+		"Image": "abominable-pedalboard-friendly-cen.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Pit Beef",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-pit-beef.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Radio Friendly Unit Shifter",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-radio-friendly-unit-shifter.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Throne Torcher",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-throne-torcher.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Sunnbather D.I.",
+		"Width": 4.89,
+		"Height": 3.93,
+		"Image": "abominable-sunnbather-di.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Toke Machine",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-toke-machine.png"
+	},
+	{
+		"Brand": "Abominable",
+		"Name": "Unholy Grail",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "abominable-unholy-grail.png"
+	},
+	{
 		"Brand": "AC Noises",
 		"Name": "Ama",
 		"Width": 2.6,
@@ -18363,17 +18468,17 @@
 	},
 	{
 		"Brand": "Fjord Fuzz",
-		"Name": "Fjær",
-		"Width": 2.52,
-		"Height": 4.78,
-		"Image": "fjord-fjaer.png"
-	},
-	{
-		"Brand": "Fjord Fuzz",
 		"Name": "Fenris",
 		"Width": 2.52,
 		"Height": 4.78,
 		"Image": "fjord-fenris.png"
+	},
+	{
+		"Brand": "Fjord Fuzz",
+		"Name": "Fjær",
+		"Width": 2.6,
+		"Height": 4.91,
+		"Image": "fjord-fjaer.png"
 	},
 	{
 		"Brand": "Fjord Fuzz",
@@ -18392,8 +18497,8 @@
 	{
 		"Brand": "Fjord Fuzz",
 		"Name": "Frei V2 (Black)",
-		"Width": 2.52,
-		"Height": 4.78,
+		"Width": 2.6,
+		"Height": 4.91,
 		"Image": "fjord-frei-v2-black.png"
 	},
 	{
@@ -18402,6 +18507,13 @@
 		"Width": 2.52,
 		"Height": 4.78,
 		"Image": "fjord-freia.png"
+	},
+	{
+		"Brand": "Fjord Fuzz",
+		"Name": "Frøy",
+		"Width": 2.6,
+		"Height": 4.91,
+		"Image": "fjord-froy.png"
 	},
 	{
 		"Brand": "Fjord Fuzz",
@@ -18423,6 +18535,13 @@
 		"Width": 2.52,
 		"Height": 4.89,
 		"Image": "fjord-loke.png"
+	},
+	{
+		"Brand": "Fjord Fuzz",
+		"Name": "Loke (Black)",
+		"Width": 2.6,
+		"Height": 4.98,
+		"Image": "fjord-loke-black.png"
 	},
 	{
 		"Brand": "Fjord Fuzz",
@@ -18461,6 +18580,13 @@
 	},
 	{
 		"Brand": "Fjord Fuzz",
+		"Name": "Odin (Black)",
+		"Width": 2.6,
+		"Height": 4.91,
+		"Image": "fjord-odin-black.png"
+	},
+	{
+		"Brand": "Fjord Fuzz",
 		"Name": "Sol",
 		"Width": 2.52,
 		"Height": 4.78,
@@ -18469,9 +18595,16 @@
 	{
 		"Brand": "Fjord Fuzz",
 		"Name": "Thor",
-		"Width": 2.52,
-		"Height": 4.78,
+		"Width": 2.6,
+		"Height": 4.91,
 		"Image": "fjord-thor.png"
+	},
+	{
+		"Brand": "Fjord Fuzz",
+		"Name": "Thor (Pink)",
+		"Width": 2.6,
+		"Height": 4.91,
+		"Image": "fjord-thor-pink.png"
 	},
 	{
 		"Brand": "Flamma",
@@ -38053,6 +38186,13 @@
 		"Image": "neural-dsp-quad-cortex.png"
 	},
 	{
+		"Brand": "Neural DSP",
+		"Name": "Quad Cortex Mini",
+		"Width": 8.86,
+		"Height": 4.6,
+		"Image": "neural-dsp-quad-cortex-mini.png"
+	},
+	{
 		"Brand": "Normal Devices",
 		"Name": "Delay Cascade",
 		"Width": 5.7,
@@ -38593,6 +38733,13 @@
 	},
 	{
 		"Brand": "OBNE",
+		"Name": "Expression Ramper (Parting)",
+		"Width": 1.69,
+		"Height": 3.88,
+		"Image": "obne-ramper-neon-parting.png"
+	},
+	{
+		"Brand": "OBNE",
 		"Name": "Expression Ramper (Screen Violence)",
 		"Width": 1.69,
 		"Height": 3.88,
@@ -38737,6 +38884,27 @@
 		"Width": 4.25,
 		"Height": 4.84,
 		"Image": "obne-pardner-fuzz-tan.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Parting (Green)",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-parting-green.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Parting (Purple)",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-parting-purple.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Parting (Stone)",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-parting-stone.png"
 	},
 	{
 		"Brand": "OBNE",
@@ -52598,6 +52766,20 @@
 		"Width": 6.75,
 		"Height": 5.28,
 		"Image": "warm-audio-centavo-silver.png"
+	},
+	{
+		"Brand": "Warm Audio",
+		"Name": "Fluff Drive (Teal)",
+		"Width": 2.82,
+		"Height": 5.13,
+		"Image": "warm-audio-flfw-teal.png"
+	},
+	{
+		"Brand": "Warm Audio",
+		"Name": "Fluff Drive (White)",
+		"Width": 2.82,
+		"Height": 5.13,
+		"Image": "warm-audio-flfw-white.png"
 	},
 	{
 		"Brand": "Warm Audio",
