@@ -3781,6 +3781,13 @@
 	},
 	{
 		"Brand": "Beetronics",
+		"Name": "Pollinator Hazee Delay",
+		"Width": 3.49,
+		"Height": 5.5,
+		"Image": "beetronics-pollinator-hazee-delay.png"
+	},
+	{
+		"Brand": "Beetronics",
 		"Name": "Royal Jelly",
 		"Width": 6.125,
 		"Height": 5,
@@ -34582,6 +34589,13 @@
 	},
 	{
 		"Brand": "Morningstar",
+		"Name": "MC4 Pro",
+		"Width": 4.5,
+		"Height": 4.2,
+		"Image": "morningstar-mc4-pro.png"
+	},
+	{
+		"Brand": "Morningstar",
 		"Name": "MC6 MKII",
 		"Width": 5.7,
 		"Height": 3.9,
@@ -34621,6 +34635,13 @@
 		"Width": 6.5,
 		"Height": 2.64,
 		"Image": "morningstar-ml5.png"
+	},
+	{
+		"Brand": "Morningstar",
+		"Name": "ML5R",
+		"Width": 6.65,
+		"Height": 2.53,
+		"Image": "morningstar-ml5r.png"
 	},
 	{
 		"Brand": "Morningstar",
@@ -35986,6 +36007,13 @@
 		"Width": 4.95,
 		"Height": 3.54,
 		"Image": "mxr-evh117.png"
+	},
+	{
+		"Brand": "MXR",
+		"Name": "EVH Modern High Gain",
+		"Width": 4.77,
+		"Height": 3.65,
+		"Image": "mxr-evhmhg.png"
 	},
 	{
 		"Brand": "MXR",
@@ -44123,6 +44151,13 @@
 	},
 	{
 		"Brand": "Seymour Duncan",
+		"Name": "Pickup Booster Mini",
+		"Width": 1.79,
+		"Height": 3.7,
+		"Image": "seymour-duncan-pickup-booster-mini.png"
+	},
+	{
+		"Brand": "Seymour Duncan",
 		"Name": "Polarion",
 		"Width": 3.5,
 		"Height": 4.94,
@@ -44470,6 +44505,13 @@
 		"Width": 2.33,
 		"Height": 4.55,
 		"Image": "shnobel-tone-dumbbell-boost.png"
+	},
+	{
+		"Brand": "Shnobel Tone",
+		"Name": "Dumbbell Driver",
+		"Width": 3.7,
+		"Height": 4.99,
+		"Image": "shnobel-tone-dumbbell-driver.png"
 	},
 	{
 		"Brand": "Shnobel Tone",
