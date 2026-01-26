@@ -41918,6 +41918,13 @@
 	},
 	{
 		"Brand": "Polyend",
+		"Name": "Endless",
+		"Width": 3.25,
+		"Height": 4.72,
+		"Image": "polyend-endless.png"
+	},
+	{
+		"Brand": "Polyend",
 		"Name": "Mess",
 		"Width": 7.09,
 		"Height": 4.91,
@@ -45782,6 +45789,13 @@
 	},
 	{
 		"Brand": "Sonicake",
+		"Name": "Source Comp",
+		"Width": 1.66,
+		"Height": 3.78,
+		"Image": "sonicake-source-comp.png"
+	},
+	{
+		"Brand": "Sonicake",
 		"Name": "Tone Group",
 		"Width": 4.88,
 		"Height": 3.69,
@@ -47357,6 +47371,13 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Brighton Treble Boost",
+		"Width": 1.71,
+		"Height": 3.7,
+		"Image": "suhr-brighton-treble-boost.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Discovery Analog Delay",
 		"Width": 4,
 		"Height": 5.09,
@@ -47378,10 +47399,24 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Dual Boost (Black)",
+		"Width": 2.71,
+		"Height": 4.57,
+		"Image": "suhr-dual-boost-black.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Eclipse",
 		"Width": 4.7,
 		"Height": 3.86,
 		"Image": "suhr-eclipse.png"
+	},
+	{
+		"Brand": "Suhr",
+		"Name": "Eclipse (Black)",
+		"Width": 4.7,
+		"Height": 3.85,
+		"Image": "suhr-eclipse-black.png"
 	},
 	{
 		"Brand": "Suhr",
@@ -47392,6 +47427,13 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Jack Rabbit (Black)",
+		"Width": 2.71,
+		"Height": 4.57,
+		"Image": "suhr-jackrabbit-black.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Koji Comp",
 		"Width": 2.67,
 		"Height": 4.54,
@@ -47399,10 +47441,24 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Koji Comp (Black)",
+		"Width": 2.67,
+		"Height": 4.54,
+		"Image": "suhr-koji-black.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Koko Boost",
 		"Width": 4.7,
 		"Height": 3.86,
 		"Image": "suhr-kokoboost.png"
+	},
+	{
+		"Brand": "Suhr",
+		"Name": "Koko Boost (Black)",
+		"Width": 2.71,
+		"Height": 4.57,
+		"Image": "suhr-koko-boost-black.png"
 	},
 	{
 		"Brand": "Suhr",
@@ -47427,10 +47483,24 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Riot (Black)",
+		"Width": 2.71,
+		"Height": 4.57,
+		"Image": "suhr-riot-black.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Riot Mini",
 		"Width": 1.74,
 		"Height": 3.7,
 		"Image": "suhr-riot-mini.png"
+	},
+	{
+		"Brand": "Suhr",
+		"Name": "Riot Mini (Black)",
+		"Width": 1.71,
+		"Height": 3.7,
+		"Image": "suhr-riot-mini-black.png"
 	},
 	{
 		"Brand": "Suhr",
@@ -47448,6 +47518,13 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Rufus (Black)",
+		"Width": 2.71,
+		"Height": 4.57,
+		"Image": "suhr-rufus-black.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Rufus Reloaded",
 		"Width": 2.67,
 		"Height": 4.54,
@@ -47462,6 +47539,20 @@
 	},
 	{
 		"Brand": "Suhr",
+		"Name": "Shiba Drive (Black)",
+		"Width": 2.71,
+		"Height": 4.57,
+		"Image": "suhr-shiba-drive-black.png"
+	},
+	{
+		"Brand": "Suhr",
+		"Name": "Shiba Drive Mini (Black)",
+		"Width": 1.71,
+		"Height": 3.7,
+		"Image": "suhr-shiba-mini-black.png"
+	},
+	{
+		"Brand": "Suhr",
 		"Name": "Shiba Drive Reloaded",
 		"Width": 2.67,
 		"Height": 4.54,
@@ -47473,6 +47564,13 @@
 		"Width": 1.74,
 		"Height": 3.7,
 		"Image": "suhr-shiba-mini.png"
+	},
+	{
+		"Brand": "Suhr",
+		"Name": "Thornicus Fuzz",
+		"Width": 4,
+		"Height": 5.09,
+		"Image": "suhr-thornicus-fuzz.png"
 	},
 	{
 		"Brand": "Suhr",
@@ -54446,6 +54544,13 @@
 		"Width": 3.26,
 		"Height": 5.04,
 		"Image": "wayhuge-havalina.png"
+	},
+	{
+		"Brand": "Way Huge",
+		"Name": "Jumbo Fuzz Swollen Pickle XXX",
+		"Width": 3.26,
+		"Height": 5.04,
+		"Image": "wayhuge-whe407.png"
 	},
 	{
 		"Brand": "Way Huge",
