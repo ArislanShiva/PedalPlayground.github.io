@@ -13358,6 +13358,13 @@
 	},
 	{
 		"Brand": "Drunk Beaver",
+		"Name": "Olbia",
+		"Width": 2.6,
+		"Height": 4.9,
+		"Image": "drunk-beaver-olbia.png"
+	},
+	{
+		"Brand": "Drunk Beaver",
 		"Name": "Over Drive OD-1",
 		"Width": 2.6,
 		"Height": 4.9,
@@ -29784,6 +29791,13 @@
 		"Width": 2.76,
 		"Height": 4.78,
 		"Image": "laney-bcc-st.png"
+	},
+	{
+		"Brand": "Laney BCC",
+		"Name": "Supergrace Loudpedal",
+		"Width": 7.83,
+		"Height": 5.53,
+		"Image": "laney-bcc-supergrace-loudpedal.png"
 	},
 	{
 		"Brand": "Laney BCC",
@@ -54134,6 +54148,13 @@
 	},
 	{
 		"Brand": "Wampler",
+		"Name": "Pedalhead",
+		"Width": 4.54,
+		"Height": 3.77,
+		"Image": "wampler-pedalhead.png"
+	},
+	{
+		"Brand": "Wampler",
 		"Name": "Phenom Distortion",
 		"Width": 2.5,
 		"Height": 4.58,
@@ -54187,6 +54208,13 @@
 		"Width": 1.81,
 		"Height": 3.7,
 		"Image": "wampler-ratsbane.png"
+	},
+	{
+		"Brand": "Wampler",
+		"Name": "Reflection",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "wampler-reflection.png"
 	},
 	{
 		"Brand": "Wampler",
