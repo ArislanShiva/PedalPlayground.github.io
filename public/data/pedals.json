@@ -48015,6 +48015,13 @@
 	},
 	{
 		"Brand": "T-Rex Effects",
+		"Name": "Fuzztopia",
+		"Width": 4.61,
+		"Height": 4.74,
+		"Image": "trex-fuzztopia.png"
+	},
+	{
+		"Brand": "T-Rex Effects",
 		"Name": "Hobo Drive",
 		"Width": 3.9,
 		"Height": 4.83,
@@ -48169,6 +48176,13 @@
 	},
 	{
 		"Brand": "T-Rex Effects",
+		"Name": "RoomMate D'Luxe",
+		"Width": 4.61,
+		"Height": 4.74,
+		"Image": "trex-roommate-dluxe.png"
+	},
+	{
+		"Brand": "T-Rex Effects",
 		"Name": "Soulmate Acoustic",
 		"Width": 15.75,
 		"Height": 5.96,
@@ -48215,6 +48229,13 @@
 		"Width": 2.4,
 		"Height": 4.87,
 		"Image": "trex-tunemaster.png"
+	},
+	{
+		"Brand": "T-Rex Effects",
+		"Name": "Twinblaze",
+		"Width": 7.67,
+		"Height": 4.74,
+		"Image": "trex-twinblaze.png"
 	},
 	{
 		"Brand": "T-Rex Effects",
