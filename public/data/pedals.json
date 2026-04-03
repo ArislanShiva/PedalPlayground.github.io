@@ -3151,9 +3151,16 @@
 	},
 	{
 		"Brand": "Bananana Effects",
+		"Name": "Quimera",
+		"Width": 5.7,
+		"Height": 4.9,
+		"Image": "bananana-effects-quimera.png"
+	},
+	{
+		"Brand": "Bananana Effects",
 		"Name": "Tararira",
 		"Width": 5.7,
-		"Height": 4.87,
+		"Height": 4.9,
 		"Image": "bananana-effects-tararira.png"
 	},
 	{
@@ -14058,6 +14065,13 @@
 	},
 	{
 		"Brand": "Dunlop",
+		"Name": "Cry Baby BB535 Wah Reissue",
+		"Width": 4.74,
+		"Height": 10,
+		"Image": "dunlop-bb535r.png"
+	},
+	{
+		"Brand": "Dunlop",
 		"Name": "Cry Baby Custom Badass Dual-Inductor Wah",
 		"Width": 4,
 		"Height": 10,
@@ -14164,8 +14178,8 @@
 	{
 		"Brand": "Dunlop",
 		"Name": "DVP5 Volume X 8",
-		"Width": 3.858,
-		"Height": 8,
+		"Width": 3.75,
+		"Height": 8.14,
 		"Image": "dunlop-volume-x-8.png"
 	},
 	{
@@ -14219,10 +14233,24 @@
 	},
 	{
 		"Brand": "Dunlop",
+		"Name": "Iron Maiden Killers Cry Baby Wah",
+		"Width": 4,
+		"Height": 10,
+		"Image": "dunlop-im95k.png"
+	},
+	{
+		"Brand": "Dunlop",
 		"Name": "Jerry Cantrell Firefly Cry Baby Wah",
 		"Width": 4.62,
 		"Height": 10,
 		"Image": "dunlop-jc95ffs.png"
+	},
+	{
+		"Brand": "Dunlop",
+		"Name": "Jerry Cantrell I Want Blood Cry Baby Wah",
+		"Width": 4.57,
+		"Height": 10,
+		"Image": "dunlop-jc95iwb.png"
 	},
 	{
 		"Brand": "Dunlop",
@@ -46911,8 +46939,15 @@
 		"Brand": "Soma",
 		"Name": "Cosmos",
 		"Width": 13.46,
-		"Height": 5.91,
+		"Height": 5.93,
 		"Image": "soma-cosmos.png"
+	},
+	{
+		"Brand": "Soma",
+		"Name": "Harvezi Hazze",
+		"Width": 4.52,
+		"Height": 5.31,
+		"Image": "soma-harvezi-hazze.png"
 	},
 	{
 		"Brand": "Sonicake",
