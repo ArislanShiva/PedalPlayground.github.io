@@ -40448,6 +40448,13 @@
 	},
 	{
 		"Brand": "One Control",
+		"Name": "Beth Reverb",
+		"Width": 3.28,
+		"Height": 4.72,
+		"Image": "onecontrol-br.png"
+	},
+	{
+		"Brand": "One Control",
 		"Name": "Blackberry Bass OD",
 		"Width": 2.6,
 		"Height": 4.45,
@@ -40564,6 +40571,13 @@
 		"Width": 1.84,
 		"Height": 3.94,
 		"Image": "onecontrol-ggbn.png"
+	},
+	{
+		"Brand": "One Control",
+		"Name": "Honey Bee OD 4K",
+		"Width": 2.6,
+		"Height": 4.45,
+		"Image": "onecontrol-hbod4k.png"
 	},
 	{
 		"Brand": "One Control",
@@ -40704,6 +40718,13 @@
 		"Width": 4.89,
 		"Height": 2.81,
 		"Image": "onecontrol-ms-mdsl.png"
+	},
+	{
+		"Brand": "One Control",
+		"Name": "Minimal Series MIDI Input Selector",
+		"Width": 1.8,
+		"Height": 3.73,
+		"Image": "onecontrol-m-mis.png"
 	},
 	{
 		"Brand": "One Control",
@@ -40858,6 +40879,13 @@
 		"Width": 1.84,
 		"Height": 3.94,
 		"Image": "onecontrol-stdn.png"
+	},
+	{
+		"Brand": "One Control",
+		"Name": "Shades of Green OD Deluxe",
+		"Width": 2.6,
+		"Height": 4.45,
+		"Image": "onecontrol-shades-of-green-od-deluxe.png"
 	},
 	{
 		"Brand": "One Control",
