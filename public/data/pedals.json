@@ -4502,17 +4502,136 @@
 	},
 	{
 		"Brand": "Big Joe",
-		"Name": "Analog Chorus",
-		"Width": 2.95,
+		"Name": "B-301 Tube",
+		"Width": 2.91,
 		"Height": 4.8,
-		"Image": "big-joe-analog-chorus.png"
+		"Image": "big-joe-b301-tube.png"
 	},
 	{
 		"Brand": "Big Joe",
-		"Name": "Li2",
-		"Width": 1.63,
+		"Name": "B-302 Rock",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b302-rock.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-303 Metal",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b303-metal.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-304 Analog Delay",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b304-analog-delay.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-305 Analog Chorus",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b305-analog-chorus.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-306 Analog Flange",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b306-analog-flange.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-309 Texas Screamer",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b309-texas-screamer.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-312 Freakshow Fuzz (Silicon)",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b312-freakshow-fuzz-silicon.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-313 Freakshow Fuzz (Germanium)",
+		"Width": 2.91,
+		"Height": 4.8,
+		"Image": "big-joe-b313-freakshow-fuzz-germanium.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "B-502 Empire",
+		"Width": 5,
+		"Height": 3.7,
+		"Image": "big-joe-b502-empire.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "PB-109 Power Box Li2",
+		"Width": 1.64,
 		"Height": 3.36,
 		"Image": "big-joe-li2.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "Power Box ISO4",
+		"Width": 1.64,
+		"Height": 3.36,
+		"Image": "big-joe-iso4.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-401 Saturated",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r401-saturated.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-402 Classic",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r402-classic.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-403 Vintage",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r403-vintage.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-404 Vintage II",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r404-vintage-2.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-405 Hard",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r405-hard.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-408 Phaser",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r408-phaser.png"
+	},
+	{
+		"Brand": "Big Joe",
+		"Name": "R-409 Tremolo",
+		"Width": 3.49,
+		"Height": 4.8,
+		"Image": "big-joe-r409-tremolo.png"
 	},
 	{
 		"Brand": "Bigfoot Engineering",
@@ -9221,6 +9340,13 @@
 	},
 	{
 		"Brand": "Chase Bliss",
+		"Name": "Habit (Shareware)",
+		"Width": 2.86,
+		"Height": 4.86,
+		"Image": "chasebliss-habit-shareware.png"
+	},
+	{
+		"Brand": "Chase Bliss",
 		"Name": "Lossy",
 		"Width": 2.86,
 		"Height": 4.86,
@@ -12585,6 +12711,13 @@
 		"Width": 2.65,
 		"Height": 4.4,
 		"Image": "digitech-ventura.png"
+	},
+	{
+		"Brand": "DigiTech",
+		"Name": "Whammy II",
+		"Width": 7.52,
+		"Height": 6.17,
+		"Image": "digitech-whammy-ii.png"
 	},
 	{
 		"Brand": "DigiTech",
@@ -46927,6 +47060,13 @@
 		"Width": 4.89,
 		"Height": 3.68,
 		"Image": "solidgoldfx-zetadlx.png"
+	},
+	{
+		"Brand": "SoloDallas",
+		"Name": "Compandrive 65",
+		"Width": 2.54,
+		"Height": 4.82,
+		"Image": "solodallas-compandrive.png"
 	},
 	{
 		"Brand": "SoloDallas",
