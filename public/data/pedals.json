@@ -53441,6 +53441,13 @@
 	},
 	{
 		"Brand": "Vemuram",
+		"Name": "Budi",
+		"Width": 2.75,
+		"Height": 4.5,
+		"Image": "vemuram-budi.png"
+	},
+	{
+		"Brand": "Vemuram",
 		"Name": "Budi-G",
 		"Width": 2.75,
 		"Height": 4.5,
@@ -53455,10 +53462,31 @@
 	},
 	{
 		"Brand": "Vemuram",
+		"Name": "DJ1",
+		"Width": 5.54,
+		"Height": 3.74,
+		"Image": "vemuram-dj1.png"
+	},
+	{
+		"Brand": "Vemuram",
+		"Name": "Galea",
+		"Width": 2.75,
+		"Height": 4.5,
+		"Image": "vemuram-galea.png"
+	},
+	{
+		"Brand": "Vemuram",
 		"Name": "Jan Ray",
 		"Width": 2.75,
 		"Height": 4.5,
 		"Image": "vemuram-janray.png"
+	},
+	{
+		"Brand": "Vemuram",
+		"Name": "Karen",
+		"Width": 2.75,
+		"Height": 4.5,
+		"Image": "vemuram-karen.png"
 	},
 	{
 		"Brand": "Vemuram",
@@ -53469,10 +53497,24 @@
 	},
 	{
 		"Brand": "Vemuram",
+		"Name": "Neoplex",
+		"Width": 2.75,
+		"Height": 4.5,
+		"Image": "vemuram-neoplex.png"
+	},
+	{
+		"Brand": "Vemuram",
 		"Name": "Oz",
 		"Width": 2.75,
 		"Height": 4.5,
 		"Image": "vemuram-oz.png"
+	},
+	{
+		"Brand": "Vemuram",
+		"Name": "Rage e",
+		"Width": 5.54,
+		"Height": 3.74,
+		"Image": "vemuram-rage-e.png"
 	},
 	{
 		"Brand": "Vemuram",
@@ -53494,6 +53536,13 @@
 		"Width": 2.91,
 		"Height": 4.5,
 		"Image": "vemuram-shanks-2.png"
+	},
+	{
+		"Brand": "Vemuram",
+		"Name": "Spiritone",
+		"Width": 6.13,
+		"Height": 4.06,
+		"Image": "vemuram-spiritone.png"
 	},
 	{
 		"Brand": "Veri-Tone",
@@ -54359,8 +54408,8 @@
 	{
 		"Brand": "VTR Effects",
 		"Name": "Venator Distortion",
-		"Width": 3.32,
-		"Height": 4.9,
+		"Width": 3.26,
+		"Height": 4.83,
 		"Image": "vtr-venator.png"
 	},
 	{
