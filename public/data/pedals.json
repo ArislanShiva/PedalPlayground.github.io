@@ -14547,6 +14547,20 @@
 		"Image": "dunlop-wa45.png"
 	},
 	{
+		"Brand": "Durham Electronics",
+		"Name": "Crazy Horse",
+		"Width": 2.73,
+		"Height": 4.5,
+		"Image": "durham-crazy-horse.png"
+	},
+	{
+		"Brand": "Durham Electronics",
+		"Name": "Crazy Horse (Big)",
+		"Width": 4.87,
+		"Height": 3.8,
+		"Image": "durham-crazy-horse-big.png"
+	},
+	{
 		"Brand": "Dusky Electronics",
 		"Name": "Augustus",
 		"Width": 2.88,
@@ -39895,13 +39909,6 @@
 	},
 	{
 		"Brand": "OBNE",
-		"Name": "Expression Ramper X3",
-		"Width": 5.15,
-		"Height": 4.12,
-		"Image": "obne-ramper-x3.png"
-	},
-	{
-		"Brand": "OBNE",
 		"Name": "Expression Ramper (Beam Splitter)",
 		"Width": 1.69,
 		"Height": 3.88,
@@ -40007,6 +40014,34 @@
 	},
 	{
 		"Brand": "OBNE",
+		"Name": "Expression Ramper Folded",
+		"Width": 2,
+		"Height": 3.89,
+		"Image": "obne-ramper-folded.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Expression Ramper Folded (HK)",
+		"Width": 2,
+		"Height": 3.89,
+		"Image": "obne-ramper-folded-hk.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Expression Ramper Folded (Setback)",
+		"Width": 2,
+		"Height": 3.89,
+		"Image": "obne-ramper-folded-setback.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Expression Ramper X3",
+		"Width": 5.15,
+		"Height": 4.12,
+		"Image": "obne-ramper-x3.png"
+	},
+	{
+		"Brand": "OBNE",
 		"Name": "Expression Slider",
 		"Width": 1.5,
 		"Height": 3.88,
@@ -40025,6 +40060,27 @@
 		"Width": 1.5,
 		"Height": 3.88,
 		"Image": "obne-slider-hk.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Expression Slider Folded",
+		"Width": 2,
+		"Height": 3.89,
+		"Image": "obne-slider-folded.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Expression Slider Folded (HK)",
+		"Width": 2,
+		"Height": 3.89,
+		"Image": "obne-slider-folded-hk.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Expression Slider Folded (Setback)",
+		"Width": 2,
+		"Height": 3.89,
+		"Image": "obne-slider-folded-setback.png"
 	},
 	{
 		"Brand": "OBNE",
@@ -40228,6 +40284,27 @@
 		"Width": 4.85,
 		"Height": 5.92,
 		"Image": "obne-screenviolence-pinkblue.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Setback Reverse (Begonia)",
+		"Width": 3.31,
+		"Height": 4.84,
+		"Image": "obne-setback-reverse-begonia.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Setback Reverse (Hydrangea)",
+		"Width": 3.31,
+		"Height": 4.84,
+		"Image": "obne-setback-reverse-hydrangea.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Setback Reverse (Petunia)",
+		"Width": 3.31,
+		"Height": 4.84,
+		"Image": "obne-setback-reverse-petunia.png"
 	},
 	{
 		"Brand": "OBNE",
