@@ -41315,6 +41315,90 @@
 		"Image": "orange-two-stroke.png"
 	},
 	{
+		"Brand": "Organic Sounds",
+		"Name": "Ares",
+		"Width": 4,
+		"Height": 4.55,
+		"Image": "organic-sounds-ares.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Chronos",
+		"Width": 4,
+		"Height": 4.55,
+		"Image": "organic-sounds-chronos.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Hades",
+		"Width": 2.78,
+		"Height": 4.72,
+		"Image": "organic-sounds-hades.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Hercules",
+		"Width": 2.78,
+		"Height": 4.72,
+		"Image": "organic-sounds-hercules.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Hydra",
+		"Width": 4,
+		"Height": 4.55,
+		"Image": "organic-sounds-hydra.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Kerberos",
+		"Width": 2.83,
+		"Height": 4.55,
+		"Image": "organic-sounds-kerberos.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Orthros (Germanium)",
+		"Width": 2.78,
+		"Height": 4.72,
+		"Image": "organic-sounds-orthros-ge.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Orthros (Silicon)",
+		"Width": 2.78,
+		"Height": 4.72,
+		"Image": "organic-sounds-orthros.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Poseidon",
+		"Width": 3.43,
+		"Height": 4.55,
+		"Image": "organic-sounds-poseidon.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Rain Storm",
+		"Width": 4,
+		"Height": 4.55,
+		"Image": "organic-sounds-rain-storm.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Small Tower",
+		"Width": 4,
+		"Height": 4.55,
+		"Image": "organic-sounds-small-tower.png"
+	},
+	{
+		"Brand": "Organic Sounds",
+		"Name": "Zeus",
+		"Width": 4,
+		"Height": 4.55,
+		"Image": "organic-sounds-zeus.png"
+	},
+	{
 		"Brand": "Origin Effects",
 		"Name": "Bassrig Fifteen",
 		"Width": 3.6,
