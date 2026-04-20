@@ -2647,6 +2647,13 @@
 	},
 	{
 		"Brand": "API",
+		"Name": "TranZformer GT",
+		"Width": 5.5,
+		"Height": 8,
+		"Image": "api-tranzformer-gt.png"
+	},
+	{
+		"Brand": "API",
 		"Name": "TranZformer GTR",
 		"Width": 4.82,
 		"Height": 3.74,
@@ -12291,6 +12298,13 @@
 		"Width": 5.01,
 		"Height": 4.88,
 		"Image": "diamond-phase.png"
+	},
+	{
+		"Brand": "Diamond",
+		"Name": "Phase (2026)",
+		"Width": 2.6,
+		"Height": 4.94,
+		"Image": "diamond-phase-2026.png"
 	},
 	{
 		"Brand": "Diamond",
@@ -29213,6 +29227,13 @@
 	},
 	{
 		"Brand": "Keeley",
+		"Name": "Red Nectar",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "keeley-red-nectar.png"
+	},
+	{
+		"Brand": "Keeley",
 		"Name": "Remote Switcher (Dream)",
 		"Width": 4.5,
 		"Height": 2.61,
@@ -29252,6 +29273,13 @@
 		"Width": 4.5,
 		"Height": 2.61,
 		"Image": "keeley-remote-switcher-octa-psi.png"
+	},
+	{
+		"Brand": "Keeley",
+		"Name": "RK2000",
+		"Width": 4,
+		"Height": 5.04,
+		"Image": "keeley-rk2000.png"
 	},
 	{
 		"Brand": "Keeley",
@@ -38537,6 +38565,13 @@
 	},
 	{
 		"Brand": "NuX",
+		"Name": "A/B Roll",
+		"Width": 2.05,
+		"Height": 3.7,
+		"Image": "nux-ab-roll.png"
+	},
+	{
+		"Brand": "NuX",
 		"Name": "Ace of Tone",
 		"Width": 4.13,
 		"Height": 4.47,
@@ -38810,6 +38845,20 @@
 	},
 	{
 		"Brand": "NuX",
+		"Name": "MG-50Li",
+		"Width": 15.47,
+		"Height": 8.18,
+		"Image": "nux-mg50li.png"
+	},
+	{
+		"Brand": "NuX",
+		"Name": "MG-50Li (White)",
+		"Width": 15.47,
+		"Height": 8.18,
+		"Image": "nux-mg50li-white.png"
+	},
+	{
+		"Brand": "NuX",
 		"Name": "Mini SCF",
 		"Width": 2.09,
 		"Height": 3.7,
@@ -39045,6 +39094,13 @@
 		"Width": 2.06,
 		"Height": 3.7,
 		"Image": "nux-tube-man.png"
+	},
+	{
+		"Brand": "NuX",
+		"Name": "Tutti",
+		"Width": 2.05,
+		"Height": 3.7,
+		"Image": "nux-tutti.png"
 	},
 	{
 		"Brand": "NuX",
