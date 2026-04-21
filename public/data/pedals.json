@@ -3830,6 +3830,20 @@
 	},
 	{
 		"Brand": "Beetronics",
+		"Name": "Seabee Lite",
+		"Width": 3.55,
+		"Height": 5.5,
+		"Image": "beetronics-seabee-lite.png"
+	},
+	{
+		"Brand": "Beetronics",
+		"Name": "Seabee Lite (Cream)",
+		"Width": 3.55,
+		"Height": 5.5,
+		"Image": "beetronics-seabee-lite-cream.png"
+	},
+	{
+		"Brand": "Beetronics",
 		"Name": "Swarm",
 		"Width": 3.99,
 		"Height": 5.5,
@@ -3841,6 +3855,13 @@
 		"Width": 4.17,
 		"Height": 3.5,
 		"Image": "beetronics-tuna-fuzz.png"
+	},
+	{
+		"Brand": "Beetronics",
+		"Name": "Tuna Fuzz Gold",
+		"Width": 4.17,
+		"Height": 3.5,
+		"Image": "beetronics-tuna-fuzz-gold.png"
 	},
 	{
 		"Brand": "Beetronics",
@@ -34201,6 +34222,20 @@
 		"Width": 2.91,
 		"Height": 4.8,
 		"Image": "mjm-phantom.png"
+	},
+	{
+		"Brand": "MMK Electrics",
+		"Name": "Fireweed Fuzz",
+		"Width": 2.4,
+		"Height": 4.37,
+		"Image": "mmk-fireweed.png"
+	},
+	{
+		"Brand": "MMK Electrics",
+		"Name": "Three Ptarmigan",
+		"Width": 2.4,
+		"Height": 4.37,
+		"Image": "mmk-three-ptarmigan.png"
 	},
 	{
 		"Brand": "Moen",
