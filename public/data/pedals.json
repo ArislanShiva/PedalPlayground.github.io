@@ -7246,6 +7246,20 @@
 		"Image": "boss-xs100.png"
 	},
 	{
+		"Brand": "Bowman Audio Endeavors",
+		"Name": "Fortune and Glory",
+		"Width": 2.4,
+		"Height": 4.74,
+		"Image": "bowman-fortune-and-glory.png"
+	},
+	{
+		"Brand": "Bowman Audio Endeavors",
+		"Name": "The Bowman Drive",
+		"Width": 4.7,
+		"Height": 3.81,
+		"Image": "bowman-the-bowman-drive.png"
+	},
+	{
 		"Brand": "Bright Onion",
 		"Name": "12 Switcher",
 		"Width": 26.378,
@@ -48540,6 +48554,13 @@
 	},
 	{
 		"Brand": "Strymon",
+		"Name": "Canoga",
+		"Width": 2.83,
+		"Height": 4.43,
+		"Image": "strymon-canoga.png"
+	},
+	{
+		"Brand": "Strymon",
 		"Name": "Cloudburst",
 		"Width": 2.7,
 		"Height": 4.43,
@@ -55286,6 +55307,13 @@
 		"Width": 2.31,
 		"Height": 4.44,
 		"Image": "walrus-fundamental-tremolo.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "High Point",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "walrus-high-point.png"
 	},
 	{
 		"Brand": "Walrus Audio",
