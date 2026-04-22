@@ -16165,6 +16165,13 @@
 	},
 	{
 		"Brand": "Electro-Harmonix",
+		"Name": "Bass Big Muff Pi 2",
+		"Width": 2.82,
+		"Height": 4.5,
+		"Image": "ehx-bass-big-muff-pi-2.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
 		"Name": "Bass Clone",
 		"Width": 2.82,
 		"Height": 4.5,
@@ -16235,13 +16242,6 @@
 	},
 	{
 		"Brand": "Electro-Harmonix",
-		"Name": "Big Muff 2",
-		"Width": 2.73,
-		"Height": 4.5,
-		"Image": "ehx-big-muff-2.png"
-	},
-	{
-		"Brand": "Electro-Harmonix",
 		"Name": "Big Muff 2 (Big Box)",
 		"Width": 5.5,
 		"Height": 7,
@@ -16253,6 +16253,20 @@
 		"Width": 5.5,
 		"Height": 7,
 		"Image": "ehx-big-muff-2-third-man.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
+		"Name": "Big Muff Pi 2",
+		"Width": 2.73,
+		"Height": 4.5,
+		"Image": "ehx-big-muff-2.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
+		"Name": "Big Muff Pi 2 with Tone Wicker",
+		"Width": 3.9,
+		"Height": 4.75,
+		"Image": "ehx-big-muff-pi-2-tone-wicker.png"
 	},
 	{
 		"Brand": "Electro-Harmonix",
