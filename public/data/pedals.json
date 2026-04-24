@@ -2668,10 +2668,24 @@
 	},
 	{
 		"Brand": "Apollo Approved",
+		"Name": "Buckartie-Boo",
+		"Width": 4.04,
+		"Height": 4.7,
+		"Image": "apollo-approved-buckartie-boo.png"
+	},
+	{
+		"Brand": "Apollo Approved",
 		"Name": "Skyscraper",
 		"Width": 2.94,
 		"Height": 4.8,
 		"Image": "apollo-approved-skyscraper.png"
+	},
+	{
+		"Brand": "Apollo Approved",
+		"Name": "Thurston Drive+",
+		"Width": 5.7,
+		"Height": 4.98,
+		"Image": "apollo-approved-thurston-drive-plus.png"
 	},
 	{
 		"Brand": "Apple",
@@ -52444,6 +52458,13 @@
 		"Width": 5.11,
 		"Height": 4.35,
 		"Image": "truetone-vsxo.png"
+	},
+	{
+		"Brand": "Tsakalis",
+		"Name": "AC Master",
+		"Width": 4.72,
+		"Height": 3.83,
+		"Image": "tsakalis-ac-master.png"
 	},
 	{
 		"Brand": "Tsakalis",
