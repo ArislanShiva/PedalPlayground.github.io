@@ -7302,6 +7302,13 @@
 		"Image": "britishpedalco-dumble-silver-face.png"
 	},
 	{
+		"Brand": "Broken Box Audio",
+		"Name": "Concrete Cowboy",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "broken-box-concrete-cowboy.png"
+	},
+	{
 		"Brand": "Broughton",
 		"Name": "High Pass Filter",
 		"Width": 1.95,
@@ -37844,6 +37851,13 @@
 	},
 	{
 		"Brand": "MXR",
+		"Name": "Wylde Overdrive",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "mxr-zw44.png"
+	},
+	{
+		"Brand": "MXR",
 		"Name": "Yngwie Malmsteen Overdrive",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -54316,6 +54330,13 @@
 	},
 	{
 		"Brand": "Vongon",
+		"Name": "Rosetones",
+		"Width": 6.5,
+		"Height": 5.5,
+		"Image": "vongon-rosetones.png"
+	},
+	{
+		"Brand": "Vongon",
 		"Name": "Solarfaze",
 		"Width": 6.5,
 		"Height": 5.5,
@@ -56182,6 +56203,13 @@
 		"Width": 2.6,
 		"Height": 5,
 		"Image": "wampler-pinnacle.png"
+	},
+	{
+		"Brand": "Wampler",
+		"Name": "Pinnacle v1",
+		"Width": 2.94,
+		"Height": 5.11,
+		"Image": "wampler-pinnacle-v1.png"
 	},
 	{
 		"Brand": "Wampler",
