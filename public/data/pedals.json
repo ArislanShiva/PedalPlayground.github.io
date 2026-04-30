@@ -9270,6 +9270,13 @@
 	},
 	{
 		"Brand": "Chase Bliss",
+		"Name": "Big Time",
+		"Width": 5.75,
+		"Height": 6.58,
+		"Image": "chasebliss-big-time.png"
+	},
+	{
+		"Brand": "Chase Bliss",
 		"Name": "Bliss Factory",
 		"Width": 2.86,
 		"Height": 4.86,
@@ -9335,7 +9342,7 @@
 		"Brand": "Chase Bliss",
 		"Name": "CXM 1978",
 		"Width": 5.75,
-		"Height": 6.5,
+		"Height": 6.58,
 		"Image": "chasebliss-cxm1978.png"
 	},
 	{
@@ -9510,7 +9517,7 @@
 		"Brand": "Chase Bliss",
 		"Name": "Preamp MKII",
 		"Width": 5.75,
-		"Height": 6.5,
+		"Height": 6.58,
 		"Image": "chasebliss-preamp-mkii.png"
 	},
 	{
@@ -10740,6 +10747,13 @@
 	},
 	{
 		"Brand": "Crazy Tube Circuits",
+		"Name": "Triptychon",
+		"Width": 2.71,
+		"Height": 4.9,
+		"Image": "ctc-triptychon.png"
+	},
+	{
+		"Brand": "Crazy Tube Circuits",
 		"Name": "TI:ME mkIII",
 		"Width": 2.6,
 		"Height": 4.9,
@@ -11598,6 +11612,13 @@
 		"Width": 5.01,
 		"Height": 3.7,
 		"Image": "dawner-prince-diktator-mk2.png"
+	},
+	{
+		"Brand": "Dawner Prince",
+		"Name": "Eclipsa",
+		"Width": 4.17,
+		"Height": 3.32,
+		"Image": "dawner-prince-eclipsa.png"
 	},
 	{
 		"Brand": "Dawner Prince",
@@ -35876,6 +35897,13 @@
 		"Image": "morley-volume-commander.png"
 	},
 	{
+		"Brand": "Morley x DOD",
+		"Name": "Wah-ocTo-Fuzz",
+		"Width": 4.73,
+		"Height": 7.62,
+		"Image": "morley-wah-octo-fuzz.png"
+	},
+	{
 		"Brand": "Morningstar",
 		"Name": "MC3",
 		"Width": 4.8,
@@ -43672,6 +43700,13 @@
 		"Width": 4.7,
 		"Height": 3.76,
 		"Image": "proanalog-manticore.png"
+	},
+	{
+		"Brand": "Progress Pedals",
+		"Name": "DAD250+",
+		"Width": 2.6,
+		"Height": 4.94,
+		"Image": "progress-dad250plus.png"
 	},
 	{
 		"Brand": "Providence",
@@ -51604,6 +51639,20 @@
 		"Width": 3.01,
 		"Height": 4.84,
 		"Image": "thermion-outlaw.png"
+	},
+	{
+		"Brand": "Thermion",
+		"Name": "PowerDrive",
+		"Width": 2.7,
+		"Height": 4.58,
+		"Image": "thermion-powerdrive.png"
+	},
+	{
+		"Brand": "Thermion",
+		"Name": "PowerMuff",
+		"Width": 2.7,
+		"Height": 4.58,
+		"Image": "thermion-powermuff.png"
 	},
 	{
 		"Brand": "Thermion",
