@@ -49498,6 +49498,90 @@
 		"Image": "summer-school-electronics-the-class-reunion.png"
 	},
 	{
+		"Brand": "Supercool",
+		"Name": "77 Fuzz Blender",
+		"Width": 4.01,
+		"Height": 4.79,
+		"Image": "supercool-77-fuzz-blender.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "77 Fuzz Lite",
+		"Width": 2.69,
+		"Height": 4.56,
+		"Image": "supercool-77-fuzz-lite.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "800",
+		"Width": 2.69,
+		"Height": 4.56,
+		"Image": "supercool-800.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "Caffeine Boost",
+		"Width": 1.88,
+		"Height": 3.7,
+		"Image": "supercool-caffeine-boost.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "Smoking In The Boys Room",
+		"Width": 4.7,
+		"Height": 3.87,
+		"Image": "supercool-smoking-in-the-boys-room.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "Spritz!",
+		"Width": 2.69,
+		"Height": 4.56,
+		"Image": "supercool-spritz.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "The Barstow Bat",
+		"Width": 4.01,
+		"Height": 4.79,
+		"Image": "supercool-the-barstow-bat.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "The Buffula",
+		"Width": 1.88,
+		"Height": 3.7,
+		"Image": "supercool-the-buffula.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "The Cutback",
+		"Width": 4.01,
+		"Height": 4.74,
+		"Image": "supercool-the-cutback.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "The Thneed",
+		"Width": 2.69,
+		"Height": 4.56,
+		"Image": "supercool-the-thneed.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "Triniphase",
+		"Width": 4.01,
+		"Height": 4.74,
+		"Image": "supercool-triniphase.png"
+	},
+	{
+		"Brand": "Supercool",
+		"Name": "Zig-Zag",
+		"Width": 2.69,
+		"Height": 4.56,
+		"Image": "supercool-zig-zag.png"
+	},
+	{
 		"Brand": "Superlunar",
 		"Name": "SR-01",
 		"Width": 3.7,
