@@ -24243,6 +24243,13 @@
 	},
 	{
 		"Brand": "Heather Brown",
+		"Name": "The Blessed Mother: Dolorosa",
+		"Width": 5.2,
+		"Height": 3.7,
+		"Image": "hbe-the-blessed-mother-dolorosa.png"
+	},
+	{
+		"Brand": "Heather Brown",
 		"Name": "The Blessed Mother: The Fuzz Assumption",
 		"Width": 5.14,
 		"Height": 3.7,
@@ -46334,6 +46341,20 @@
 		"Image": "shnobel-volume-expression-selector-box.png"
 	},
 	{
+		"Brand": "Shotmaker",
+		"Name": "The Healer",
+		"Width": 2.99,
+		"Height": 5.3,
+		"Image": "shotmaker-the-healer.png"
+	},
+	{
+		"Brand": "Shotmaker",
+		"Name": "The Heartbeat",
+		"Width": 6.1,
+		"Height": 5.25,
+		"Image": "shotmaker-the-heartbeat.png"
+	},
+	{
 		"Brand": "Smallsound/Bigsound",
 		"Name": "Buzzz",
 		"Width": 3.7,
@@ -50206,10 +50227,24 @@
 	},
 	{
 		"Brand": "Tallon Electic",
+		"Name": "The Banshee",
+		"Width": 3.7,
+		"Height": 4.95,
+		"Image": "tallon-electric-the-banshee.png"
+	},
+	{
+		"Brand": "Tallon Electic",
 		"Name": "The Hog",
 		"Width": 4.7,
 		"Height": 3.82,
 		"Image": "tallon--electric-the-hog.png"
+	},
+	{
+		"Brand": "Tallon Electic",
+		"Name": "The Noise",
+		"Width": 3.7,
+		"Height": 4.83,
+		"Image": "tallon-electric-the-noise.png"
 	},
 	{
 		"Brand": "Tampco",
