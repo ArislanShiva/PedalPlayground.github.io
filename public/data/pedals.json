@@ -54939,6 +54939,13 @@
 	},
 	{
 		"Brand": "VTR Effects",
+		"Name": "Ignis Amp Modeler",
+		"Width": 3.96,
+		"Height": 4.8,
+		"Image": "vtr-ignis.png"
+	},
+	{
+		"Brand": "VTR Effects",
 		"Name": "Indigo Reverb V2",
 		"Width": 2.69,
 		"Height": 4.9,
