@@ -8444,6 +8444,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Clean Little Secret",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-clean-little-secret.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Cloak",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -8626,6 +8633,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Galileo 4K",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-galileo-4k.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Giygas",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -8637,6 +8651,13 @@
 		"Width": 2.7,
 		"Height": 4.5,
 		"Image": "catalinbread-giygas-2k.png"
+	},
+	{
+		"Brand": "Catalinbread",
+		"Name": "Little Secret",
+		"Width": 1.8,
+		"Height": 3.7,
+		"Image": "catalinbread-little-secret.png"
 	},
 	{
 		"Brand": "Catalinbread",
@@ -8850,6 +8871,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Sinkhole (Arthaus)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-sinkhole-arthaus.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Skewer",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -8864,10 +8892,24 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Soft Focus (Arthaus)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-soft-focus-arthaus.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Soft Focus (Gold)",
 		"Width": 2.7,
 		"Height": 4.5,
 		"Image": "catalinbread-soft-focus-gold.png"
+	},
+	{
+		"Brand": "Catalinbread",
+		"Name": "Soft Focus (LCD Green)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-soft-focus-lcd-green.png"
 	},
 	{
 		"Brand": "Catalinbread",
@@ -8934,6 +8976,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Talisman (Arthaus)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-talisman-arthaus.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Talisman (Gallery Series)",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -8959,6 +9008,13 @@
 		"Width": 2.7,
 		"Height": 4.5,
 		"Image": "catalinbread-topanga.png"
+	},
+	{
+		"Brand": "Catalinbread",
+		"Name": "Topanga (Arthaus)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-topanga-arthaus.png"
 	},
 	{
 		"Brand": "Catalinbread",
@@ -17989,6 +18045,13 @@
 		"Width": 2.6,
 		"Height": 4.5,
 		"Image": "empress-distortion.png"
+	},
+	{
+		"Brand": "Empress",
+		"Name": "Drive",
+		"Width": 2.6,
+		"Height": 5.16,
+		"Image": "empress-drive.png"
 	},
 	{
 		"Brand": "Empress",
