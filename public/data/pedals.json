@@ -2969,17 +2969,24 @@
 	},
 	{
 		"Brand": "Asheville Music Tools",
+		"Name": "ACV-NOS",
+		"Width": 3.7,
+		"Height": 4.96,
+		"Image": "asheville-acv-nos.png"
+	},
+	{
+		"Brand": "Asheville Music Tools",
 		"Name": "ADG-1",
 		"Width": 3.7,
 		"Height": 4.96,
 		"Image": "asheville-adg1.png"
 	},
 	{
-			"Brand": "Asheville Music Tools",
-			"Name": "ADG-1 SE",
-			"Width": 3.81,
-			"Height": 4.96,
-			"Image": "asheville-adg1-se.png"
+		"Brand": "Asheville Music Tools",
+		"Name": "ADG-1 SE",
+		"Width": 3.81,
+		"Height": 4.96,
+		"Image": "asheville-adg1-se.png"
 	},
 	{
 		"Brand": "Asheville Music Tools",
@@ -47637,6 +47644,20 @@
 	},
 	{
 		"Brand": "Sonicake",
+		"Name": "Junction Box",
+		"Width": 2.75,
+		"Height": 4.53,
+		"Image": "sonicake-junction-box.png"
+	},
+	{
+		"Brand": "Sonicake",
+		"Name": "King of Twins",
+		"Width": 4.88,
+		"Height": 3.69,
+		"Image": "sonicake-king-of-twins.png"
+	},
+	{
+		"Brand": "Sonicake",
 		"Name": "Levitate",
 		"Width": 4.88,
 		"Height": 3.69,
@@ -47693,6 +47714,13 @@
 	},
 	{
 		"Brand": "Sonicake",
+		"Name": "Smart Box",
+		"Width": 5.31,
+		"Height": 4.37,
+		"Image": "sonicake-smart-box.png"
+	},
+	{
+		"Brand": "Sonicake",
 		"Name": "Sonic Ambience",
 		"Width": 1.66,
 		"Height": 3.78,
@@ -47714,6 +47742,13 @@
 	},
 	{
 		"Brand": "Sonicake",
+		"Name": "Sonic One Loop",
+		"Width": 2.75,
+		"Height": 4.53,
+		"Image": "sonicake-sonic-one-loop.png"
+	},
+	{
+		"Brand": "Sonicake",
 		"Name": "Sonicbar RockStage",
 		"Width": 10.32,
 		"Height": 2.48,
@@ -47725,6 +47760,13 @@
 		"Width": 1.66,
 		"Height": 3.78,
 		"Image": "sonicake-source-comp.png"
+	},
+	{
+		"Brand": "Sonicake",
+		"Name": "Thump",
+		"Width": 4.88,
+		"Height": 3.69,
+		"Image": "sonicake-thump.png"
 	},
 	{
 		"Brand": "Sonicake",
@@ -57813,6 +57855,13 @@
 		"Width": 1.81,
 		"Height": 3.7,
 		"Image": "xvive-o1-tube-squasher.png"
+	},
+	{
+		"Brand": "Xvive",
+		"Name": "P58 Guitar Wireless System",
+		"Width": 2.95,
+		"Height": 4.53,
+		"Image": "xvive-p58.png"
 	},
 	{
 		"Brand": "Xvive",
