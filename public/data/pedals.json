@@ -7283,8 +7283,8 @@
 	{
 		"Brand": "Bright Onion",
 		"Name": "12 Switcher",
-		"Width": 26.378,
-		"Height": 2.3622,
+		"Width": 26.38,
+		"Height": 2.36,
 		"Image": "brightonion-12switcher.png"
 	},
 	{
@@ -7293,6 +7293,13 @@
 		"Width": 3.7,
 		"Height": 1.68,
 		"Image": "brightonion-hxfs.png"
+	},
+	{
+		"Brand": "Bright Onion",
+		"Name": "Mini Looper",
+		"Width": 1.89,
+		"Height": 3.75,
+		"Image": "brightonion-mini-looper.png"
 	},
 	{
 		"Brand": "British Pedal Company",
@@ -10240,6 +10247,13 @@
 		"Width": 3.7,
 		"Height": 4.9,
 		"Image": "colortone-lofi-delay.png"
+	},
+	{
+		"Brand": "Colortone",
+		"Name": "Parasite",
+		"Width": 3.11,
+		"Height": 5,
+		"Image": "colortone-parasite.png"
 	},
 	{
 		"Brand": "Colortone",
@@ -25440,6 +25454,13 @@
 	},
 	{
 		"Brand": "IK Multimedia",
+		"Name": "TONEX One+",
+		"Width": 1.73,
+		"Height": 3.7,
+		"Image": "ikm-tonex-one-plus.png"
+	},
+	{
+		"Brand": "IK Multimedia",
 		"Name": "X-Drive",
 		"Width": 6.88,
 		"Height": 5.55,
@@ -26777,6 +26798,13 @@
 	},
 	{
 		"Brand": "JHS",
+		"Name": "3 Series Bit Crusher",
+		"Width": 2.68,
+		"Height": 4.42,
+		"Image": "jhs-3-series-bit-crusher.png"
+	},
+	{
+		"Brand": "JHS",
 		"Name": "3 Series Chorus",
 		"Width": 2.68,
 		"Height": 4.42,
@@ -26816,6 +26844,13 @@
 		"Width": 2.68,
 		"Height": 4.42,
 		"Image": "jhs-3-series-fuzz.png"
+	},
+	{
+		"Brand": "JHS",
+		"Name": "3 Series Glitch Delay",
+		"Width": 2.68,
+		"Height": 4.42,
+		"Image": "jhs-3-series-glitch-delay.png"
 	},
 	{
 		"Brand": "JHS",
@@ -26872,6 +26907,13 @@
 		"Width": 2.68,
 		"Height": 4.42,
 		"Image": "jhs-3-series-reverb.png"
+	},
+	{
+		"Brand": "JHS",
+		"Name": "3 Series Ring Modulator",
+		"Width": 2.68,
+		"Height": 4.42,
+		"Image": "jhs-3-series-ring-modulator.png"
 	},
 	{
 		"Brand": "JHS",
@@ -52073,6 +52115,13 @@
 		"Width": 2.76,
 		"Height": 4.89,
 		"Image": "thorpyfx-heavy-water.png"
+	},
+	{
+		"Brand": "ThorpyFX",
+		"Name": "Kudu",
+		"Width": 2.76,
+		"Height": 4.89,
+		"Image": "thorpyfx-kudu.png"
 	},
 	{
 		"Brand": "ThorpyFX",
