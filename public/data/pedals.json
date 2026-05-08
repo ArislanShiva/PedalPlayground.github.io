@@ -2675,6 +2675,13 @@
 	},
 	{
 		"Brand": "Apollo Approved",
+		"Name": "Buckartie-Boo V3",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "apollo-approved-buckartie-boo-v3.png"
+	},
+	{
+		"Brand": "Apollo Approved",
 		"Name": "Skyscraper",
 		"Width": 2.94,
 		"Height": 4.8,
@@ -48572,6 +48579,13 @@
 		"Width": 4.7,
 		"Height": 3.85,
 		"Image": "spiral-yellow-spiral-drive.png"
+	},
+	{
+		"Brand": "Spline Laboratories",
+		"Name": "Archangel",
+		"Width": 2.6,
+		"Height": 4.95,
+		"Image": "spline-laboratories-archangel.png"
 	},
 	{
 		"Brand": "Spline Laboratories",
