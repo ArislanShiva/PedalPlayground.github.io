@@ -6406,6 +6406,20 @@
 	},
 	{
 		"Brand": "BOSS",
+		"Name": "Gigmaster 5",
+		"Width": 7,
+		"Height": 8.53,
+		"Image": "boss-gigmaster-5.png"
+	},
+	{
+		"Brand": "BOSS",
+		"Name": "Gigmaster 8",
+		"Width": 8.53,
+		"Height": 10.6,
+		"Image": "boss-gigmaster-8.png"
+	},
+	{
+		"Brand": "BOSS",
 		"Name": "GM-800 Guitar Synthesizer",
 		"Width": 9.69,
 		"Height": 5.18,
@@ -30375,6 +30389,20 @@
 	},
 	{
 		"Brand": "Klowra",
+		"Name": "Anima Dual Footswitch",
+		"Width": 1.87,
+		"Height": 4.13,
+		"Image": "klowra-anima.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Animus Dual Footswitch",
+		"Width": 4.25,
+		"Height": 1.73,
+		"Image": "klowra-animus.png"
+	},
+	{
+		"Brand": "Klowra",
 		"Name": "Everlast Delay",
 		"Width": 2.78,
 		"Height": 4.9,
@@ -30393,6 +30421,13 @@
 		"Width": 2.78,
 		"Height": 4.9,
 		"Image": "klowra-limbo-reverb.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Mantra Dual EXP",
+		"Width": 3.05,
+		"Height": 6.38,
+		"Image": "klowra-mantra.png"
 	},
 	{
 		"Brand": "Klowra",
@@ -30421,6 +30456,13 @@
 		"Width": 2.78,
 		"Height": 4.9,
 		"Image": "klowra-verdict-poly-octaver.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Vires Power Supply",
+		"Width": 6.22,
+		"Height": 3.84,
+		"Image": "klowra-vires.png"
 	},
 	{
 		"Brand": "KMA",
@@ -31443,6 +31485,13 @@
 		"Width": 3.7,
 		"Height": 4.91,
 		"Image": "lerxst-by-tor.png"
+	},
+	{
+		"Brand": "Lerxst",
+		"Name": "R50 By-Tor",
+		"Width": 3.7,
+		"Height": 4.91,
+		"Image": "lerxst-r50-by-tor.png"
 	},
 	{
 		"Brand": "Lerxst",
@@ -35919,6 +35968,20 @@
 	},
 	{
 		"Brand": "Morley",
+		"Name": "ATWAS Wah Volume",
+		"Width": 4.73,
+		"Height": 7.62,
+		"Image": "morley-atwas-wah-volume.png"
+	},
+	{
+		"Brand": "Morley",
+		"Name": "Britt Lightning Wah",
+		"Width": 4.73,
+		"Height": 7.62,
+		"Image": "morley-britt-lightning-wah.png"
+	},
+	{
+		"Brand": "Morley",
 		"Name": "Classic Bad Horsie Wah",
 		"Width": 5.88,
 		"Height": 9.93,
@@ -35996,7 +36059,7 @@
 	},
 	{
 		"Brand": "Morley",
-		"Name": "Lerxst Blah Blah",
+		"Name": "Lerxst Blah Blah Wah",
 		"Width": 4.73,
 		"Height": 7.62,
 		"Image": "morley-lerxst-blah-blah.png"
