@@ -47230,6 +47230,13 @@
 		"Image": "sm-fuzz-octave-fuzz.png"
 	},
 	{
+		"Brand": "Smart Belle",
+		"Name": "Belle Fuzz",
+		"Width": 3.44,
+		"Height": 4.75,
+		"Image": "smart-belle-belle-fuzz.png"
+	},
+	{
 		"Brand": "Snake Oil Fine Instruments",
 		"Name": "Marvellous Engine",
 		"Width": 2.73,
