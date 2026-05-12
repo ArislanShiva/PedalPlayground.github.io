@@ -11657,6 +11657,13 @@
 	},
 	{
 		"Brand": "Darkglass",
+		"Name": "MIDI Footswitch",
+		"Width": 10.87,
+		"Height": 2.13,
+		"Image": "darkglass-midi-footswitch.png"
+	},
+	{
+		"Brand": "Darkglass",
 		"Name": "NSG",
 		"Width": 2.14,
 		"Height": 3.94,
@@ -14536,15 +14543,22 @@
 		"Brand": "Dunlop",
 		"Name": "Eric Johnson Signature Fuzz Face",
 		"Width": 7.0,
-		"Height": 7.0,
+		"Height": 7.04,
 		"Image": "dunlop-ejf1.png"
 	},
 	{
 		"Brand": "Dunlop",
 		"Name": "Fuzz Face Distortion",
 		"Width": 7.0,
-		"Height": 7.0,
+		"Height": 7.4,
 		"Image": "dunlop-jdf2.png"
+	},
+	{
+		"Brand": "Dunlop",
+		"Name": "Fuzz Face Distortion (Marshall x Hendrix)",
+		"Width": 7.0,
+		"Height": 7.04,
+		"Image": "dunlop-jmh1.png"
 	},
 	{
 		"Brand": "Dunlop",
@@ -14599,7 +14613,7 @@
 		"Brand": "Dunlop",
 		"Name": "Jimi Hendrix Fuzz Face",
 		"Width": 7.0,
-		"Height": 7.0,
+		"Height": 7.04,
 		"Image": "dunlop-jhf1.png"
 	},
 	{
@@ -18874,6 +18888,13 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "Godzilla Distortion",
+		"Width": 2.44,
+		"Height": 4.55,
+		"Image": "fender-godzilla-distortion.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "Hammertone Boost",
 		"Width": 2.44,
 		"Height": 4.55,
@@ -21573,6 +21594,118 @@
 		"Width": 3.7,
 		"Height": 4.92,
 		"Image": "fuzzhugger-algal-bloom-v2.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Astral Projector",
+		"Width": 3.7,
+		"Height": 4.81,
+		"Image": "fuzzlord-astral-projector.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Dark Master Echo",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-dark-master-echo.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Doom Dweller Reverb",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "fuzzlord-doom-dweller-reverb.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Doom Dweller Reverb V2",
+		"Width": 3.7,
+		"Height": 4.81,
+		"Image": "fuzzlord-doom-dweller-reverb-v2.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Doom Screamer Overdrive",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-doom-screamer-overdrive.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Drone Master Distortion",
+		"Width": 4.7,
+		"Height": 3.81,
+		"Image": "fuzzlord-drone-master-distortion.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "FET120 Overdrive",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-fet120-overdrive.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "FM-7 EQ",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-fm7-eq.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "FTW120 Distortion",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "fuzzlord-ftw120-distortion.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "FU-2 Octave Fuzz",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-fu2-octave-fuzz.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "FW-70 Fuzz",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-fw70-fuzz.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "HM-6",
+		"Width": 3.7,
+		"Height": 4.81,
+		"Image": "fuzzlord-hm6.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "MF-4 Fuzz",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-mf4-fuzz.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Model T150 Preamp",
+		"Width": 3.7,
+		"Height": 4.81,
+		"Image": "fuzzlord-model-t150-preamp.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Octave Master Boost",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "fuzzlord-octave-master-boost.png"
+	},
+	{
+		"Brand": "Fuzzlord",
+		"Name": "Riff Master Germanium Boost",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "fuzzlord-riff-master-germanium-boost.png"
 	},
 	{
 		"Brand": "Fuzzrocious",
@@ -24779,6 +24912,13 @@
 		"Width": 1.72,
 		"Height": 2.89,
 		"Image": "hotone-djent.png"
+	},
+	{
+		"Brand": "Hotone",
+		"Name": "Freqlux",
+		"Width": 3.31,
+		"Height": 4.84,
+		"Image": "hotone-freqlux.png"
 	},
 	{
 		"Brand": "Hotone",
@@ -31488,6 +31628,13 @@
 	},
 	{
 		"Brand": "Lerxst",
+		"Name": "Analog Kid",
+		"Width": 4.7,
+		"Height": 3.78,
+		"Image": "lerxst-analog-kid.png"
+	},
+	{
+		"Brand": "Lerxst",
 		"Name": "By-Tor",
 		"Width": 3.7,
 		"Height": 4.91,
@@ -34145,6 +34292,13 @@
 		"Width": 8,
 		"Height": 5.5,
 		"Image": "mesa-boogie-subway-plus.png"
+	},
+	{
+		"Brand": "Mesa Boogie",
+		"Name": "Subway+ Bass DI-Preamp II",
+		"Width": 6,
+		"Height": 4.15,
+		"Image": "mesa-boogie-subway-plus-2.png"
 	},
 	{
 		"Brand": "Mesa Boogie",
