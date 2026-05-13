@@ -18736,8 +18736,15 @@
 		"Brand": "Farm Pedals",
 		"Name": "Fly Agaric",
 		"Width": 2.6,
-		"Height": 5.02,
+		"Height": 4.88,
 		"Image": "farm-pedals-fly-agaric.png"
+	},
+	{
+		"Brand": "Farm Pedals",
+		"Name": "Forest Floor Fuzz",
+		"Width": 2.6,
+		"Height": 4.88,
+		"Image": "farm-pedals-forest-floor-fuzz.png"
 	},
 	{
 		"Brand": "Fault And Fracture Audio",
@@ -31868,7 +31875,7 @@
 		"Brand": "Line 6",
 		"Name": "HX Effects",
 		"Width": 10.8,
-		"Height": 7.4,
+		"Height": 7.82,
 		"Image": "line6-hx-effects.png"
 	},
 	{
@@ -42414,6 +42421,20 @@
 		"Image": "paintaudio-midi-captain.png"
 	},
 	{
+		"Brand": "Paintaudio",
+		"Name": "MIDI Captain Mini 6",
+		"Width": 6.1,
+		"Height": 3.74,
+		"Image": "paintaudio-midi-captain-mini-6.png"
+	},
+	{
+		"Brand": "Paintaudio",
+		"Name": "MIDI Captain Nano 4",
+		"Width": 4.77,
+		"Height": 3.72,
+		"Image": "paintaudio-midi-captain-nano-4.png"
+	},
+	{
 		"Brand": "Palmer",
 		"Name": "PAN-01",
 		"Width": 2.87,
@@ -45741,15 +45762,22 @@
 	{
 		"Brand": "Roger Mayer",
 		"Name": "Octavia Classic",
-		"Width": 5.07,
+		"Width": 5.05,
 		"Height": 3.7,
 		"Image": "roger-mayer-octavia-classic.png"
 	},
 	{
 		"Brand": "Roger Mayer",
+		"Name": "Voodoo-1 Classic",
+		"Width": 5.05,
+		"Height": 3.7,
+		"Image": "roger-mayer-voodoo-1-classic.png"
+	},
+	{
+		"Brand": "Roger Mayer",
 		"Name": "Voodoo Vibe",
 		"Width": 8.66,
-		"Height": 5.83,
+		"Height": 5.84,
 		"Image": "roger-mayer-voodoo-vibe.png"
 	},
 	{
