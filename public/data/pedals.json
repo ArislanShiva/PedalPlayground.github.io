@@ -3123,6 +3123,13 @@
 	},
 	{
 		"Brand": "BSRI",
+		"Name": "Get The Name of the Dog!",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "bsri-get-the-name-of-the-dog.png"
+	},
+	{
+		"Brand": "BSRI",
 		"Name": "Impossible Colors",
 		"Width": 3.7,
 		"Height": 4.9,
@@ -3137,10 +3144,38 @@
 	},
 	{
 		"Brand": "BSRI",
+		"Name": "Maybe The Real Treasure...",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "bsri-maybe-the-real-treasure.png"
+	},
+	{
+		"Brand": "BSRI",
+		"Name": "Radical Conversion",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "bsri-radical-conversion.png"
+	},
+	{
+		"Brand": "BSRI",
+		"Name": "Resurrect Dead On Planet Jupiter",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "bsri-resurrect-dead-on-planet-jupiter.png"
+	},
+	{
+		"Brand": "BSRI",
 		"Name": "Soft Rains And The Smell Of The Ground",
 		"Width": 3.7,
 		"Height": 4.9,
 		"Image": "bsri-sratsotg.png"
+	},
+	{
+		"Brand": "BSRI",
+		"Name": "Wikipedia List Of Unusual Articles",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "bsri-wikipedia-list-of-unusual-articles.png"
 	},
 	{
 		"Brand": "Bad Cat",
@@ -25551,6 +25586,13 @@
 		"Image": "ibanez-wh10-v3.png"
 	},
 	{
+		"Brand": "Iceberg Effects",
+		"Name": "Trudo",
+		"Width": 3.7,
+		"Height": 4.77,
+		"Image": "iceberg-trudo.png"
+	},
+	{
 		"Brand": "Idiotbox",
 		"Name": "Blower Box",
 		"Width": 2.6,
@@ -33649,7 +33691,14 @@
 		"Height": 5.06,
 		"Image": "mask-screws.png"
 	},
-		{
+	{
+		"Brand": "Mask Audio Electronics",
+		"Name": "Trust Yourself",
+		"Width": 2.6,
+		"Height": 5.06,
+		"Image": "mask-trust-yourself.png"
+	},
+	{
 		"Brand": "Master Effects",
 		"Name": "Super 40",
 		"Width": 4.7,
