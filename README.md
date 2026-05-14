@@ -60,7 +60,7 @@
 
 ****
 
-:point_right: [Submit a Pedal Request](https://github.com/PedalPlayground/PedalPlayground.github.io/issues)
+:sparkle: [Submit a Pedal Request](https://github.com/PedalPlayground/PedalPlayground.github.io/issues)
 
 ****
 
