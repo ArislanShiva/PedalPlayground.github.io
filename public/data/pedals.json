@@ -26512,7 +26512,7 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Delay Llama mk3",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-delay-llama-mk3.png"
 	},
@@ -26596,7 +26596,7 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Harmonious Monk mk2",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-harmonious-monk-mk2.png"
 	},
@@ -26610,14 +26610,14 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Lucydreamer",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-lucydreamer.png"
 	},
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Lucydreamer Bass",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-lucydreamer-bass.png"
 	},
@@ -26659,7 +26659,7 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Rattler mk4",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-rattler-mk4.png"
 	},
@@ -26680,21 +26680,21 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Rattler Bass mk4",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-rattler-bass-mk4.png"
 	},
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Red Muck",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-red-muck.png"
 	},
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Red Muck Bass",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-red-muck-bass.png"
 	},
@@ -26798,15 +26798,22 @@
 	},
 	{
 		"Brand": "Jam Pedals",
+		"Name": "Tubedreamer",
+		"Width": 2.98,
+		"Height": 4.87,
+		"Image": "jam-tubedreamer.png"
+	},
+	{
+		"Brand": "Jam Pedals",
 		"Name": "Waterfall",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-waterfall.png"
 	},
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Waterfall Bass",
-		"Width": 2.96,
+		"Width": 2.98,
 		"Height": 4.87,
 		"Image": "jam-waterfall-bass.png"
 	},
