@@ -56,14 +56,16 @@
 2.  A high resolution image of the pedal (top-down view, straight on perspective),
 3.  The dimensions of the pedal in inches (include jacks and other protrusions).
 
-****
+:warning: Post a separate issue for each pedal that you are requesting.
 
-_Post a separate issue for each pedal that you are requesting._
+****
 
 :point_right: [Submit a Pedal Request](https://github.com/PedalPlayground/PedalPlayground.github.io/issues)
 
 ****
 
-:clock130: Even if your request has been completed and linked to a pull request it may still take several weeks for updates to get pulled into the main project.  The individual contributors have no control over that so please remain patient.
+> [!IMPORTANT]
+> Even if your request has been completed and linked to a pull request it may still take several weeks for updates to get pulled into the main project.  The individual contributors have no control over that so please remain patient.
 
-:zzz: If we haven't gotten to your request yet there is probably a good reason for it (insufficient image quality, lack of published dimensions, etc).
+> [!IMPORTANT]
+> If we haven't gotten to your request yet there is probably a good reason for it (insufficient image quality, lack of published dimensions, etc).
