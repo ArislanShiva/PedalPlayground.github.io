@@ -15605,6 +15605,13 @@
 	},
 	{
 		"Brand": "EarthQuaker",
+		"Name": "Scrolls",
+		"Width": 4.49,
+		"Height": 4.87,
+		"Image": "earthquaker-scrolls.png"
+	},
+	{
+		"Brand": "EarthQuaker",
 		"Name": "Sea Machine",
 		"Width": 3.7,
 		"Height": 5.02,
@@ -25241,6 +25248,13 @@
 		"Width": 3.7,
 		"Height": 4.95,
 		"Image": "hungry-robot-the-lumen.png"
+	},
+	{
+		"Brand": "Hungry Robot",
+		"Name": "The Moby Dick",
+		"Width": 5.7,
+		"Height": 4.91,
+		"Image": "hungry-robot-the-moby-dick.png"
 	},
 	{
 		"Brand": "Hungry Robot",
