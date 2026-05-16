@@ -7879,34 +7879,35 @@ body .btn {
 }
 .pedal__knob1, .pedal__knob2 {
   position: absolute;
+  background-image: url(../images/pedal_knob.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   border-radius: 48px;
-  width: 2em;
-  height: 2em;
-  margin-left: -1em;
-  background-color: rgba(0, 0, 0, 0.8);
-  border: 6px solid rgba(0, 0, 0, 0.8);
+  width: 24%;
+  aspect-ratio: 1/1;
+  margin-left: -12%;
   box-shadow: 3px 6px 8px rgba(0, 0, 0, 0.4), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
-  background-clip: border-box;
   position: absolute;
   top: 15%;
 }
 .pedal__knob1 {
-  left: 30%;
+  left: 32%;
 }
 .pedal__knob2 {
-  left: 70%;
+  left: 68%;
 }
 .pedal__switch {
   position: absolute;
   background-color: #999;
   border: 4px solid rgba(60, 60, 60, 0.3);
-  box-shadow: 3px 6px 8px rgba(0, 0, 0, 0.4), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   background-clip: border-box;
   border-radius: 100px;
   left: 50%;
-  margin-left:-.75em;
-  width: 1.5em;
-  height: 1.5em;
+  margin-left:-1em;
+  width: 2em;
+  height: 2em;
   bottom: 12%;
 }
 .pedal__name {
@@ -7916,7 +7917,7 @@ body .btn {
   text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.8);
   display: block;
   position: absolute;
-  top: 42%;
+  top: 48%;
   left: 0;
   right: 0;
   padding: 0 8px;
