@@ -5531,6 +5531,27 @@
 	},
 	{
 		"Brand": "Blue Colander",
+		"Name": "Black Emperor (5-Knob)",
+		"Width": 4.7,
+		"Height": 6.81,
+		"Image": "blue-colander-blue-colander-five-knob.png"
+	},
+	{
+		"Brand": "Blue Colander",
+		"Name": "Black Emperor (3-Knob)",
+		"Width": 4.7,
+		"Height": 6.81,
+		"Image": "blue-colander-blue-colander-three-knob.png"
+	},
+	{
+		"Brand": "Blue Colander",
+		"Name": "Black Emperor (5-Knob Special)",
+		"Width": 4.75,
+		"Height": 6.78,
+		"Image": "blue-colander-blue-colander-special-five-knob.png"
+	},
+	{
+		"Brand": "Blue Colander",
 		"Name": "Crooked Axis",
 		"Width": 3.7,
 		"Height": 4.85,
@@ -5566,10 +5587,24 @@
 	},
 	{
 		"Brand": "Blue Colander",
+		"Name": "Hibernaculum",
+		"Width": 7.4,
+		"Height": 4.73,
+		"Image": "blue-colander-hibernaculum.png"
+	},
+	{
+		"Brand": "Blue Colander",
 		"Name": "Pig",
 		"Width": 2.6,
 		"Height": 4.97,
 		"Image": "bluecolander-pig.png"
+	},
+	{
+		"Brand": "Blue Colander",
+		"Name": "Small Fracture",
+		"Width": 3.7,
+		"Height": 4.85,
+		"Image": "blue-colander-small-fracture.png"
 	},
 	{
 		"Brand": "Blue Colander",
@@ -8322,6 +8357,20 @@
 		"Width": 2.6,
 		"Height": 5.06,
 		"Image": "cascade-axis-fuzz.png"
+	},
+	{
+		"Brand": "Case Study",
+		"Name": "Aspen One",
+		"Width": 4.7,
+		"Height": 3.81,
+		"Image": "case-study-aspen-one.png"
+	},
+	{
+		"Brand": "Case Study",
+		"Name": "Aspen One GE",
+		"Width": 4.7,
+		"Height": 3.81,
+		"Image": "case-study-aspen-one-ge.png"
 	},
 	{
 		"Brand": "Case Study",
