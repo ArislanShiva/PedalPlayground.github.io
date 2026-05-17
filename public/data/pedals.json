@@ -13651,6 +13651,13 @@
 		"Image": "dophix-galileo.png"
 	},
 	{
+		"Brand": "DOREMidi",
+		"Name": "MIDI Thru to TRS",
+		"Width": 4.53,
+		"Height": 2.9,
+		"Image": "doremidi-midi-thru-to-trs.png"
+	},
+	{
 		"Brand": "Double Pony",
 		"Name": "Bareback",
 		"Width": 4.7,
@@ -23582,6 +23589,13 @@
 		"Width": 6.5,
 		"Height": 4.92,
 		"Image": "gurus-echosex2.png"
+	},
+	{
+		"Brand": "Gurus",
+		"Name": "Echosex 3°",
+		"Width": 3.54,
+		"Height": 5.01,
+		"Image": "gurus-echosex3degree.png"
 	},
 	{
 		"Brand": "Guyatone",
