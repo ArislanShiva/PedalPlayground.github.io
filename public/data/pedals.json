@@ -38922,6 +38922,13 @@
 	},
 	{
 		"Brand": "Non-Human Audio",
+		"Name": "Regrets",
+		"Width": 3.7,
+		"Height": 4.91,
+		"Image": "non-human-audio-regrets.png"
+	},
+	{
+		"Brand": "Non-Human Audio",
 		"Name": "Robins",
 		"Width": 3.7,
 		"Height": 4.91,
@@ -54950,6 +54957,34 @@
 		"Width": 4.02,
 		"Height": 4.81,
 		"Image": "vivie-rhinotes.png"
+	},
+	{
+		"Brand": "Voltic",
+		"Name": "Awkward Mustache",
+		"Width": 2.6,
+		"Height": 5.01,
+		"Image": "voltic-awkward-mustache.png"
+	},
+	{
+		"Brand": "Voltic",
+		"Name": "Dual Transistor Fuzz",
+		"Width": 2.6,
+		"Height": 5.01,
+		"Image": "voltic-dtf.png"
+	},
+	{
+		"Brand": "Voltic",
+		"Name": "Mountain Drive",
+		"Width": 2.6,
+		"Height": 5.01,
+		"Image": "voltic-mountain-drive.png"
+	},
+	{
+		"Brand": "Voltic",
+		"Name": "Stache",
+		"Width": 2.6,
+		"Height": 5.01,
+		"Image": "voltic-stache.png"
 	},
 	{
 		"Brand": "VS Audio",
