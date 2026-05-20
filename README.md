@@ -1,6 +1,6 @@
 # Contributing
 
-## Images
+## :camera: Images
 
 -   Find an image that is as close as possible to a perfect top-down angle,
     -   GIMP: use the perspective tool to make any necessary adjustments,
@@ -18,7 +18,7 @@
     -   `/public/images/pedals` - Save for web as PNG-24, make width **350px** or less
     -   Please make sure file names use all lower-case letters and no spaces
 
-## Dimensions
+## :triangular_ruler: Dimensions
 
 -   Add the dimensions of the pedals you add to `/public/data/pedals.json`
 -   Input dimensions in inches, with decimals (rounding to nearest hundredth)
@@ -36,32 +36,36 @@
     -   Photoshop: `ctrl + i`
 
 
-## Running Locally
+## :computer: Running Locally
 
 1. Install dependencies via `npm install`
 2. Start the local server and compile resources via `npm start`. This will open a browser tab for you at localhost:3000.
 
 # Requesting Pedals
 
-**Before you submit a request, please consider the following:**
+:warning: **Before you submit a request, please consider the following:**
 
 -   New releases from all major builders will be added to the database automatically -- no need to request them,
 -   We are not accepting requests for alternative colorways to help keep the project size manageable,
 -   Check to see if your pedal request hasn't already been covered by a [pending pull](https://github.com/PedalPlayground/PedalPlayground.github.io/pulls),
 -   Check if your pedal hasn't already been [requested by somebody else](https://github.com/PedalPlayground/PedalPlayground.github.io/issues).
 
-**Requests must include the following:**
+:warning: **Requests must include the following:**
 
 1.  Include the pedal brand and name in the title of your request,
 2.  A high resolution image of the pedal (top-down view, straight on perspective),
 3.  The dimensions of the pedal in inches (include jacks and other protrusions).
 
-****
-
-_Post a separate issue for each pedal that you are requesting._
-
-:point_right: [Submit a Pedal Request](https://github.com/PedalPlayground/PedalPlayground.github.io/issues)
+:warning: Post a separate issue for each pedal that you are requesting.
 
 ****
 
-Note: Even if your request has been completed and linked to a pull request it may still take several weeks for updates to get pulled into the main project.  The individual contributors have no control over that so please remain patient. If we haven't gotten to your request yet there is probably a good reason for it (insufficient image quality, lack of published dimensions, etc).
+:sparkle: [Submit a Pedal Request](https://github.com/PedalPlayground/PedalPlayground.github.io/issues)
+
+****
+
+> [!IMPORTANT]
+> Even if your request has been completed and linked to a pull request it may still take several weeks for updates to get pulled into the main project.  The individual contributors have no control over that so please remain patient.
+
+> [!IMPORTANT]
+> If we haven't gotten to your request yet there is probably a good reason for it (insufficient image quality, lack of published dimensions, etc).
