@@ -7869,7 +7869,7 @@ body .btn {
 }*/
 }
 .pedal__box {
-  border-radius: 1em;
+  border-radius: 0.5vw;
   background-clip: border-box;
   position: absolute;
   top: 0;
@@ -7884,10 +7884,9 @@ body .btn {
   background-size: cover;
   position: absolute;
   border-radius: 50%;
-  --knob-size: clamp(1em, 25%, 1.5vw);
-  width: var(--knob-size);
+  width: clamp(.5vw, 25%, 1.75vw);
   aspect-ratio: 1 / 1;
-  margin-left: calc(var(--knob-size) * -0.5);
+  translate: -50% 0%;
   box-shadow: 3px 6px 8px rgba(0, 0, 0, 0.4), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   top: 12%;
 }
@@ -7905,9 +7904,8 @@ body .btn {
   background-clip: border-box;
   border-radius: 50%;
   left: 50%;
-  --switch-size: clamp(.75em, 20%, .75vw);
-  width: var(--switch-size);
-  margin-left: calc(var(--switch-size) * -0.5);
+  width: clamp(.5vw, 20%, 1vw);
+  translate: -50% 0%;
   aspect-ratio: 1 / 1;
   bottom: 10%;
 }
