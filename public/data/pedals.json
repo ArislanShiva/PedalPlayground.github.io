@@ -10193,6 +10193,153 @@
 		"Image": "collab-dev-comp-black.png"
 	},
 	{
+		"Brand": "Collateral FX",
+		"Name": "Banana Fuzz",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-banana-fuzz.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Black Hole Sunn",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-black-hole-sunn.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Chili Pre",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-chili-pre.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Constellation OD",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-constellation-od.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Continuum OD",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-continuum-od.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Demoiselle Chorus",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-demoiselle-chorus.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Drive for the Dead",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-drive-for-the-dead.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Foxey Face",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-foxey-face.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Golden Ratio",
+		"Width": 1.96,
+		"Height": 3.84,
+		"Image": "collateral-fx-golden-ratio.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Icarus",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-icarus.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Parsec",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-parsec.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Red Giant",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-red-giant.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Sea of Japan",
+		"Width": 3.54,
+		"Height": 5.13,
+		"Image": "collateral-fx-sea-of-japan.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Slow",
+		"Width": 3.54,
+		"Height": 5.13,
+		"Image": "collateral-fx-slow.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "The Bendz",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-the-bendz.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "The Last of Fuzz",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-the-last-of-fuzz.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "The Lost Fingers of the Hand of Doom",
+		"Width": 2.5,
+		"Height": 4.6,
+		"Image": "collateral-fx-the-lost-fingers.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "The Year of the Rat (1985)",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-the-year-of-the-rat-1985.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Toranja Compressor",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-toranja-compressor.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "Unchained",
+		"Width": 2.5,
+		"Height": 4.81,
+		"Image": "collateral-fx-unchained.png"
+	},
+	{
+		"Brand": "Collateral FX",
+		"Name": "White Russian",
+		"Width": 3.54,
+		"Height": 5.13,
+		"Image": "collateral-fx-white-russian.png"
+	},
+	{
 		"Brand": "Collision Devices",
 		"Name": "Black Hole Symmetry",
 		"Width": 7.61,
@@ -24754,6 +24901,13 @@
 	},
 	{
 		"Brand": "Hologram Electronics",
+		"Name": "Chroma Console (10th Anniversary)",
+		"Width": 5,
+		"Height": 5.82,
+		"Image": "hologram-chroma-console-10th-anniversary.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
 		"Name": "Chroma Console (Black)",
 		"Width": 5,
 		"Height": 5.82,
@@ -24779,6 +24933,13 @@
 		"Width": 7.1,
 		"Height": 4.74,
 		"Image": "hologram-microcosm.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Microcosm (10th Anniversary)",
+		"Width": 7.1,
+		"Height": 4.74,
+		"Image": "hologram-microcosm-10th-anniversary.png"
 	},
 	{
 		"Brand": "Hologram Electronics",
@@ -50277,9 +50438,23 @@
 	{
 		"Brand": "Surfy Industries",
 		"Name": "SurfyBear Classic",
-		"Width": 17.94,
-		"Height": 7.5,
+		"Width": 18.5,
+		"Height": 7.48,
 		"Image": "surfy-surfybear-classic.png"
+	},
+	{
+		"Brand": "Surfy Industries",
+		"Name": "SurfyBear Classic (Black)",
+		"Width": 18.5,
+		"Height": 7.48,
+		"Image": "surfy-surfybear-classic-black.png"
+	},
+	{
+		"Brand": "Surfy Industries",
+		"Name": "SurfyBear Classic (Brown)",
+		"Width": 18.5,
+		"Height": 7.48,
+		"Image": "surfy-surfybear-classic-brown.png"
 	},
 	{
 		"Brand": "Surfy Industries",
@@ -50318,10 +50493,17 @@
 	},
 	{
 		"Brand": "Surfy Industries",
-		"Name": "Surfyman",
-		"Width": 9,
-		"Height": 4.46,
+		"Name": "SurfyMan",
+		"Width": 9.06,
+		"Height": 4.48,
 		"Image": "surfy-surfyman.png"
+	},
+	{
+		"Brand": "Surfy Industries",
+		"Name": "SurfyPower",
+		"Width": 9.06,
+		"Height": 4.52,
+		"Image": "surfy-surfypower.png"
 	},
 	{
 		"Brand": "Surfy Industries",
