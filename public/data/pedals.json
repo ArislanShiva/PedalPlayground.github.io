@@ -13449,6 +13449,13 @@
 	},
 	{
 		"Brand": "DOD",
+		"Name": "Equalizer FX40-B",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx40b.png"
+	},
+	{
+		"Brand": "DOD",
 		"Name": "Gonkulator Ringmod",
 		"Width": 2.93,
 		"Height": 4.68,
@@ -37522,13 +37529,6 @@
 	},
 	{
 		"Brand": "Musicomlab",
-		"Name": "EFX-ME",
-		"Width": 10.1,
-		"Height": 3.8,
-		"Image": "musicomlab-efx-me.png"
-	},
-	{
-		"Brand": "Musicomlab",
 		"Name": "EFX III",
 		"Width": 11,
 		"Height": 5.16,
@@ -37557,10 +37557,31 @@
 	},
 	{
 		"Brand": "Musicomlab",
+		"Name": "EFX-10D",
+		"Width": 10.35,
+		"Height": 4.41,
+		"Image": "musicomlab-efx-10d.png"
+	},
+	{
+		"Brand": "Musicomlab",
 		"Name": "EFX-LE",
 		"Width": 12.6,
 		"Height": 3.8,
 		"Image": "musicomlab-efx-le.png"
+	},
+	{
+		"Brand": "Musicomlab",
+		"Name": "EFX-ME",
+		"Width": 10.1,
+		"Height": 3.8,
+		"Image": "musicomlab-efx-me.png"
+	},
+	{
+		"Brand": "Musicomlab",
+		"Name": "MTX-5",
+		"Width": 6.3,
+		"Height": 4.1,
+		"Image": "musicomlab-mtx-5.png"
 	},
 	{
 		"Brand": "Musicomlab",
@@ -47119,6 +47140,13 @@
 	},
 	{
 		"Brand": "Smallsound/Bigsound",
+		"Name": "Super Puzzle",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "smallsound-super-puzzle.png"
+	},
+	{
+		"Brand": "Smallsound/Bigsound",
 		"Name": "Team Awesome Fuzz Machine",
 		"Width": 3.7,
 		"Height": 4.9,
@@ -49048,6 +49076,13 @@
 		"Width": 3.99,
 		"Height": 4.75,
 		"Image": "spaceman-voyager-ii.png"
+	},
+	{
+		"Brand": "Spiral Electric FX",
+		"Name": "Black Spiral II",
+		"Width": 4.7,
+		"Height": 3.86,
+		"Image": "spiral-black-spiral-2.png"
 	},
 	{
 		"Brand": "Spiral Electric FX",
