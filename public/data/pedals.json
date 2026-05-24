@@ -1744,6 +1744,13 @@
 	},
 	{
 		"Brand": "Analog.Man",
+		"Name": "AMAZE1",
+		"Width": 4.5,
+		"Height": 2.92,
+		"Image": "analogman-amaze1.png"
+	},
+	{
+		"Brand": "Analog.Man",
 		"Name": "ARDX20 Dual Analog Delay",
 		"Width": 4.7,
 		"Height": 5.66,
@@ -12851,6 +12858,13 @@
 		"Width": 3.13,
 		"Height": 4.87,
 		"Image": "digitech-death-metal.png"
+	},
+	{
+		"Brand": "DigiTech",
+		"Name": "DHH Hot Head Distortion",
+		"Width": 3.13,
+		"Height": 4.87,
+		"Image": "digitech-dhh.png"
 	},
 	{
 		"Brand": "DigiTech",
@@ -32818,24 +32832,10 @@
 	},
 	{
 		"Brand": "Luminite",
-		"Name": "F6 Footswitch",
-		"Width": 5.9,
-		"Height": 3.25,
-		"Image": "luminite-f6.png"
-	},
-	{
-		"Brand": "Luminite",
 		"Name": "F6W Footswitch",
 		"Width": 5.9,
 		"Height": 3.25,
 		"Image": "luminite-f6w.png"
-	},
-	{
-		"Brand": "Luminite",
-		"Name": "F10 Footswitch",
-		"Width": 11,
-		"Height": 3.18,
-		"Image": "luminite-f10.png"
 	},
 	{
 		"Brand": "Luminite",
@@ -36649,7 +36649,7 @@
 		"Brand": "Mortrix",
 		"Name": "Mortrix",
 		"Width": 9.06,
-		"Height": 6.14,
+		"Height": 6,
 		"Image": "mortrix.png"
 	},
 	{
