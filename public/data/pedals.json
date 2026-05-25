@@ -42737,10 +42737,24 @@
 	},
 	{
 		"Brand": "Paintaudio",
+		"Name": "Foot Captain",
+		"Width": 2.46,
+		"Height": 5.7,
+		"Image": "paintaudio-foot-captain.png"
+	},
+	{
+		"Brand": "Paintaudio",
 		"Name": "MIDI Captain",
 		"Width": 11.14,
 		"Height": 3.74,
 		"Image": "paintaudio-midi-captain.png"
+	},
+	{
+		"Brand": "Paintaudio",
+		"Name": "MIDI Captain Std",
+		"Width": 11.14,
+		"Height": 3.74,
+		"Image": "paintaudio-midi-captain-std.png"
 	},
 	{
 		"Brand": "Paintaudio",
