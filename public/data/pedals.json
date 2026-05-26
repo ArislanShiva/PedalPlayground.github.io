@@ -5951,17 +5951,10 @@
 	},
 	{
 		"Brand": "BOSS",
-		"Name": "BD-2 Blues Driver",
+		"Name": "BC-2 Combo Drive",
 		"Width": 2.875,
 		"Height": 5.125,
-		"Image": "boss-bd2.png"
-	},
-	{
-		"Brand": "BOSS",
-		"Name": "BD-2w Blues Driver (Waza Craft)",
-		"Width": 2.875,
-		"Height": 5.125,
-		"Image": "boss-bd2w.png"
+		"Image": "boss-bc2.png"
 	},
 	{
 		"Brand": "BOSS",
@@ -5976,6 +5969,20 @@
 		"Width": 2.875,
 		"Height": 5.125,
 		"Image": "boss-bc2.png"
+	},
+	{
+		"Brand": "BOSS",
+		"Name": "BD-2 Blues Driver",
+		"Width": 2.875,
+		"Height": 5.125,
+		"Image": "boss-bd2.png"
+	},
+	{
+		"Brand": "BOSS",
+		"Name": "BD-2w Blues Driver (Waza Craft)",
+		"Width": 2.875,
+		"Height": 5.125,
+		"Image": "boss-bd2w.png"
 	},
 	{
 		"Brand": "BOSS",
@@ -13351,6 +13358,13 @@
 	},
 	{
 		"Brand": "Discomfort Designs",
+		"Name": "Iceland Spar",
+		"Width": 5.7,
+		"Height": 4.97,
+		"Image": "discomfort-designs-iceland-spar.png"
+	},
+	{
+		"Brand": "Discomfort Designs",
 		"Name": "Phantom Limb",
 		"Width": 2.6,
 		"Height": 5.04,
@@ -13358,10 +13372,31 @@
 	},
 	{
 		"Brand": "Discomfort Designs",
+		"Name": "Queasy Feels",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "discomfort-designs-queasy-feels.png"
+	},
+	{
+		"Brand": "Discomfort Designs",
 		"Name": "Riemann's Grave",
 		"Width": 2.6,
 		"Height": 5.04,
 		"Image": "discomfort-designs-riemanns-grave.png"
+	},
+	{
+		"Brand": "Discomfort Designs",
+		"Name": "Supreme Balloon",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "discomfort-designs-supreme-balloon.png"
+	},
+	{
+		"Brand": "Discomfort Designs",
+		"Name": "The Colour of the Young Star",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "discomfort-designs-the-colour-of-the-young-star.png"
 	},
 	{
 		"Brand": "Disruptive Music Tech",
@@ -32787,6 +32822,13 @@
 		"Width": 4.7,
 		"Height": 3.77,
 		"Image": "lpd-sixty8-stacked.png"
+	},
+	{
+		"Brand": "LPD",
+		"Name": "Spearhead",
+		"Width": 2.6,
+		"Height": 5.06,
+		"Image": "lpd-spearhead.png"
 	},
 	{
 		"Brand": "LPD",
