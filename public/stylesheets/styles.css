@@ -7912,14 +7912,14 @@ body .btn {
 .pedal__name {
   font-size: min(1.25rem, 1vw);
   text-align: center;
-  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.8);
+  text-shadow: .3rem .3rem .1rem rgba(0, 0, 0, 0.4);
   display: block;
   position: absolute;
   top: 48%;
   left: 0;
   right: 0;
   padding: 0;
-  font-weight: 750;
+  font-weight: 600;
 }
 .pedal--custom:hover:after {
   border-color: rgba(42, 195, 243, 0.5);

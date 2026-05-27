@@ -19175,6 +19175,27 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "Engine Room Lvl 12 Power Supply",
+		"Width": 12.84,
+		"Height": 4.23,
+		"Image": "fender-engine-room-lvl-12.png"
+	},
+	{
+		"Brand": "Fender",
+		"Name": "Engine Room Lvl 5 Power Supply",
+		"Width": 3.35,
+		"Height": 5.17,
+		"Image": "fender-engine-room-lvl-5.png"
+	},
+	{
+		"Brand": "Fender",
+		"Name": "Engine Room Lvl 8 Power Supply",
+		"Width": 9.6,
+		"Height": 3.59,
+		"Image": "fender-engine-room-lvl-8.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "EXP-1 Mustang Expression Pedal",
 		"Width": 3.78,
 		"Height": 8.66,
