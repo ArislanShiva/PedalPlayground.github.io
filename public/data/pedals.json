@@ -25034,9 +25034,44 @@
 	},
 	{
 		"Brand": "Holy Island Audio",
+		"Name": "Deforming",
+		"Width": 4.7,
+		"Height": 5.76,
+		"Image": "holy-island-audio-deforming.png"
+	},
+	{
+		"Brand": "Holy Island Audio",
+		"Name": "Glass Palace",
+		"Width": 4.7,
+		"Height": 3.78,
+		"Image": "holy-island-audio-glass-palace.png"
+	},
+	{
+		"Brand": "Holy Island Audio",
+		"Name": "Mountain Mover",
+		"Width": 2.4,
+		"Height": 4.76,
+		"Image": "holy-island-audio-mountain-mover.png"
+	},
+	{
+		"Brand": "Holy Island Audio",
+		"Name": "Spectral Fire",
+		"Width": 2.4,
+		"Height": 4.76,
+		"Image": "holy-island-audio-spectral-fire.png"
+	},
+	{
+		"Brand": "Holy Island Audio",
+		"Name": "Spectral Palace",
+		"Width": 4.7,
+		"Height": 5.76,
+		"Image": "holy-island-audio-spectral-palace.png"
+	},
+	{
+		"Brand": "Holy Island Audio",
 		"Name": "Tides",
 		"Width": 4.7,
-		"Height": 5.77,
+		"Height": 5.76,
 		"Image": "holy-island-audio-tides.png"
 	},
 	{
