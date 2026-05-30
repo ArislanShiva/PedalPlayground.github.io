@@ -2758,6 +2758,13 @@
 		"Image": "arc-soothsayer.png"
 	},
 	{
+		"Brand": "Argonaut",
+		"Name": "Electrical Overdrive",
+		"Width": 4.7,
+		"Height": 3.97,
+		"Image": "argonaut-electrical-overdrive.png"
+	},
+	{
 		"Brand": "Arion",
 		"Name": "DDM-1 Digital Delay",
 		"Width": 3,
