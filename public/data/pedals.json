@@ -7421,6 +7421,13 @@
 		"Image": "brightonion-mini-looper.png"
 	},
 	{
+		"Brand": "Bright Onion",
+		"Name": "PROG-5 Programmable Looper",
+		"Width": 5.14,
+		"Height": 3.86,
+		"Image": "brightonion-prog5.png"
+	},
+	{
 		"Brand": "British Pedal Company",
 		"Name": "Dumble Black Face",
 		"Width": 2.79,
@@ -13064,6 +13071,13 @@
 	},
 	{
 		"Brand": "DigiTech",
+		"Name": "PDS 1002 Two Second Digital Delay",
+		"Width": 6.29,
+		"Height": 5,
+		"Image": "digitech-pds-1002.png"
+	},
+	{
+		"Brand": "DigiTech",
 		"Name": "PDS 2000 Digital Sampler",
 		"Width": 6,
 		"Height": 5,
@@ -13747,6 +13761,13 @@
 		"Width": 2.52,
 		"Height": 4.47,
 		"Image": "donner-dumbal-drive.png"
+	},
+	{
+		"Brand": "Donner",
+		"Name": "Dynamic Wah",
+		"Width": 1.66,
+		"Height": 3.76,
+		"Image": "donner-dynamic-wah.png"
 	},
 	{
 		"Brand": "Donner",
@@ -34609,6 +34630,48 @@
 		"Image": "meloaudio-exp-001.png"
 	},
 	{
+		"Brand": "Menatone",
+		"Name": "PiG",
+		"Width": 2.6,
+		"Height": 4.97,
+		"Image": "menatone-pig.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "Red Snapper (4 Knob)",
+		"Width": 2.73,
+		"Height": 4.97,
+		"Image": "menatone-red-snapper-4knob.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "The Blue Collar PTP",
+		"Width": 2.73,
+		"Height": 4.97,
+		"Image": "menatone-the-blue-collar-ptp.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "The Dirty B",
+		"Width": 2.6,
+		"Height": 4.97,
+		"Image": "menatone-the-dirty-b.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "The Fish Factory (Vertical)",
+		"Width": 2.6,
+		"Height": 4.97,
+		"Image": "menatone-the-fish-factory-vertical.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "Wreck'd 2.0",
+		"Width": 2.6,
+		"Height": 4.97,
+		"Image": "menatone-wreckd-2.png"
+	},
+	{
 		"Brand": "Mentha.works",
 		"Name": "Monk Echo",
 		"Width": 7.36,
@@ -54554,10 +54617,24 @@
 	},
 	{
 		"Brand": "Vahlbruch",
+		"Name": "SpaceTime v3",
+		"Width": 2.67,
+		"Height": 4.55,
+		"Image": "vahlbruch-spacetime-v3.png"
+	},
+	{
+		"Brand": "Vahlbruch",
 		"Name": "SpaceTime Tap v2",
 		"Width": 4.7,
 		"Height": 3.86,
 		"Image": "vahlbruch-spacetime-tap-v2.png"
+	},
+	{
+		"Brand": "Vahlbruch",
+		"Name": "Xroads",
+		"Width": 4.7,
+		"Height": 4.04,
+		"Image": "vahlbruch-xroads.png"
 	},
 	{
 		"Brand": "Valeton",
@@ -57572,8 +57649,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Aqua Puss mkIII (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm71.png"
 	},
 	{
@@ -57593,8 +57670,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Blue Hippo mkIII (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm61.png"
 	},
 	{
@@ -57614,8 +57691,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Conspiracy Theory (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm20.png"
 	},
 	{
@@ -57656,8 +57733,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Geisha Drive (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm32.png"
 	},
 	{
@@ -57677,8 +57754,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Green Rhino MkV (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm22.png"
 	},
 	{
@@ -57712,8 +57789,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Overrated Special (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-overratedspecial-smalls.png"
 	},
 	{
@@ -57733,8 +57810,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Pork & Pickle (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm91.png"
 	},
 	{
@@ -57761,9 +57838,23 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Red Llama mkIII (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm23.png"
+	},
+	{
+		"Brand": "Way Huge",
+		"Name": "Ringworm",
+		"Width": 3.74,
+		"Height": 4.83,
+		"Image": "wayhuge-whe606.png"
+	},
+	{
+		"Brand": "Way Huge",
+		"Name": "Ringworm (Reissue)",
+		"Width": 3.74,
+		"Height": 4.83,
+		"Image": "wayhuge-whe606-ri.png"
 	},
 	{
 		"Brand": "Way Huge",
@@ -57775,8 +57866,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Russian Pickle mkIII (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-russianpickle-small.png"
 	},
 	{
@@ -57810,8 +57901,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Supa-Lead mkIII (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm31.png"
 	},
 	{
@@ -57838,8 +57929,8 @@
 	{
 		"Brand": "Way Huge",
 		"Name": "Swollen Pickle mkIII (Smalls)",
-		"Width": 2.5,
-		"Height": 4.37,
+		"Width": 2.36,
+		"Height": 4.13,
 		"Image": "wayhuge-wm41.png"
 	},
 	{
