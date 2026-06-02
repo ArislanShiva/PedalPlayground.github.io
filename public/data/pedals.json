@@ -34722,6 +34722,13 @@
 	},
 	{
 		"Brand": "Meris",
+		"Name": "Enzo X (Black)",
+		"Width": 7.25,
+		"Height": 4.5,
+		"Image": "meris-enzo-x-black.png"
+	},
+	{
+		"Brand": "Meris",
 		"Name": "Hedra",
 		"Width": 4.25,
 		"Height": 4.5,
@@ -34733,6 +34740,13 @@
 		"Width": 7.25,
 		"Height": 4.5,
 		"Image": "meris-lvx.png"
+	},
+	{
+		"Brand": "Meris",
+		"Name": "LVX (Black)",
+		"Width": 7.25,
+		"Height": 4.5,
+		"Image": "meris-lvx-black.png"
 	},
 	{
 		"Brand": "Meris",
@@ -34750,6 +34764,13 @@
 	},
 	{
 		"Brand": "Meris",
+		"Name": "MercuryX (Black)",
+		"Width": 7.25,
+		"Height": 4.5,
+		"Image": "meris-mercuryx-black.png"
+	},
+	{
+		"Brand": "Meris",
 		"Name": "MIDI I/O",
 		"Width": 3.7,
 		"Height": 2.66,
@@ -34761,6 +34782,20 @@
 		"Width": 4.25,
 		"Height": 4.5,
 		"Image": "meris-ottobit-jr.png"
+	},
+	{
+		"Brand": "Meris",
+		"Name": "Ottobit X",
+		"Width": 7.25,
+		"Height": 4.5,
+		"Image": "meris-ottobit-x.png"
+	},
+	{
+		"Brand": "Meris",
+		"Name": "Ottobit X (Pink)",
+		"Width": 7.25,
+		"Height": 4.5,
+		"Image": "meris-ottobit-x-pink.png"
 	},
 	{
 		"Brand": "Meris",
