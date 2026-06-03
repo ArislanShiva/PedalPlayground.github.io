@@ -14211,6 +14211,20 @@
 		"Image": "dreadbox-treminator.png"
 	},
 	{
+		"Brand": "Driftwood",
+		"Name": "Heavy Hatchet Distortion",
+		"Width": 3.84,
+		"Height": 4.81,
+		"Image": "driftwood-heavy-hatchet-distortion.png"
+	},
+	{
+		"Brand": "Driftwood",
+		"Name": "Purple Nightmare Tube Preamp",
+		"Width": 9.06,
+		"Height": 5.96,
+		"Image": "driftwood-purple-nightmare.png"
+	},
+	{
 		"Brand": "Drolo",
 		"Name": "Giant Hogweed",
 		"Width": 3.7,
@@ -58163,6 +58177,13 @@
 		"Width": 4.9,
 		"Height": 2.84,
 		"Image": "whimsy-machines-sweet-tooth.png"
+	},
+	{
+		"Brand": "Wilson Effects",
+		"Name": "Lotus Drive",
+		"Width": 4.7,
+		"Height": 3.81,
+		"Image": "wilson-effects-lotus-drive.png"
 	},
 	{
 		"Brand": "Winnipeg Electrical Co.",
