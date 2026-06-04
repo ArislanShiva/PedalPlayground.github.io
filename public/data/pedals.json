@@ -5020,6 +5020,13 @@
 	},
 	{
 		"Brand": "Black Mountain",
+		"Name": "Expression Pedal",
+		"Width": 3.64,
+		"Height": 4.81,
+		"Image": "black-mountain-expression.png"
+	},
+	{
+		"Brand": "Black Mountain",
 		"Name": "Roto Echo",
 		"Width": 3.89,
 		"Height": 5.36,
@@ -5027,7 +5034,7 @@
 	},
 	{
 		"Brand": "Black Mountain",
-		"Name": "Volume",
+		"Name": "Volume Pedal",
 		"Width": 3.64,
 		"Height": 6,
 		"Image": "black-mountain-volume.png"
@@ -18790,14 +18797,21 @@
 	},
 	{
 		"Brand": "Eventide",
-		"Name": "H90",
+		"Name": "H9 Harmonizer Gen 2",
+		"Width": 4.7,
+		"Height": 5.28,
+		"Image": "eventide-h9-harmonizer-gen2.png"
+	},
+	{
+		"Brand": "Eventide",
+		"Name": "H90 Harmonizer",
 		"Width": 6.5,
 		"Height": 5.28,
 		"Image": "eventide-h90.png"
 	},
 	{
 		"Brand": "Eventide",
-		"Name": "H90 (Black)",
+		"Name": "H90 Harmonizer (Black)",
 		"Width": 6.5,
 		"Height": 5.28,
 		"Image": "eventide-h90-black.png"
@@ -34673,6 +34687,13 @@
 	},
 	{
 		"Brand": "Menatone",
+		"Name": "Das Boost",
+		"Width": 2.73,
+		"Height": 4.97,
+		"Image": "menatone-das-boost.png"
+	},
+	{
+		"Brand": "Menatone",
 		"Name": "PiG",
 		"Width": 2.6,
 		"Height": 4.97,
@@ -34684,6 +34705,13 @@
 		"Width": 2.73,
 		"Height": 4.97,
 		"Image": "menatone-red-snapper-4knob.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "Red Snapper Mini",
+		"Width": 1.83,
+		"Height": 3.84,
+		"Image": "menatone-red-snapper-mini.png"
 	},
 	{
 		"Brand": "Menatone",
@@ -34708,7 +34736,21 @@
 	},
 	{
 		"Brand": "Menatone",
-		"Name": "Wreck'd 2.0",
+		"Name": "The Fish Factory Mojo",
+		"Width": 3.7,
+		"Height": 4.91,
+		"Image": "menatone-the-fish-factory-mojo.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "Wreck'T",
+		"Width": 2.86,
+		"Height": 4.91,
+		"Image": "menatone-wreckt.png"
+	},
+	{
+		"Brand": "Menatone",
+		"Name": "Wreck'T 2.0",
 		"Width": 2.6,
 		"Height": 4.97,
 		"Image": "menatone-wreckd-2.png"
@@ -34824,6 +34866,13 @@
 		"Width": 8.5,
 		"Height": 2.32,
 		"Image": "meris-preset-switch.png"
+	},
+	{
+		"Brand": "Mesa Boogie",
+		"Name": "F-100 Footswitch",
+		"Width": 8.58,
+		"Height": 5,
+		"Image": "mesa-boogie-f100.png"
 	},
 	{
 		"Brand": "Mesa Boogie",
