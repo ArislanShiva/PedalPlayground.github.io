@@ -42900,21 +42900,35 @@
 		"Brand": "Oto Machines",
 		"Name": "Bam",
 		"Width": 5.71,
-		"Height": 5.92,
+		"Height": 5.93,
 		"Image": "oto-machines-bam.png"
+	},
+	{
+		"Brand": "Oto Machines",
+		"Name": "Bébé Chérie",
+		"Width": 11.42,
+		"Height": 5.76,
+		"Image": "oto-machines-bebe-cherie.png"
 	},
 	{
 		"Brand": "Oto Machines",
 		"Name": "Bim",
 		"Width": 5.71,
-		"Height": 5.92,
+		"Height": 5.93,
 		"Image": "oto-machines-bim.png"
+	},
+	{
+		"Brand": "Oto Machines",
+		"Name": "Biscuit",
+		"Width": 7.48,
+		"Height": 4.51,
+		"Image": "oto-machines-biscuit.png"
 	},
 	{
 		"Brand": "Oto Machines",
 		"Name": "Boum",
 		"Width": 5.71,
-		"Height": 5.92,
+		"Height": 5.93,
 		"Image": "oto-machines-boum.png"
 	},
 	{
