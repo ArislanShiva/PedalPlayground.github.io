@@ -43948,6 +43948,27 @@
 	},
 	{
 		"Brand": "Pettyjohn",
+		"Name": "Chime MKII",
+		"Width": 2.75,
+		"Height": 4.93,
+		"Image": "pettyjohn-chime-mk2.png"
+	},
+	{
+		"Brand": "Pettyjohn",
+		"Name": "Chime3",
+		"Width": 3.74,
+		"Height": 5.05,
+		"Image": "pettyjohn-chime3.png"
+	},
+	{
+		"Brand": "Pettyjohn",
+		"Name": "Crush3",
+		"Width": 3.74,
+		"Height": 5.05,
+		"Image": "pettyjohn-crush3.png"
+	},
+	{
+		"Brand": "Pettyjohn",
 		"Name": "Edge",
 		"Width": 2.5,
 		"Height": 4.8,
@@ -43959,6 +43980,20 @@
 		"Width": 2.7,
 		"Height": 4.72,
 		"Image": "pettyjohn-fuze.png"
+	},
+	{
+		"Brand": "Pettyjohn",
+		"Name": "Gold3",
+		"Width": 3.74,
+		"Height": 5.05,
+		"Image": "pettyjohn-gold3.png"
+	},
+	{
+		"Brand": "Pettyjohn",
+		"Name": "Iron3",
+		"Width": 3.74,
+		"Height": 5.05,
+		"Image": "pettyjohn-iron3.png"
 	},
 	{
 		"Brand": "Pettyjohn",
@@ -43987,6 +44022,13 @@
 		"Width": 3.58,
 		"Height": 5.59,
 		"Image": "pettyjohn-predrive.png"
+	},
+	{
+		"Brand": "Pettyjohn",
+		"Name": "PreDrive3",
+		"Width": 3.74,
+		"Height": 5.05,
+		"Image": "pettyjohn-predrive3.png"
 	},
 	{
 		"Brand": "Pettyjohn",
@@ -59245,8 +59287,8 @@
 	{
 		"Brand": "Zorg",
 		"Name": "Blow!",
-		"Width": 2.56,
-		"Height": 4.72,
+		"Width": 3.18,
+		"Height": 4.98,
 		"Image": "zorg-blow.png"
 	},
 	{
