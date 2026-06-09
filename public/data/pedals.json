@@ -42381,23 +42381,58 @@
 	{
 		"Brand": "OPFXS",
 		"Name": "Asteroide",
-		"Width": 2.73,
-		"Height": 4.83,
+		"Width": 2.91,
+		"Height": 4.85,
 		"Image": "opfxs-asteroide.png"
+	},
+	{
+		"Brand": "OPFXS",
+		"Name": "Cometa",
+		"Width": 2.91,
+		"Height": 4.85,
+		"Image": "opfxs-cometa.png"
+	},
+	{
+		"Brand": "OPFXS",
+		"Name": "Dig Deep",
+		"Width": 3.02,
+		"Height": 4.92,
+		"Image": "opfxs-dig-deep.png"
 	},
 	{
 		"Brand": "OPFXS",
 		"Name": "Electric Vibe",
 		"Width": 2.77,
-		"Height": 5.02,
+		"Height": 5.1,
 		"Image": "opfxs-electric-vibe.png"
 	},
 	{
 		"Brand": "OPFXS",
+		"Name": "Gain Box",
+		"Width": 2.72,
+		"Height": 5.1,
+		"Image": "opfxs-gain-box.png"
+	},
+	{
+		"Brand": "OPFXS",
+		"Name": "Parallel Dimension",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "opfxs-parallel-dimension.png"
+	},
+	{
+		"Brand": "OPFXS",
 		"Name": "Twin Boost",
-		"Width": 2.87,
-		"Height": 4.8,
+		"Width": 2.91,
+		"Height": 4.85,
 		"Image": "opfxs-twin-boost.png"
+	},
+	{
+		"Brand": "OPFXS",
+		"Name": "V-UNO X",
+		"Width": 3.02,
+		"Height": 4.92,
+		"Image": "opfxs-v-uno-x.png"
 	},
 	{
 		"Brand": "Orange",
@@ -44011,9 +44046,9 @@
 	},
 	{
 		"Brand": "Pettyjohn",
-		"Name": "PettyDrive",
-		"Width": 5.472,
-		"Height": 4.76378,
+		"Name": "PettyDrive V2 Iron & Chime",
+		"Width": 5.47,
+		"Height": 4.96,
 		"Image": "pettyjohn-pettydrive2.png"
 	},
 	{
