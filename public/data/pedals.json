@@ -18264,6 +18264,13 @@
 		"Image": "elite-acoustics-stompmix-62.png"
 	},
 	{
+		"Brand": "Elta Music",
+		"Name": "POLIVOKS PF3 Dual Filter MK2",
+		"Width": 6.89,
+		"Height": 5.12,
+		"Image": "elta-music-polivoks-pf3-dual-filter-mk2.png"
+	},
+	{
 		"Brand": "Emerson Custom",
 		"Name": "Concorde V2",
 		"Width": 3.7,
@@ -31068,6 +31075,13 @@
 	},
 	{
 		"Brand": "Klowra",
+		"Name": "Dive Pitch Shifter",
+		"Width": 1.73,
+		"Height": 3.62,
+		"Image": "klowra-dive.png"
+	},
+	{
+		"Brand": "Klowra",
 		"Name": "Everlast Delay",
 		"Width": 2.78,
 		"Height": 4.9,
@@ -31079,6 +31093,20 @@
 		"Width": 2.78,
 		"Height": 4.9,
 		"Image": "klowra-gnash-distortion.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Hane Filter",
+		"Width": 1.73,
+		"Height": 3.62,
+		"Image": "klowra-hane.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Leap Octave",
+		"Width": 1.73,
+		"Height": 3.62,
+		"Image": "klowra-leap-octave.png"
 	},
 	{
 		"Brand": "Klowra",
@@ -31100,6 +31128,13 @@
 		"Width": 2.78,
 		"Height": 4.9,
 		"Image": "klowra-rilum-multi-head-delay.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "South Zoo Voice Synth",
+		"Width": 1.73,
+		"Height": 3.62,
+		"Image": "klowra-south-zoo.png"
 	},
 	{
 		"Brand": "Klowra",
@@ -31128,6 +31163,13 @@
 		"Width": 6.22,
 		"Height": 3.84,
 		"Image": "klowra-vires.png"
+	},
+	{
+		"Brand": "Klowra",
+		"Name": "Whorl Rotary",
+		"Width": 1.73,
+		"Height": 3.62,
+		"Image": "klowra-whorl.png"
 	},
 	{
 		"Brand": "KMA",
@@ -47340,6 +47382,13 @@
 		"Width": 4.9,
 		"Height": 4.23,
 		"Image": "shiftline-twin-mk3s.png"
+	},
+	{
+		"Brand": "Shin-ei",
+		"Name": "B1G 1",
+		"Width": 3.25,
+		"Height": 5.08,
+		"Image": "shin-ei-b1g-1.png"
 	},
 	{
 		"Brand": "Shin-ei",
