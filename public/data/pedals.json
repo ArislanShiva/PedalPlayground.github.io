@@ -16921,6 +16921,13 @@
 	},
 	{
 		"Brand": "Electro-Harmonix",
+		"Name": "Deluxe Bass Big Muff Pi 2",
+		"Width": 5.95,
+		"Height": 4.75,
+		"Image": "ehx-deluxe-bass-big-muff-pi-2.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
 		"Name": "Deluxe Electric Mistress",
 		"Width": 4.19,
 		"Height": 4.75,
@@ -17590,6 +17597,13 @@
 		"Width": 1.99,
 		"Height": 3.65,
 		"Image": "ehx-pico-rerun.png"
+	},
+	{
+		"Brand": "Electro-Harmonix",
+		"Name": "Pico Shimmer",
+		"Width": 1.99,
+		"Height": 3.65,
+		"Image": "ehx-pico-360-shimmer.png"
 	},
 	{
 		"Brand": "Electro-Harmonix",
@@ -45429,6 +45443,13 @@
 		"Width": 1.38,
 		"Height": 1.38,
 		"Image": "black-knob.png"
+	},
+	{
+		"Brand": "Rainger FX",
+		"Name": "Binary Pulsar",
+		"Width": 5,
+		"Height": 4.97,
+		"Image": "raingerfx-binary-pulsar.png"
 	},
 	{
 		"Brand": "Rainger FX",
