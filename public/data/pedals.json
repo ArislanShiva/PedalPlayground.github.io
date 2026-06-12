@@ -9481,30 +9481,37 @@
 	{
 		"Brand": "Chase Tone",
 		"Name": "68 Red Velvet Fuzz",
-		"Width": 2.34,
-		"Height": 4.5,
+		"Width": 2.4,
+		"Height": 4.62,
 		"Image": "chase-tone-68.png"
 	},
 	{
 		"Brand": "Chase Tone",
 		"Name": "Fuzz Fella",
-		"Width": 2.34,
-		"Height": 4.5,
+		"Width": 2.4,
+		"Height": 4.62,
 		"Image": "chase-tone-fuzz-fella.png"
 	},
 	{
 		"Brand": "Chase Tone",
 		"Name": "Purple Stardust",
-		"Width": 2.34,
-		"Height": 4.56,
+		"Width": 2.4,
+		"Height": 4.62,
 		"Image": "chase-tone-purple-stardust.png"
 	},
 	{
 		"Brand": "Chase Tone",
 		"Name": "Secret Preamp",
-		"Width": 2.34,
-		"Height": 4.5,
+		"Width": 2.4,
+		"Height": 4.62,
 		"Image": "chase-tone-preamp.png"
+	},
+	{
+		"Brand": "Chase Tone",
+		"Name": "Secret Preamp (Limited)",
+		"Width": 2.4,
+		"Height": 4.62,
+		"Image": "chase-tone-preamp-le.png"
 	},
 	{
 		"Brand": "Chase Bliss",
@@ -43962,29 +43969,85 @@
 	},
 	{
 		"Brand": "Pete Cornish",
+		"Name": "Acoustic Preamp/DI",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-acoustic-di-preamp.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "BD-1",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-bd1.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "CC-1",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-cc1.png"
+	},
+	{
+		"Brand": "Pete Cornish",
 		"Name": "G-2",
-		"Width": 4.8,
+		"Width": 4.92,
 		"Height": 6.73,
 		"Image": "pete-cornish-g-2.png"
 	},
 	{
 		"Brand": "Pete Cornish",
+		"Name": "GC-1",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-gc1.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "NG-2",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-ng2.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "NG-3",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-ng3.png"
+	},
+	{
+		"Brand": "Pete Cornish",
 		"Name": "P-1",
-		"Width": 4.8,
+		"Width": 4.92,
 		"Height": 6.73,
 		"Image": "pete-cornish-p-1.png"
 	},
 	{
 		"Brand": "Pete Cornish",
+		"Name": "P-2",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-p2.png"
+	},
+	{
+		"Brand": "Pete Cornish",
+		"Name": "SS-2",
+		"Width": 4.92,
+		"Height": 6.73,
+		"Image": "pete-cornish-ss2.png"
+	},
+	{
+		"Brand": "Pete Cornish",
 		"Name": "SS-3",
-		"Width": 3.74016,
-		"Height": 5.70866,
+		"Width": 4.92,
+		"Height": 6.73,
 		"Image": "pete-cornish-ss-3.png"
 	},
 	{
 		"Brand": "Pete Cornish",
 		"Name": "ST-2",
-		"Width": 4.8,
+		"Width": 4.92,
 		"Height": 6.73,
 		"Image": "pete-cornish-st-2.png"
 	},
@@ -49706,6 +49769,13 @@
 		"Width": 5,
 		"Height": 4.24,
 		"Image": "step-audio-status.png"
+	},
+	{
+		"Brand": "Stephenson Amplification",
+		"Name": "Fix My Duck",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "stephenson-fix-my-duck.png"
 	},
 	{
 		"Brand": "Stoll",
