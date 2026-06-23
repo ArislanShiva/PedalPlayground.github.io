@@ -19336,6 +19336,13 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "EXP-2 Expression Pedal",
+		"Width": 3.86,
+		"Height": 10.13,
+		"Image": "fender-exp2.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "Full Moon Distortion",
 		"Width": 4.02,
 		"Height": 5.03,
@@ -19434,6 +19441,20 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "Hello Kitty Fuzz",
+		"Width": 2.44,
+		"Height": 4.55,
+		"Image": "fender-pink-fuzz.png"
+	},
+	{
+		"Brand": "Fender",
+		"Name": "Hello Kitty Fuzz Black",
+		"Width": 2.44,
+		"Height": 4.55,
+		"Image": "fender-hello-kitty-fuzz-black.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "Hot Rod Deluxe 2-Button Footswitch",
 		"Width": 5.5,
 		"Height": 3.5,
@@ -19490,13 +19511,6 @@
 	},
 	{
 		"Brand": "Fender",
-		"Name": "Pink Fuzz",
-		"Width": 2.44,
-		"Height": 4.55,
-		"Image": "fender-pink-fuzz.png"
-	},
-	{
-		"Brand": "Fender",
 		"Name": "Pour Over Env Filter",
 		"Width": 4.02,
 		"Height": 5.03,
@@ -19511,6 +19525,13 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "Pugilist V2 Compressor",
+		"Width": 2.6,
+		"Height": 4.53,
+		"Image": "fender-pugilist-v2.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "Reflecting Pool Delay & Reverb",
 		"Width": 6.7,
 		"Height": 4.99,
@@ -19518,10 +19539,17 @@
 	},
 	{
 		"Brand": "Fender",
-		"Name": "Santa Ana Distortion",
+		"Name": "Santa Ana Overdrive",
 		"Width": 4.02,
 		"Height": 5.03,
 		"Image": "fender-santa-ana.png"
+	},
+	{
+		"Brand": "Fender",
+		"Name": "Santa Ana V2 Overdrive",
+		"Width": 2.6,
+		"Height": 4.53,
+		"Image": "fender-santa-ana-v2.png"
 	},
 	{
 		"Brand": "Fender",
@@ -19560,10 +19588,24 @@
 	},
 	{
 		"Brand": "Fender",
+		"Name": "The Bends V2 Compressor",
+		"Width": 2.6,
+		"Height": 4.53,
+		"Image": "fender-the-bends-v2.png"
+	},
+	{
+		"Brand": "Fender",
 		"Name": "The Pelt Fuzz",
 		"Width": 3.04,
 		"Height": 5.03,
 		"Image": "fender-the-pelt.png"
+	},
+	{
+		"Brand": "Fender",
+		"Name": "The Pelt V2 Fuzz",
+		"Width": 2.6,
+		"Height": 4.53,
+		"Image": "fender-the-pelt-v2.png"
 	},
 	{
 		"Brand": "Fender",
@@ -23813,6 +23855,13 @@
 		"Width": 5.7,
 		"Height": 4.91,
 		"Image": "guptech-aole.png"
+	},
+	{
+		"Brand": "GUPTech",
+		"Name": "1982",
+		"Width": 2.6,
+		"Height": 5.06,
+		"Image": "guptech-1982.png"
 	},
 	{
 		"Brand": "GUPTech",
@@ -33340,6 +33389,13 @@
 		"Width": 2.69,
 		"Height": 4.5,
 		"Image": "mad-professor-little-green-wonder-hw.png"
+	},
+	{
+		"Brand": "Mad Professor",
+		"Name": "Little Green Wonder (Handwired 2026)",
+		"Width": 2.6,
+		"Height": 5.02,
+		"Image": "mad-professor-little-green-wonder-hw-2026.png"
 	},
 	{
 		"Brand": "Mad Professor",
