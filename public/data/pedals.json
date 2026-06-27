@@ -22093,6 +22093,13 @@
 		"Image": "flb-skeleton-key.png"
 	},
 	{
+		"Brand": "Funny Little Boxes",
+		"Name": "Treasure Chest",
+		"Width": 2.6,
+		"Height": 5,
+		"Image": "flb-treasure-chest.png"
+	},
+	{
 		"Brand": "Fuzzhugger",
 		"Name": "Algal Bloom 7K DLX",
 		"Width": 3.7,
@@ -36234,6 +36241,20 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "GE100 Pro",
+		"Width": 10.07,
+		"Height": 5.68,
+		"Image": "mooer-ge100-pro.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GE100 Pro Li",
+		"Width": 10.07,
+		"Height": 5.68,
+		"Image": "mooer-ge100-pro-li.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "GE150 Pro",
 		"Width": 12.2,
 		"Height": 6.25,
@@ -36259,6 +36280,13 @@
 		"Width": 2.82,
 		"Height": 4.92,
 		"Image": "mooer-gl100.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "GL200",
+		"Width": 5.84,
+		"Height": 4.66,
+		"Image": "mooer-gl200.png"
 	},
 	{
 		"Brand": "Mooer",
@@ -36371,6 +36399,13 @@
 		"Width": 8.86,
 		"Height": 3.48,
 		"Image": "mooer-macro-power-s12.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "Meta FX",
+		"Width": 2.82,
+		"Height": 4.92,
+		"Image": "mooer-meta-fx.png"
 	},
 	{
 		"Brand": "Mooer",
@@ -36497,6 +36532,20 @@
 		"Width": 2.85,
 		"Height": 4.53,
 		"Image": "mooer-preamp-model-x2.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "Prime M1",
+		"Width": 4.72,
+		"Height": 2.79,
+		"Image": "mooer-prime-m1.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "Prime M2",
+		"Width": 2.82,
+		"Height": 4.92,
+		"Image": "mooer-prime-m2.png"
 	},
 	{
 		"Brand": "Mooer",
@@ -48540,6 +48589,13 @@
 	},
 	{
 		"Brand": "Solar Guitars",
+		"Name": "Chug Capo",
+		"Width": 2.96,
+		"Height": 4.72,
+		"Image": "solar-chug-capo.png"
+	},
+	{
+		"Brand": "Solar Guitars",
 		"Name": "Chug Lite",
 		"Width": 2.36,
 		"Height": 4.13,
@@ -49111,6 +49167,34 @@
 		"Width": 1.97,
 		"Height": 3.72,
 		"Image": "sonicresearch-st300mini.png"
+	},
+	{
+		"Brand": "Sonisfact",
+		"Name": "VCP-80 Analog Chorus Phaser",
+		"Width": 3.16,
+		"Height": 4.68,
+		"Image": "sonisfact-vcp80.png"
+	},
+	{
+		"Brand": "Sonisfact",
+		"Name": "VOS-80 Overdrive Station",
+		"Width": 3,
+		"Height": 4.68,
+		"Image": "sonisfact-vos80.png"
+	},
+	{
+		"Brand": "Sonisfact",
+		"Name": "VOS-81 Overdrive Station",
+		"Width": 3,
+		"Height": 4.68,
+		"Image": "sonisfact-vos81.png"
+	},
+	{
+		"Brand": "Sonisfact",
+		"Name": "VOS-82 Overdrive Station",
+		"Width": 3,
+		"Height": 4.68,
+		"Image": "sonisfact-vos82.png"
 	},
 	{
 		"Brand": "SoundLad",

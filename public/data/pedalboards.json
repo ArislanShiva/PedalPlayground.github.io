@@ -581,6 +581,13 @@
 		"Image": "gigrig-small-wide-tier.png"
 	},
 	{
+		"Brand": "GigRig",
+		"Name": "Wah Riser",
+		"Width": 4.44,
+		"Height": 10.18,
+		"Image": "gigrig-wah-riser.png"
+	},
+	{
 		"Brand": "Gokko",
 		"Name": "Medium Pedalboard",
 		"Width": 13.8,
