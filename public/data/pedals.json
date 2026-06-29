@@ -20351,6 +20351,13 @@
 	},
 	{
 		"Brand": "Fortin",
+		"Name": "Artery",
+		"Width": 1.71,
+		"Height": 3.7,
+		"Image": "fortin-artery.png"
+	},
+	{
+		"Brand": "Fortin",
 		"Name": "Fourteen",
 		"Width": 2.7,
 		"Height": 4.94,
@@ -53823,6 +53830,20 @@
 		"Width": 4.04,
 		"Height": 4.8,
 		"Image": "toneelec-animalizzer.png"
+	},
+	{
+		"Brand": "Tone Charm Audio",
+		"Name": "Bass Szczur",
+		"Width": 3.15,
+		"Height": 4.34,
+		"Image": "tone-charm-audio-bass-szczur.png"
+	},
+	{
+		"Brand": "Tone Charm Audio",
+		"Name": "Szczur",
+		"Width": 3.15,
+		"Height": 4.34,
+		"Image": "tone-charm-audio-szczur.png"
 	},
 	{
 		"Brand": "Tone City",
