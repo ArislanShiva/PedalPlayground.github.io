@@ -11202,6 +11202,13 @@
 	},
 	{
 		"Brand": "Crazy Tube Circuits",
+		"Name": "White Whale Junior",
+		"Width": 3.27,
+		"Height": 6.31,
+		"Image": "ctc-white-whale-junior.png"
+	},
+	{
+		"Brand": "Crazy Tube Circuits",
 		"Name": "White Whale v2",
 		"Width": 6.7,
 		"Height": 4.78,
@@ -11862,8 +11869,15 @@
 		"Brand": "Darkglass",
 		"Name": "Anagram",
 		"Width": 8.27,
-		"Height": 3.94,
+		"Height": 4.02,
 		"Image": "darkglass-anagram.png"
+	},
+	{
+		"Brand": "Darkglass",
+		"Name": "Anagram (Guitar Essentials)",
+		"Width": 8.27,
+		"Height": 4.02,
+		"Image": "darkglass-anagram-guitar-essentials.png"
 	},
 	{
 		"Brand": "Darkglass",
@@ -13054,6 +13068,13 @@
 		"Width": 6.7,
 		"Height": 6.84,
 		"Image": "digitech-jamman-stereo.png"
+	},
+	{
+		"Brand": "DigiTech",
+		"Name": "LE Lyra",
+		"Width": 3.13,
+		"Height": 4.87,
+		"Image": "digitech-le.png"
 	},
 	{
 		"Brand": "DigiTech",
@@ -15427,6 +15448,13 @@
 		"Width": 2.6,
 		"Height": 4.94,
 		"Image": "earthquaker-bellows.png"
+	},
+	{
+		"Brand": "EarthQuaker",
+		"Name": "Bellows (Legacy Reissue)",
+		"Width": 1.78,
+		"Height": 3.7,
+		"Image": "earthquaker-bellows-legacy-reissue.png"
 	},
 	{
 		"Brand": "EarthQuaker",
@@ -18955,6 +18983,20 @@
 		"Width": 4,
 		"Height": 4.54,
 		"Image": "eventide-ultratap.png"
+	},
+	{
+		"Brand": "Evil Eye FX",
+		"Name": "Paladin Drive/Distortion",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "evil-eye-fx-paladin-drive-distortion.png"
+	},
+	{
+		"Brand": "Evil Eye FX",
+		"Name": "Warg Fuzz",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "evil-eye-fx-warg-fuzz.png"
 	},
 	{
 		"Brand": "E.W.S. Japan",
@@ -32103,6 +32145,27 @@
 		"Image": "latent-lemon-hurts-bare-metal.png"
 	},
 	{
+		"Brand": "Lateral Phonics",
+		"Name": "Knife Cooper",
+		"Width": 2.83,
+		"Height": 4.5,
+		"Image": "lateral-phonics-knife-cooper.png"
+	},
+	{
+		"Brand": "Lateral Phonics",
+		"Name": "Knife OD & Fuzz",
+		"Width": 2.83,
+		"Height": 4.5,
+		"Image": "lateral-phonics-knife-od-fuzz.png"
+	},
+	{
+		"Brand": "Lateral Phonics",
+		"Name": "Seamark Reverb MK2",
+		"Width": 5.7,
+		"Height": 3.96,
+		"Image": "lateral-phonics-seamark-reverb-mk2.png"
+	},
+	{
 		"Brand": "Lauren Audio",
 		"Name": "B100",
 		"Width": 2.75,
@@ -42582,6 +42645,20 @@
 		"Image": "onecontrol-xenagama.png"
 	},
 	{
+		"Brand": "On-Stage",
+		"Name": "GTP7000 Mini Pedal Tuner",
+		"Width": 1.72,
+		"Height": 3.75,
+		"Image": "on-stage-gtp7000.png"
+	},
+	{
+		"Brand": "On-Stage",
+		"Name": "DB200 Mini DI Box",
+		"Width": 1.78,
+		"Height": 3.75,
+		"Image": "on-stage-db200.png"
+	},
+	{
 		"Brand": "OPFXS",
 		"Name": "Asteroide",
 		"Width": 2.91,
@@ -47669,6 +47746,13 @@
 		"Width": 3.78,
 		"Height": 6.57,
 		"Image": "shin-ei-fy-6.png"
+	},
+	{
+		"Brand": "Shin-ei",
+		"Name": "Not So B1G 1",
+		"Width": 3.25,
+		"Height": 3.67,
+		"Image": "shin-ei-not-so-b1g-1.png"
 	},
 	{
 		"Brand": "Shin-ei",
