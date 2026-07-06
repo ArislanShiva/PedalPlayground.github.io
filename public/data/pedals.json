@@ -10544,6 +10544,20 @@
 	},
 	{
 		"Brand": "Colorsound",
+		"Name": "MKIV Tone Bender",
+		"Width": 3.82,
+		"Height": 9.1,
+		"Image": "colorsound-mkiv-tone-bender.png"
+	},
+	{
+		"Brand": "Colorsound",
+		"Name": "One Knob Fuzz",
+		"Width": 3.82,
+		"Height": 9.1,
+		"Image": "colorsound-one-knob-fuzz.png"
+	},
+	{
+		"Brand": "Colorsound",
 		"Name": "Power Boost",
 		"Width": 3.8189,
 		"Height": 8.66142,
@@ -32146,6 +32160,13 @@
 	},
 	{
 		"Brand": "Lateral Phonics",
+		"Name": "Deadman Fuzz MK2",
+		"Width": 3.7,
+		"Height": 4.98,
+		"Image": "lateral-phonics-deadman-fuzz-mk2.png"
+	},
+	{
+		"Brand": "Lateral Phonics",
 		"Name": "Knife Cooper",
 		"Width": 2.83,
 		"Height": 4.5,
@@ -32157,6 +32178,13 @@
 		"Width": 2.83,
 		"Height": 4.5,
 		"Image": "lateral-phonics-knife-od-fuzz.png"
+	},
+	{
+		"Brand": "Lateral Phonics",
+		"Name": "Marrakesh Console MK3",
+		"Width": 4.07,
+		"Height": 4.7,
+		"Image": "lateral-phonics-marrakesh-console-mk3.png"
 	},
 	{
 		"Brand": "Lateral Phonics",
@@ -48659,6 +48687,13 @@
 	},
 	{
 		"Brand": "Sola Sound",
+		"Name": "MKII Tone Bender",
+		"Width": 4.4,
+		"Height": 8.54,
+		"Image": "sola-sound-mkii-tone-bender.png"
+	},
+	{
+		"Brand": "Sola Sound",
 		"Name": "SCB Tone Bender",
 		"Width": 4.4,
 		"Height": 8.5,
@@ -48670,6 +48705,13 @@
 		"Width": 3.75,
 		"Height": 8.6,
 		"Image": "sola-sound-yellow-hybrid.png"
+	},
+	{
+		"Brand": "Sola Sound",
+		"Name": "Treble Booster",
+		"Width": 3.82,
+		"Height": 9.1,
+		"Image": "sola-sound-treble-booster.png"
 	},
 	{
 		"Brand": "Solar Guitars",
