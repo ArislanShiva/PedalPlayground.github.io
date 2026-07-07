@@ -19945,6 +19945,13 @@
 	},
 	{
 		"Brand": "Fjord Fuzz",
+		"Name": "Midgard",
+		"Width": 2.75,
+		"Height": 4.91,
+		"Image": "fjord-midgard.png"
+	},
+	{
+		"Brand": "Fjord Fuzz",
 		"Name": "Midnattssol",
 		"Width": 5.7,
 		"Height": 4.9,
@@ -41959,6 +41966,13 @@
 		"Image": "october-audio-witch-finger-always-on.png"
 	},
 	{
+		"Brand": "OFX",
+		"Name": "Purple Ohm Fuzz",
+		"Width": 2.97,
+		"Height": 4.8,
+		"Image": "ofx-purple-ohm-fuzz.png"
+	},
+	{
 		"Brand": "Olinthus",
 		"Name": "Cicada",
 		"Width": 1.2,
@@ -57589,6 +57603,20 @@
 		"Width": 2.6,
 		"Height": 4.95,
 		"Image": "walrus-lum.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Lüm (Black)",
+		"Width": 2.6,
+		"Height": 4.95,
+		"Image": "walrus-lum-black.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Lüm (Guava)",
+		"Width": 2.6,
+		"Height": 4.95,
+		"Image": "walrus-lum-guava.png"
 	},
 	{
 		"Brand": "Walrus Audio",
