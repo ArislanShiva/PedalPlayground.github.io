@@ -421,6 +421,13 @@
 	},
 	{
 		"Brand": "AC Noises",
+		"Name": "Continua",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "acn-continua.png"
+	},
+	{
+		"Brand": "AC Noises",
 		"Name": "Esplora",
 		"Width": 2.6,
 		"Height": 5.02,
@@ -50693,6 +50700,13 @@
 		"Width": 6.75,
 		"Height": 4.9,
 		"Image": "strymon-timeline-midnight.png"
+	},
+	{
+		"Brand": "Strymon",
+		"Name": "Timeline MX",
+		"Width": 7,
+		"Height": 4.95,
+		"Image": "strymon-timeline-mx.png"
 	},
 	{
 		"Brand": "Strymon",
