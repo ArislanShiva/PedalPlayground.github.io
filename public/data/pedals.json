@@ -1086,6 +1086,13 @@
 	},
 	{
 		"Brand": "Alexander",
+		"Name": "Fish Stealer",
+		"Width": 2.89,
+		"Height": 4.88,
+		"Image": "alexander-fish-stealer.png"
+	},
+	{
+		"Brand": "Alexander",
 		"Name": "Forget-Me-Not",
 		"Width": 5.7,
 		"Height": 4.95,
@@ -3050,6 +3057,20 @@
 		"Width": 16.75,
 		"Height": 6.25,
 		"Image": "atomic-amplifire-12.png"
+	},
+	{
+		"Brand": "Attic Audio",
+		"Name": "Centaur",
+		"Width": 3.7,
+		"Height": 4.94,
+		"Image": "attic-audio-centaur.png"
+	},
+	{
+		"Brand": "Attic Audio",
+		"Name": "Puffy",
+		"Width": 2.73,
+		"Height": 4.91,
+		"Image": "attic-audio-puffy.png"
 	},
 	{
 		"Brand": "Audio Cultivation Project",
@@ -16281,6 +16302,13 @@
 		"Width": 2.6,
 		"Height": 4.94,
 		"Image": "earthquaker-zoar.png"
+	},
+	{
+		"Brand": "EarthQuaker",
+		"Name": "Zoar (Cat Paws)",
+		"Width": 2.6,
+		"Height": 4.94,
+		"Image": "earthquaker-zoar-cat-paws.png"
 	},
 	{
 		"Brand": "EBS",
@@ -41302,6 +41330,13 @@
 	},
 	{
 		"Brand": "OBNE",
+		"Name": "Dark Paw",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-dark-paw.png"
+	},
+	{
+		"Brand": "OBNE",
 		"Name": "Dark Star",
 		"Width": 2.87,
 		"Height": 4.96,
@@ -41582,6 +41617,13 @@
 	},
 	{
 		"Brand": "OBNE",
+		"Name": "Farting",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-farting.png"
+	},
+	{
+		"Brand": "OBNE",
 		"Name": "Fault",
 		"Width": 4.7,
 		"Height": 3.86,
@@ -41628,6 +41670,13 @@
 		"Width": 5.95,
 		"Height": 4.88,
 		"Image": "obne-maw-xlr.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Meowdy Pardner Fuzz",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-meowdy-pardner-fuzz.png"
 	},
 	{
 		"Brand": "OBNE",
@@ -41726,6 +41775,20 @@
 		"Width": 2.87,
 		"Height": 4.96,
 		"Image": "obne-procession-v2.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Purrcession",
+		"Width": 2.87,
+		"Height": 4.96,
+		"Image": "obne-purrcession.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Purr-ting",
+		"Width": 4.25,
+		"Height": 4.84,
+		"Image": "obne-purr-ting.png"
 	},
 	{
 		"Brand": "OBNE",
@@ -46717,6 +46780,13 @@
 		"Width": 2.6,
 		"Height": 4.85,
 		"Image": "rhpf-mosghoul.png"
+	},
+	{
+		"Brand": "RhPf Electronics",
+		"Name": "Regista",
+		"Width": 2.6,
+		"Height": 4.85,
+		"Image": "rhpf-regista.png"
 	},
 	{
 		"Brand": "RhPf Electronics",

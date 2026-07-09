@@ -575,6 +575,13 @@
 	},
 	{
 		"Brand": "GigRig",
+		"Name": "Small Single Tier Pedalboard",
+		"Width": 13.03,
+		"Height": 13.18,
+		"Image": "gigrig-small-single-tier.png"
+	},
+	{
+		"Brand": "GigRig",
 		"Name": "Small Wide Tier",
 		"Width": 11.4,
 		"Height": 6.2,
