@@ -8297,6 +8297,13 @@
 	},
 	{
 		"Brand": "Caroline",
+		"Name": "Meteore (10th Anniversary Special)",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "caroline-meteore-10th-anniversary-special.png"
+	},
+	{
+		"Brand": "Caroline",
 		"Name": "Meteore (Cosmic Purple)",
 		"Width": 3.7,
 		"Height": 4.89,
@@ -8416,6 +8423,13 @@
 	},
 	{
 		"Brand": "Caroline",
+		"Name": "Tomato Pie V2",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "caroline-tomato-pie-v2.png"
+	},
+	{
+		"Brand": "Caroline",
 		"Name": "Wave Cannon",
 		"Width": 3.7,
 		"Height": 4.88,
@@ -8434,6 +8448,13 @@
 		"Width": 3.7,
 		"Height": 4.89,
 		"Image": "caroline-wave-cannon-mk2-1985.png"
+	},
+	{
+		"Brand": "Caroline",
+		"Name": "Wave Cannon Silicon Zero",
+		"Width": 3.7,
+		"Height": 4.89,
+		"Image": "caroline-wave-cannon-silicon-zero.png"
 	},
 	{
 		"Brand": "Caroline",
@@ -19797,6 +19818,13 @@
 		"Image": "fire-eye-red-eye-preamp.png"
 	},
 	{
+		"Brand": "Fire-Eye",
+		"Name": "Red-Eye Twin Preamp",
+		"Width": 5.68,
+		"Height": 3.97,
+		"Image": "fire-eye-red-eye-twin-preamp.png"
+	},
+	{
 		"Brand": "Fish Circuits",
 		"Name": "Astronomie",
 		"Width": 4.5,
@@ -22311,6 +22339,13 @@
 	},
 	{
 		"Brand": "Fuzzlord",
+		"Name": "Nazareth Octave Distortion",
+		"Width": 3.7,
+		"Height": 4.81,
+		"Image": "fuzzlord-nazareth.png"
+	},
+	{
+		"Brand": "Fuzzlord",
 		"Name": "Octave Master Boost",
 		"Width": 2.6,
 		"Height": 5.1,
@@ -22570,10 +22605,24 @@
 	},
 	{
 		"Brand": "Gamechanger Audio",
-		"Name": "Plus",
+		"Name": "Plus Pedal",
 		"Width": 3.62,
 		"Height": 7.99,
 		"Image": "gamechanger-audio-plus-sustain.png"
+	},
+	{
+		"Brand": "Gamechanger Audio",
+		"Name": "Plus Pedal II",
+		"Width": 3.4,
+		"Height": 7.75,
+		"Image": "gamechanger-audio-plus-2.png"
+	},
+	{
+		"Brand": "Gamechanger Audio",
+		"Name": "Plus Pedal II Footswitch",
+		"Width": 2.28,
+		"Height": 2.47,
+		"Image": "gamechanger-audio-plus-2-footswitch.png"
 	},
 	{
 		"Brand": "Gamechanger Audio",
