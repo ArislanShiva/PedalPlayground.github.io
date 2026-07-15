@@ -43962,6 +43962,13 @@
 	},
 	{
 		"Brand": "PastFX",
+		"Name": "OG-2",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-og2.png"
+	},
+	{
+		"Brand": "PastFX",
 		"Name": "Patriarch",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -43994,6 +44001,13 @@
 		"Width": 2.67,
 		"Height": 4.5,
 		"Image": "pastfx-reticon.png"
+	},
+	{
+		"Brand": "PastFX",
+		"Name": "Retiklon",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-retiklon.png"
 	},
 	{
 		"Brand": "PastFX",

@@ -3,7 +3,7 @@ var pedalboardImagePath = "public/images/pedalboards/";
 var units = 'in';
 
 $(document).ready(function () {
-	
+
 	// Populate Pedalboards and Pedals lists
 	GetPedalData();
 	GetPedalBoardData();
@@ -597,7 +597,7 @@ function importPedalCanvas(file) {
 			blob = JSON.parse(reader.result);
 
 			// TODO: check source and version
-			
+
 			$(".canvas").html(blob.canvas);
 			readyCanvas();
 		},
@@ -913,6 +913,7 @@ $("body").on("click", ".item", function (e) {
 		<a href="#front" class="panel__action">Move Front <i>]</i></a>\
 		<a href="#back" class="panel__action">Move Back <i>[</i></a>\
 		<a href="#delete" class="panel__action">Delete <i>D</i></a>\
+		<span class="panel__action panel__tooltip">Multi-Select <i>SHIFT-CLICK</i></span>\
 	</div>';
 
 	// reset stuff
