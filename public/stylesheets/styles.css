@@ -7788,6 +7788,12 @@ body .btn {
 .item.selected:after {
   border-color: #5C62FC;
 }
+.item.group-selected:after {
+  border-color: #41C74D;
+}
+.item.group-selected:hover:after {
+  border-color: #41C74D;
+}
 .item.is-dragging .actions {
   opacity: 0;
 }
@@ -7926,6 +7932,10 @@ body .btn {
 }
 .pedal--custom.selected:after {
   border-color: #2AC3F3;
+}
+.pedal--custom.group-selected:after,
+.pedal--custom.group-selected:hover:after {
+  border-color: #41C74D;
 }
 
 .pedalboard {

@@ -7968,6 +7968,13 @@
 	},
 	{
 		"Brand": "Carl Martin",
+		"Name": "Acoustic Gig",
+		"Width": 14.37,
+		"Height": 4.89,
+		"Image": "carl-martin-acoustic-gig.png"
+	},
+	{
+		"Brand": "Carl Martin",
 		"Name": "Ampster",
 		"Width": 5.7,
 		"Height": 4.87,
@@ -7997,13 +8004,34 @@
 	{
 		"Brand": "Carl Martin",
 		"Name": "DC Drive",
-		"Width": 2.6,
-		"Height": 4.88,
+		"Width": 2.36,
+		"Height": 4.43,
 		"Image": "carl-martin-dc-drive.png"
 	},
 	{
 		"Brand": "Carl Martin",
-		"Name": "Headroom Mini",
+		"Name": "Dual Compressor Limiter",
+		"Width": 3.7,
+		"Height": 4.87,
+		"Image": "carl-martin-dual-compressor-limiter.png"
+	},
+	{
+		"Brand": "Carl Martin",
+		"Name": "Greg Howe's Lick Box",
+		"Width": 7.32,
+		"Height": 4.8,
+		"Image": "carl-martin-greg-howes-lick-box.png"
+	},
+	{
+		"Brand": "Carl Martin",
+		"Name": "HeadRoom",
+		"Width": 10.24,
+		"Height": 5.62,
+		"Image": "carl-martin-headroom.png"
+	},
+	{
+		"Brand": "Carl Martin",
+		"Name": "HeadRoom Mini",
 		"Width": 3.7,
 		"Height": 4.87,
 		"Image": "carl-martin-headroom-mini.png"
@@ -8053,15 +8081,15 @@
 	{
 		"Brand": "Carl Martin",
 		"Name": "Ottawa",
-		"Width": 2.6,
-		"Height": 4.88,
+		"Width": 2.36,
+		"Height": 4.43,
 		"Image": "carl-martin-ottawa.png"
 	},
 	{
 		"Brand": "Carl Martin",
 		"Name": "Panama",
-		"Width": 2.6,
-		"Height": 4.88,
+		"Width": 2.36,
+		"Height": 4.43,
 		"Image": "carl-martin-panama.png"
 	},
 	{
@@ -8095,8 +8123,8 @@
 	{
 		"Brand": "Carl Martin",
 		"Name": "Purple Moon",
-		"Width": 2.6,
-		"Height": 4.88,
+		"Width": 2.36,
+		"Height": 4.43,
 		"Image": "carl-martin-purple-moon.png"
 	},
 	{
@@ -8109,15 +8137,15 @@
 	{
 		"Brand": "Carl Martin",
 		"Name": "Surf Trem",
-		"Width": 2.6,
-		"Height": 4.88,
+		"Width": 2.36,
+		"Height": 4.43,
 		"Image": "carl-martin-surf-trem.png"
 	},
 	{
 		"Brand": "Carl Martin",
 		"Name": "Tone Tweaker",
-		"Width": 2.6,
-		"Height": 4.88,
+		"Width": 2.36,
+		"Height": 4.43,
 		"Image": "carl-martin-tone-tweaker.png"
 	},
 	{
