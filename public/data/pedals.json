@@ -8563,6 +8563,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Airstrip (Red)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-airstrip-red.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Antichthon",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -8724,6 +8731,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "Crooner",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-crooner.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "Dirty Little Secret",
 		"Width": 2.7,
 		"Height": 4.5,
@@ -8756,6 +8770,13 @@
 		"Width": 2.7,
 		"Height": 4.5,
 		"Image": "catalinbread-echorec.png"
+	},
+	{
+		"Brand": "Catalinbread",
+		"Name": "Echorec (Blackout)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-echorec-blackout.png"
 	},
 	{
 		"Brand": "Catalinbread",
@@ -9095,6 +9116,13 @@
 	},
 	{
 		"Brand": "Catalinbread",
+		"Name": "SFT (Blackout)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-sft-blackout.png"
+	},
+	{
+		"Brand": "Catalinbread",
 		"Name": "SFX Tap",
 		"Width": 1.59,
 		"Height": 3.82,
@@ -9239,6 +9267,13 @@
 		"Width": 2.7,
 		"Height": 4.5,
 		"Image": "catalinbread-talisman-arthaus.png"
+	},
+	{
+		"Brand": "Catalinbread",
+		"Name": "Talisman (Blackout)",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-talisman-blackout.png"
 	},
 	{
 		"Brand": "Catalinbread",
@@ -25972,6 +26007,13 @@
 	},
 	{
 		"Brand": "Hungry Robot",
+		"Name": "The Stargazer",
+		"Width": 5.7,
+		"Height": 4.91,
+		"Image": "hungry-robot-the-stargazer.png"
+	},
+	{
+		"Brand": "Hungry Robot",
 		"Name": "The Wardenclyffe",
 		"Width": 3.7,
 		"Height": 4.95,
@@ -28342,6 +28384,13 @@
 		"Width": 3.96,
 		"Height": 4.7,
 		"Image": "jhs-notadumble.png"
+	},
+	{
+		"Brand": "JHS",
+		"Name": "NOTADÜMBLË V2",
+		"Width": 3.98,
+		"Height": 4.7,
+		"Image": "jhs-notadumble-v2.png"
 	},
 	{
 		"Brand": "JHS",
@@ -31478,6 +31527,13 @@
 		"Width": 3.91,
 		"Height": 4.89,
 		"Image": "kma-audio-machines-chief-disruptor.png"
+	},
+	{
+		"Brand": "KMA",
+		"Name": "Chief Disruptor (Bloodstone)",
+		"Width": 3.85,
+		"Height": 4.88,
+		"Image": "kma-audio-machines-chief-disruptor-bloodstone.png"
 	},
 	{
 		"Brand": "KMA",
