@@ -13715,6 +13715,13 @@
 	},
 	{
 		"Brand": "DOD",
+		"Name": "Drag",
+		"Width": 2.8,
+		"Height": 4.75,
+		"Image": "dod-drag.png"
+	},
+	{
+		"Brand": "DOD",
 		"Name": "Equalizer FX40-B",
 		"Width": 3.35,
 		"Height": 5.13,
@@ -13747,6 +13754,13 @@
 		"Width": 3.3,
 		"Height": 5.13,
 		"Image": "dod-fx64.png"
+	},
+	{
+		"Brand": "DOD",
+		"Name": "Juice Box FX51",
+		"Width": 3.3,
+		"Height": 5.13,
+		"Image": "dod-fx51.png"
 	},
 	{
 		"Brand": "DOD",
@@ -37962,16 +37976,16 @@
 		"Image": "moth-electric-s-abbottii.png"
 	},
 	{
-		"Brand": "MOYO",
+		"Brand": "Moyo",
 		"Name": "Mini Expression",
-		"Width": 2.125,
+		"Width": 2.09,
 		"Height": 6,
 		"Image": "moyo-mini-expression.png"
 	},
 	{
-		"Brand": "MOYO",
+		"Brand": "Moyo",
 		"Name": "Mini Volume",
-		"Width": 2.125,
+		"Width": 2.09,
 		"Height": 6,
 		"Image": "moyo-mini-volume.png"
 	},
