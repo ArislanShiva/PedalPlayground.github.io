@@ -40791,6 +40791,13 @@
 	},
 	{
 		"Brand": "Native Audio",
+		"Name": "In the Water",
+		"Width": 3.7,
+		"Height": 4.84,
+		"Image": "native-audio-in-the-water.png"
+	},
+	{
+		"Brand": "Native Audio",
 		"Name": "Kiaayo",
 		"Width": 2.6,
 		"Height": 5,
@@ -43983,6 +43990,13 @@
 	},
 	{
 		"Brand": "PastFX",
+		"Name": "I.C. Mufnstuf",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-ic-mufnstuf.png"
+	},
+	{
+		"Brand": "PastFX",
 		"Name": "Jet Phaser",
 		"Width": 5.01,
 		"Height": 3.7,
@@ -44085,6 +44099,13 @@
 		"Width": 2.67,
 		"Height": 4.5,
 		"Image": "pastfx-revolution.png"
+	},
+	{
+		"Brand": "PastFX",
+		"Name": "Ring Modulator",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-ring-modulator.png"
 	},
 	{
 		"Brand": "PastFX",
