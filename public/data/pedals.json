@@ -13659,6 +13659,13 @@
 	},
 	{
 		"Brand": "DOD",
+		"Name": "Big Pig Fat Distortion FX70-P",
+		"Width": 3.35,
+		"Height": 5.13,
+		"Image": "dod-fx70p.png"
+	},
+	{
+		"Brand": "DOD",
 		"Name": "Bifet Boost 410",
 		"Width": 2.93,
 		"Height": 4.68,
@@ -23855,6 +23862,13 @@
 		"Width": 2.63,
 		"Height": 4.5,
 		"Image": "greer-mizuki-blue.png"
+	},
+	{
+		"Brand": "Greer Amps",
+		"Name": "Mori Drive",
+		"Width": 4.67,
+		"Height": 3.85,
+		"Image": "greer-mori-drive.png"
 	},
 	{
 		"Brand": "Greer Amps",
@@ -57127,6 +57141,27 @@
 		"Width": 6.75,
 		"Height": 5.28,
 		"Image": "warm-audio-centavo-silver.png"
+	},
+	{
+		"Brand": "Warm Audio",
+		"Name": "Dirty Boy Jr Booster",
+		"Width": 2.76,
+		"Height": 4.84,
+		"Image": "warm-audio-dirty-boy-jr-booster.png"
+	},
+	{
+		"Brand": "Warm Audio",
+		"Name": "Dirty Boy Jr Fuzz",
+		"Width": 2.76,
+		"Height": 4.84,
+		"Image": "warm-audio-dirty-boy-jr-fuzz.png"
+	},
+	{
+		"Brand": "Warm Audio",
+		"Name": "Dirty Boy Jr Overdrive",
+		"Width": 2.76,
+		"Height": 4.84,
+		"Image": "warm-audio-dirty-boy-jr-overdrive.png"
 	},
 	{
 		"Brand": "Warm Audio",
