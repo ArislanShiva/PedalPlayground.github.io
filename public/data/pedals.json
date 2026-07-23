@@ -26105,6 +26105,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "BC10 Stereo Bass Chorus",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-bc10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "Big Mini Tuner",
 		"Width": 2.03,
 		"Height": 3.68,
@@ -26154,6 +26161,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "DDL20 Digital Delay III",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ddl20.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "DE7 Delay/Echo",
 		"Width": 3,
 		"Height": 5,
@@ -26189,8 +26203,8 @@
 	},
 	{
 		"Brand": "Ibanez",
-		"Name": "MT-10 Mostortion",
-		"Width": 2.67,
+		"Name": "MT10 Mostortion",
+		"Width": 2.76,
 		"Height": 5.02,
 		"Image": "ibanez-mt10.png"
 	},
@@ -26266,7 +26280,7 @@
 	},
 	{
 		"Brand": "Ibanez",
-		"Name": "TS-10 Tube Screamer",
+		"Name": "TS10 Tube Screamer",
 		"Width": 2.76,
 		"Height": 5.02,
 		"Image": "ibanez-ts10.png"
