@@ -26126,6 +26126,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "BP10 Bass Compressor",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-bp10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "CF7 Chorus/Flanger",
 		"Width": 3,
 		"Height": 5,
@@ -26172,6 +26179,13 @@
 		"Width": 3,
 		"Height": 5,
 		"Image": "ibanez-de7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "DL10 Digital Delay",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-dl10.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26245,7 +26259,7 @@
 	},
 	{
 		"Brand": "Ibanez",
-		"Name": "SC-10 Stereo Chorus",
+		"Name": "SC10 Super Stereo Chorus",
 		"Width": 2.76,
 		"Height": 5.02,
 		"Image": "ibanez-sc10.png"
