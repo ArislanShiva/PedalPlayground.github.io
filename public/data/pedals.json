@@ -22898,6 +22898,69 @@
 		"Image": "ghost-note-audio-swirls.png"
 	},
 	{
+		"Brand": "Gigagain",
+		"Name": "Blue Giant",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-blue-giant.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Dualay",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-dualay.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Final Fusion",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-final-fusion.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Gainster",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-gainster.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Giga Screamer",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-giga-screamer.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Golden Legacy",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-golden-legacy.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "JFET Comp",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-jfet-comp.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Silver Legacy",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-silver-legacy.png"
+	},
+	{
+		"Brand": "Gigagain",
+		"Name": "Superkick",
+		"Width": 2.48,
+		"Height": 4.66,
+		"Image": "gigagain-superkick.png"
+	},
+	{
 		"Brand": "GigRig",
 		"Name": "ABY Baby",
 		"Width": 6.45,
@@ -39335,6 +39398,13 @@
 	},
 	{
 		"Brand": "MXR",
+		"Name": "Textures",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "mxr-m310.png"
+	},
+	{
+		"Brand": "MXR",
 		"Name": "Thump",
 		"Width": 1.74,
 		"Height": 3.7,
@@ -43364,6 +43434,13 @@
 		"Width": 3.6,
 		"Height": 5.8,
 		"Image": "origin-deluxe61.png"
+	},
+	{
+		"Brand": "Origin Effects",
+		"Name": "EQDELUXE",
+		"Width": 3.39,
+		"Height": 4.79,
+		"Image": "origin-eqdeluxe.png"
 	},
 	{
 		"Brand": "Origin Effects",
@@ -56105,6 +56182,13 @@
 		"Width": 2.75,
 		"Height": 4.5,
 		"Image": "vemuram-karen.png"
+	},
+	{
+		"Brand": "Vemuram",
+		"Name": "Las Lunas",
+		"Width": 2.75,
+		"Height": 4.5,
+		"Image": "vemuram-las-lunas.png"
 	},
 	{
 		"Brand": "Vemuram",
