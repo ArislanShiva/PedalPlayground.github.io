@@ -23683,6 +23683,20 @@
 	},
 	{
 		"Brand": "Grace Design",
+		"Name": "m303 Active Isolated Direct Box",
+		"Width": 5.3,
+		"Height": 3.17,
+		"Image": "grace-design-m303.png"
+	},
+	{
+		"Brand": "Grace Design",
+		"Name": "m303s Active Isolated Stereo Direct Box",
+		"Width": 5.3,
+		"Height": 3.93,
+		"Image": "grace-design-m303s.png"
+	},
+	{
+		"Brand": "Grace Design",
 		"Name": "ROXi",
 		"Width": 6.2,
 		"Height": 5.54,
