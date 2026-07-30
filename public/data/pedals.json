@@ -9634,6 +9634,20 @@
 	},
 	{
 		"Brand": "Chase Bliss",
+		"Name": "Bad Mood (Ink)",
+		"Width": 2.86,
+		"Height": 4.86,
+		"Image": "chasebliss-bad-mood-ink.png"
+	},
+	{
+		"Brand": "Chase Bliss",
+		"Name": "Bad Mood (Xtreme Red)",
+		"Width": 2.86,
+		"Height": 4.86,
+		"Image": "chasebliss-bad-mood-xtreme-red.png"
+	},
+	{
+		"Brand": "Chase Bliss",
 		"Name": "Big Time",
 		"Width": 5.75,
 		"Height": 6.58,
@@ -9799,6 +9813,13 @@
 		"Width": 2.86,
 		"Height": 4.86,
 		"Image": "chasebliss-lost-found.png"
+	},
+	{
+		"Brand": "Chase Bliss",
+		"Name": "Lost + Found (Black)",
+		"Width": 2.86,
+		"Height": 4.86,
+		"Image": "chasebliss-lost-found-black.png"
 	},
 	{
 		"Brand": "Chase Bliss",
@@ -38569,6 +38590,20 @@
 		"Width": 8.35,
 		"Height": 1.51,
 		"Image": "mvave-chocolate.png"
+	},
+	{
+		"Brand": "M-VAVE",
+		"Name": "Elemental Pro",
+		"Width": 2.73,
+		"Height": 4.41,
+		"Image": "mvave-elemental-pro.png"
+	},
+	{
+		"Brand": "M-VAVE",
+		"Name": "Galaxia",
+		"Width": 2.73,
+		"Height": 4.41,
+		"Image": "mvave-galaxia.png"
 	},
 	{
 		"Brand": "M-VAVE",
