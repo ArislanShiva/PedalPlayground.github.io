@@ -1428,6 +1428,13 @@
 		"Image": "allpedal-slamurai.png"
 	},
 	{
+		"Brand": "ALM Busy Circuits",
+		"Name": "MFX Pedal",
+		"Width": 2.8,
+		"Height": 4.92,
+		"Image": "alm-busy-circuits-mfx-pedal.png"
+	},
+	{
 		"Brand": "Altero",
 		"Name": "Kaede",
 		"Width": 2.76,
