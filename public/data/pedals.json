@@ -10873,6 +10873,34 @@
 	},
 	{
 		"Brand": "Coppersound",
+		"Name": "DIY Boost-A-Drive-A-Fuzz",
+		"Width": 2.6,
+		"Height": 4.98,
+		"Image": "coppersound-diy-boost-a-drive-a-fuzz.png"
+	},
+	{
+		"Brand": "Coppersound",
+		"Name": "DIY Hard Clip Distortion",
+		"Width": 2.6,
+		"Height": 4.98,
+		"Image": "coppersound-diy-hard-clip-distortion.png"
+	},
+	{
+		"Brand": "Coppersound",
+		"Name": "DIY Silicon Fuzz",
+		"Width": 2.6,
+		"Height": 4.98,
+		"Image": "coppersound-diy-silicon-fuzz.png"
+	},
+	{
+		"Brand": "Coppersound",
+		"Name": "DIY Single Transistor Overdrive",
+		"Width": 2.6,
+		"Height": 4.98,
+		"Image": "coppersound-diy-single-transistor-overdrive.png"
+	},
+	{
+		"Brand": "Coppersound",
 		"Name": "Foxcatcher",
 		"Width": 4.7,
 		"Height": 3.87,
@@ -18916,10 +18944,31 @@
 	},
 	{
 		"Brand": "Empty Head Effects",
+		"Name": "King Alex II",
+		"Width": 4.7,
+		"Height": 3.85,
+		"Image": "empty-head-king-alex-2.png"
+	},
+	{
+		"Brand": "Empty Head Effects",
+		"Name": "Seafarer",
+		"Width": 7.5,
+		"Height": 4.91,
+		"Image": "empty-head-seafarer.png"
+	},
+	{
+		"Brand": "Empty Head Effects",
 		"Name": "The External / Internal",
 		"Width": 4.7,
 		"Height": 3.85,
 		"Image": "empty-head-the-external-internal.png"
+	},
+	{
+		"Brand": "Empty Head Effects",
+		"Name": "The Lover",
+		"Width": 2.6,
+		"Height": 4.89,
+		"Image": "empty-head-the-lover.png"
 	},
 	{
 		"Brand": "Endorphines",
@@ -45062,8 +45111,8 @@
 	{
 		"Brand": "Pigtronix",
 		"Name": "Mothership 2",
-		"Width": 2.76,
-		"Height": 4.5,
+		"Width": 2.73,
+		"Height": 4.56,
 		"Image": "pigtronix-mothership-2.png"
 	},
 	{
@@ -45135,6 +45184,13 @@
 		"Width": 2.76,
 		"Height": 4.5,
 		"Image": "pigtronix-resotron.png"
+	},
+	{
+		"Brand": "Pigtronix",
+		"Name": "Ringmaster",
+		"Width": 2.73,
+		"Height": 4.56,
+		"Image": "pigtronix-ringmaster.png"
 	},
 	{
 		"Brand": "Pigtronix",
@@ -46318,6 +46374,13 @@
 		"Width": 2.66,
 		"Height": 4.67,
 		"Image": "raingerfx-razor-fuzz.png"
+	},
+	{
+		"Brand": "Rainger FX",
+		"Name": "Recycle Box",
+		"Width": 3.44,
+		"Height": 4.85,
+		"Image": "raingerfx-recycle-box.png"
 	},
 	{
 		"Brand": "Rainger FX",
