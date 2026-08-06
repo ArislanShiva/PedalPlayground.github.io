@@ -31278,6 +31278,13 @@
 	},
 	{
 		"Brand": "Kingsley",
+		"Name": "Mason",
+		"Width": 3.25,
+		"Height": 4.1,
+		"Image": "kingsley-mason.png"
+	},
+	{
+		"Brand": "Kingsley",
 		"Name": "Minstrel",
 		"Width": 3.88,
 		"Height": 4.85,
@@ -49125,6 +49132,13 @@
 		"Width": 4.7,
 		"Height": 3.83,
 		"Image": "sm-fuzz-octave-fuzz.png"
+	},
+	{
+		"Brand": "SM Fuzz",
+		"Name": "Octaveon",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "sm-fuzz-octaveon.png"
 	},
 	{
 		"Brand": "Smart Belle",
