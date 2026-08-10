@@ -21625,6 +21625,34 @@
 	},
 	{
 		"Brand": "Frost Giant Electronics",
+		"Name": "Bass Mountain",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-bass-mountain.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Big Fuzz",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-big-fuzz.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Big Fuzz (Black Russian)",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-big-fuzz-black-russian.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "Eidolon",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-eidolon.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
 		"Name": "Little Acid Fuzz",
 		"Width": 2.6,
 		"Height": 5,
@@ -21657,6 +21685,20 @@
 		"Width": 3.7,
 		"Height": 4.9,
 		"Image": "frost-giant-soma-v3.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "The Mountain V3",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-the-mountain.png"
+	},
+	{
+		"Brand": "Frost Giant Electronics",
+		"Name": "The Mountain Germanium",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "frost-giant-the-mountain-ge.png"
 	},
 	{
 		"Brand": "Frost Giant Electronics",
@@ -30869,6 +30911,13 @@
 		"Width": 4.7,
 		"Height": 3.82,
 		"Image": "keeley-tone-workstation.png"
+	},
+	{
+		"Brand": "Keeley",
+		"Name": "Tube Drive (12AT7WA)",
+		"Width": 4,
+		"Height": 5.04,
+		"Image": "keeley-tube-drive-12at7wa.png"
 	},
 	{
 		"Brand": "Keeley",
