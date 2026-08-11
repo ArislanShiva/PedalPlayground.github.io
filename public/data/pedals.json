@@ -27525,6 +27525,13 @@
 		"Image": "jackson-twin-trem.png"
 	},
 	{
+		"Brand": "Jad Freer",
+		"Name": "Capo",
+		"Width": 4.13,
+		"Height": 5.09,
+		"Image": "jad-freer-capo.png"
+	},
+	{
 		"Brand": "Jam Pedals",
 		"Name": "Big Chill",
 		"Width": 5.14,
@@ -39167,6 +39174,13 @@
 	},
 	{
 		"Brand": "MXR",
+		"Name": "Flanger/Doubler",
+		"Width": 4.75,
+		"Height": 3.65,
+		"Image": "mxr-m226r.png"
+	},
+	{
+		"Brand": "MXR",
 		"Name": "FOD",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -41624,6 +41638,27 @@
 	},
 	{
 		"Brand": "OBNE",
+		"Name": "Beam Splitter V2 (Cool)",
+		"Width": 5.4,
+		"Height": 4.84,
+		"Image": "obne-beam-splitter-v2-cool.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Beam Splitter V2 (Shadow)",
+		"Width": 5.4,
+		"Height": 4.84,
+		"Image": "obne-beam-splitter-v2-shadow.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Beam Splitter V2 (Warm)",
+		"Width": 5.4,
+		"Height": 4.84,
+		"Image": "obne-beam-splitter-v2-warm.png"
+	},
+	{
+		"Brand": "OBNE",
 		"Name": "BL-13",
 		"Width": 2.71,
 		"Height": 4.67,
@@ -42304,9 +42339,16 @@
 	{
 		"Brand": "OBNE",
 		"Name": "Signal Blender Stereo",
-		"Width": 5.5,
-		"Height": 5.04,
+		"Width": 5.4,
+		"Height": 4.94,
 		"Image": "obne-signalblender-stereo.png"
+	},
+	{
+		"Brand": "OBNE",
+		"Name": "Signal Blender Stereo (Basic)",
+		"Width": 5.4,
+		"Height": 4.94,
+		"Image": "obne-signalblender-stereo-basic.png"
 	},
 	{
 		"Brand": "OBNE",
