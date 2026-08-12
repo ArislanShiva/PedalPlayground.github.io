@@ -46600,6 +46600,34 @@
 		"Image": "ramble-twin-bender.png"
 	},
 	{
+		"Brand": "Ravenstone",
+		"Name": "1959 Distortion (Black)",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "ravenstone-1959-distortion.png"
+	},
+	{
+		"Brand": "Ravenstone",
+		"Name": "1959 Distortion (Red)",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "ravenstone-1959-distortion-red.png"
+	},
+	{
+		"Brand": "Ravenstone",
+		"Name": "1959 Distortion (White)",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "ravenstone-1959-distortion-white.png"
+	},
+	{
+		"Brand": "Ravenstone",
+		"Name": "Apollo (Generation 2)",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "ravenstone-apollo-gen-2.png"
+	},
+	{
 		"Brand": "Rawkworks",
 		"Name": "Light OD",
 		"Width": 2.62,
