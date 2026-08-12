@@ -26301,6 +26301,20 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "AP7 Analog Phaser",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-ap7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "AW7 Autowah",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-aw7.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "BC10 Stereo Bass Chorus",
 		"Width": 2.76,
 		"Height": 5.02,
@@ -26330,8 +26344,8 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "CF7 Chorus/Flanger",
-		"Width": 3,
-		"Height": 5,
+		"Width": 2.88,
+		"Height": 4.9,
 		"Image": "ibanez-cf7.png"
 	},
 	{
@@ -26372,8 +26386,8 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "DE7 Delay/Echo",
-		"Width": 3,
-		"Height": 5,
+		"Width": 2.88,
+		"Height": 4.9,
 		"Image": "ibanez-de7.png"
 	},
 	{
@@ -26382,6 +26396,13 @@
 		"Width": 2.76,
 		"Height": 5.02,
 		"Image": "ibanez-dl10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "DS7 Distortion",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-ds7.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26406,6 +26427,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "FZ7 Fuzz",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-fz7.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "LD303 Layer Delayer",
 		"Width": 6.9,
 		"Height": 4.86,
@@ -26413,10 +26441,24 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "LF7 Lo Fi",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-lf7.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "MT10 Mostortion",
 		"Width": 2.76,
 		"Height": 5.02,
 		"Image": "ibanez-mt10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "PD7 Phat-Hed Bass Distortion",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-pd7.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26441,6 +26483,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "PH7 Phaser",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-ph7.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "Phaser Mini",
 		"Width": 1.98,
 		"Height": 3.65,
@@ -26448,10 +26497,24 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "PM7 Phase Modulator",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-pm7.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "PT9 Phaser",
 		"Width": 2.93,
 		"Height": 4.88,
 		"Image": "ibanez-pt9.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "SB7 Synthesizer Bass",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-sb7.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26469,10 +26532,31 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "SH7 7th Heaven",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-sh7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "SM7 Smash Box",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-sm7.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "Super Metal Mini",
 		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-super-metal-mini.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "TC7 Tri-Mode Chorus",
+		"Width": 2.88,
+		"Height": 4.9,
+		"Image": "ibanez-tc7.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26498,8 +26582,8 @@
 	{
 		"Brand": "Ibanez",
 		"Name": "TS7 Tube Screamer",
-		"Width": 3,
-		"Height": 5,
+		"Width": 2.88,
+		"Height": 4.9,
 		"Image": "ibanez-ts7.png"
 	},
 	{
