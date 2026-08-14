@@ -26378,6 +26378,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "DCF10 Chorus/Flanger",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-dcf10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "DDL20 Digital Delay III",
 		"Width": 2.76,
 		"Height": 5.02,
@@ -26403,6 +26410,13 @@
 		"Width": 2.88,
 		"Height": 4.9,
 		"Image": "ibanez-ds7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "DSC10 Digital Chorus",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-dsc10.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26490,6 +26504,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "PH10 Bi-Mode Phaser",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ph10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "Phaser Mini",
 		"Width": 1.98,
 		"Height": 3.65,
@@ -26557,6 +26578,13 @@
 		"Width": 2.88,
 		"Height": 4.9,
 		"Image": "ibanez-tc7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "TC10 Twin Cam Chorus",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-tc10.png"
 	},
 	{
 		"Brand": "Ibanez",
