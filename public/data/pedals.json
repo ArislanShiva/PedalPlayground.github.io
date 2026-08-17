@@ -26343,6 +26343,20 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "BS10 Bass Stack",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-bs10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "CD10 Delay Champ",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-cd10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "CF7 Chorus/Flanger",
 		"Width": 2.88,
 		"Height": 4.9,
@@ -26354,6 +26368,13 @@
 		"Width": 1.98,
 		"Height": 3.65,
 		"Image": "ibanez-chorus-mini.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "CP10 Compressor Sustainer",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-cp10.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26385,6 +26406,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "DDL10 Delay II",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ddl10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "DDL20 Digital Delay III",
 		"Width": 2.76,
 		"Height": 5.02,
@@ -26406,10 +26434,38 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "DML10 Modulation Delay II",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-dml10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "DML20 Modulation Delay III",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-dml20.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "DPL10 Pan Delay",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-dpl10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "DS7 Distortion",
 		"Width": 2.88,
 		"Height": 4.9,
 		"Image": "ibanez-ds7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "DS10 Distortion Charger",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ds10.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26424,6 +26480,13 @@
 		"Width": 4.7,
 		"Height": 6.3,
 		"Image": "ibanez-echo-shifter.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "FC10 Fat Cat Distortion",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-fc10.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26462,10 +26525,38 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "LM7 L.A. Metal",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-lm7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "MS10 Metal Charger",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ms10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "MT10 Mostortion",
 		"Width": 2.76,
 		"Height": 5.02,
 		"Image": "ibanez-mt10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "NB10 Noise Buster",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-nb10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "PC10 Prime Dual Chorus",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-pc10.png"
 	},
 	{
 		"Brand": "Ibanez",
@@ -26553,6 +26644,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "SF10 Swell Flanger",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-sf10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "SH7 7th Heaven",
 		"Width": 2.88,
 		"Height": 4.9,
@@ -26564,6 +26662,20 @@
 		"Width": 2.88,
 		"Height": 4.9,
 		"Image": "ibanez-sm7.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "SS10 Session-Man",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ss10.png"
+	},
+	{
+		"Brand": "Ibanez",
+		"Name": "SS20 Session-Man II",
+		"Width": 2.76,
+		"Height": 5.02,
+		"Image": "ibanez-ss20.png"
 	},
 	{
 		"Brand": "Ibanez",
