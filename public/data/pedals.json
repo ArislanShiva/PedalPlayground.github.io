@@ -27877,9 +27877,16 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Delay Llama Xtreme",
-		"Width": 5.8,
-		"Height": 4.8,
+		"Width": 5.77,
+		"Height": 4.79,
 		"Image": "jam-delay-llama-xtreme.png"
+	},
+	{
+		"Brand": "Jam Pedals",
+		"Name": "Delay Llama Xtreme (May 4)",
+		"Width": 5.77,
+		"Height": 4.79,
+		"Image": "jam-delay-llama-xtreme-may4.png"
 	},
 	{
 		"Brand": "Jam Pedals",
@@ -28146,6 +28153,13 @@
 		"Width": 2.96,
 		"Height": 4.87,
 		"Image": "jam-seagull.png"
+	},
+	{
+		"Brand": "Jam Pedals",
+		"Name": "Tiny Amp Destroyer",
+		"Width": 5.7,
+		"Height": 4.79,
+		"Image": "jam-tiny-amp-destroyer.png"
 	},
 	{
 		"Brand": "Jam Pedals",
@@ -40417,6 +40431,13 @@
 		"Width": 1.92,
 		"Height": 3.66,
 		"Image": "nobels-odr-mini-2.png"
+	},
+	{
+		"Brand": "Nobels",
+		"Name": "REV-Mini",
+		"Width": 1.91,
+		"Height": 3.66,
+		"Image": "nobels-rev-mini.png"
 	},
 	{
 		"Brand": "Nobels",
