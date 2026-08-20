@@ -26868,6 +26868,13 @@
 	},
 	{
 		"Brand": "Ibanez",
+		"Name": "VL10 Volume Balancer",
+		"Width": 3.39,
+		"Height": 7.95,
+		"Image": "ibanez-vl10.png"
+	},
+	{
+		"Brand": "Ibanez",
 		"Name": "WD7 Weeping Demon",
 		"Width": 6.1,
 		"Height": 10.2,
@@ -58044,6 +58051,13 @@
 		"Width": 2.82,
 		"Height": 4.8,
 		"Image": "walrus-canvas-clock.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Canvas Expression Pedal",
+		"Width": 3.6,
+		"Height": 9.12,
+		"Image": "walrus-canvas-expression-pedal.png"
 	},
 	{
 		"Brand": "Walrus Audio",
