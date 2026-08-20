@@ -31579,6 +31579,13 @@
 	},
 	{
 		"Brand": "Kingsley",
+		"Name": "Alexander",
+		"Width": 3.88,
+		"Height": 4.85,
+		"Image": "kingsley-alexander.png"
+	},
+	{
+		"Brand": "Kingsley",
 		"Name": "Artisan",
 		"Width": 3.88,
 		"Height": 4.85,
@@ -36934,6 +36941,13 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "Blue Faze",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-blue-faze.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "Blues Crab",
 		"Width": 1.67,
 		"Height": 3.75,
@@ -37158,6 +37172,13 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "Grey Faze",
+		"Width": 1.67,
+		"Height": 3.75,
+		"Image": "mooer-grey-faze.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "Groove Loop",
 		"Width": 1.67,
 		"Height": 3.75,
@@ -37348,7 +37369,7 @@
 	{
 		"Brand": "Mooer",
 		"Name": "Ocean Machine",
-		"Width": 8.47,
+		"Width": 8.46,
 		"Height": 4.8,
 		"Image": "mooer-ocean-machine.png"
 	},
