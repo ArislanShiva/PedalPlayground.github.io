@@ -12371,6 +12371,13 @@
 	},
 	{
 		"Brand": "Death By Audio",
+		"Name": "Amp Crash",
+		"Width": 3.76,
+		"Height": 5.95,
+		"Image": "deathbyaudio-amp-crash.png"
+	},
+	{
+		"Brand": "Death By Audio",
 		"Name": "Absolute Destruction",
 		"Width": 2.61,
 		"Height": 4.95,
@@ -31935,6 +31942,55 @@
 		"Image": "kittycasterfx-tremdriver.png"
 	},
 	{
+		"Brand": "Kjams",
+		"Name": "Analog Delay",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-analog-delay.png"
+	},
+	{
+		"Brand": "Kjams",
+		"Name": "Flanger",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-flanger.png"
+	},
+	{
+		"Brand": "Kjams",
+		"Name": "Phaser",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-phaser.png"
+	},
+	{
+		"Brand": "Kjams",
+		"Name": "Rotary",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-rotary.png"
+	},
+	{
+		"Brand": "Kjams",
+		"Name": "Saturator",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-saturator.png"
+	},
+	{
+		"Brand": "Kjams",
+		"Name": "Tremolo",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-tremolo.png"
+	},
+	{
+		"Brand": "Kjams",
+		"Name": "Vibe",
+		"Width": 2.84,
+		"Height": 4.85,
+		"Image": "kjams-vibe.png"
+	},
+	{
 		"Brand": "Kliq",
 		"Name": "TinyTune",
 		"Width": 1.65,
@@ -37370,8 +37426,15 @@
 		"Brand": "Mooer",
 		"Name": "Ocean Machine",
 		"Width": 8.46,
-		"Height": 4.8,
+		"Height": 4.94,
 		"Image": "mooer-ocean-machine.png"
+	},
+	{
+		"Brand": "Mooer",
+		"Name": "Ocean Machine II",
+		"Width": 8.46,
+		"Height": 4.94,
+		"Image": "mooer-ocean-machine-2.png"
 	},
 	{
 		"Brand": "Mooer",
@@ -52147,56 +52210,84 @@
 		"Brand": "Summer School Electronics",
 		"Name": "Extra Credit Boost",
 		"Width": 2.6,
-		"Height": 5.03,
+		"Height": 4.96,
 		"Image": "summer-school-electronics-extra-credit-boost.png"
+	},
+	{
+		"Brand": "Summer School Electronics",
+		"Name": "Fuzz 101",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "summer-school-electronics-fuzz-101.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Gladys V2",
 		"Width": 2.6,
-		"Height": 5.07,
+		"Height": 5.05,
 		"Image": "summer-school-electronics-gladys-v2.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Gus-Drive",
 		"Width": 2.6,
-		"Height": 5.03,
+		"Height": 4.93,
 		"Image": "summer-school-electronics-gus-drive.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Gus-Plus",
 		"Width": 2.6,
-		"Height": 5.03,
+		"Height": 5.05,
 		"Image": "summer-school-electronics-gus-plus.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Half Day Compressor",
 		"Width": 2.6,
-		"Height": 5.07,
+		"Height": 5.05,
 		"Image": "summer-school-electronics-half-day.png"
+	},
+	{
+		"Brand": "Summer School Electronics",
+		"Name": "Middle School Chorus",
+		"Width": 3.7,
+		"Height": 4.8,
+		"Image": "summer-school-electronics-middle-school-chorus.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Pep Rally Fuzz",
 		"Width": 2.6,
-		"Height": 5.03,
+		"Height": 4.93,
 		"Image": "summer-school-electronics-pep-rally.png"
+	},
+	{
+		"Brand": "Summer School Electronics",
+		"Name": "School Lunch Multi-Effect",
+		"Width": 7.4,
+		"Height": 4.8,
+		"Image": "summer-school-electronics-school-lunch.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Science Fair",
 		"Width": 2.6,
-		"Height": 5.07,
+		"Height": 5.05,
 		"Image": "summer-school-electronics-science-fair.png"
+	},
+	{
+		"Brand": "Summer School Electronics",
+		"Name": "Smoking In The Boys Room",
+		"Width": 4.7,
+		"Height": 3.83,
+		"Image": "supercool-smoking-in-the-boys-room.png"
 	},
 	{
 		"Brand": "Summer School Electronics",
 		"Name": "Snow Day Delay",
 		"Width": 4.7,
-		"Height": 3.95,
+		"Height": 3.83,
 		"Image": "summer-school-electronics-snow-day-delay.png"
 	},
 	{
@@ -52210,8 +52301,15 @@
 		"Brand": "Summer School Electronics",
 		"Name": "The Class Reunion",
 		"Width": 3.7,
-		"Height": 4.92,
+		"Height": 4.8,
 		"Image": "summer-school-electronics-the-class-reunion.png"
+	},
+	{
+		"Brand": "Summer School Electronics",
+		"Name": "Trash Panda",
+		"Width": 2.6,
+		"Height": 4.93,
+		"Image": "summer-school-electronics-trash-panda.png"
 	},
 	{
 		"Brand": "Supercool",
@@ -52240,13 +52338,6 @@
 		"Width": 1.88,
 		"Height": 3.7,
 		"Image": "supercool-caffeine-boost.png"
-	},
-	{
-		"Brand": "Supercool",
-		"Name": "Smoking In The Boys Room",
-		"Width": 4.7,
-		"Height": 3.87,
-		"Image": "supercool-smoking-in-the-boys-room.png"
 	},
 	{
 		"Brand": "Supercool",
