@@ -5041,6 +5041,13 @@
 	},
 	{
 		"Brand": "Black Mass Electronics",
+		"Name": "Malicious Intent",
+		"Width": 2.6,
+		"Height": 5.03,
+		"Image": "blackmass-malicious-intent.png"
+	},
+	{
+		"Brand": "Black Mass Electronics",
 		"Name": "Missionary Fuzz V2",
 		"Width": 2.6,
 		"Height": 4.97,
@@ -30491,6 +30498,13 @@
 		"Width": 3.7,
 		"Height": 4.9,
 		"Image": "keeley-dm-drive.png"
+	},
+	{
+		"Brand": "Keeley",
+		"Name": "D&M Drive (Label Maker)",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "keeley-dm-drive-lm.png"
 	},
 	{
 		"Brand": "Keeley",
