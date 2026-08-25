@@ -28576,6 +28576,13 @@
 	},
 	{
 		"Brand": "JHS",
+		"Name": "AT Mini",
+		"Width": 2.25,
+		"Height": 4.1,
+		"Image": "jhs-at-mini.png"
+	},
+	{
+		"Brand": "JHS",
 		"Name": "AT+",
 		"Width": 2.93,
 		"Height": 4.98,
@@ -28759,7 +28766,7 @@
 	{
 		"Brand": "JHS",
 		"Name": "Fumble",
-		"Width": 2.28,
+		"Width": 2.25,
 		"Height": 4.1,
 		"Image": "jhs-fumble.png"
 	},
@@ -33959,6 +33966,13 @@
 	},
 	{
 		"Brand": "LPD",
+		"Name": "Head-On Boost",
+		"Width": 1.77,
+		"Height": 3.72,
+		"Image": "lpd-head-on-boost.png"
+	},
+	{
+		"Brand": "LPD",
 		"Name": "JMP79",
 		"Width": 2.42,
 		"Height": 4.58,
@@ -34026,6 +34040,13 @@
 		"Width": 4.7,
 		"Height": 3.77,
 		"Image": "lpd-seventy4-deluxe.png"
+	},
+	{
+		"Brand": "LPD",
+		"Name": "Seventy4DG Preamp",
+		"Width": 2.42,
+		"Height": 4.58,
+		"Image": "lpd-seventy4dg-preamp.png"
 	},
 	{
 		"Brand": "LPD",
