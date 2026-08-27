@@ -18379,7 +18379,7 @@
 		"Brand": "EAE",
 		"Name": "Dude Incredible",
 		"Width": 3.7,
-		"Height": 4.95,
+		"Height": 4.93,
 		"Image": "electronic-audio-experiments-dude-incredible.png"
 	},
 	{
@@ -18496,6 +18496,13 @@
 	},
 	{
 		"Brand": "EAE",
+		"Name": "Longsword (Purple)",
+		"Width": 3.7,
+		"Height": 4.93,
+		"Image": "electronic-audio-experiments-longsword-purple.png"
+	},
+	{
+		"Brand": "EAE",
 		"Name": "Longsword (Rose Gold)",
 		"Width": 3.7,
 		"Height": 4.95,
@@ -18519,8 +18526,15 @@
 		"Brand": "EAE",
 		"Name": "Prismatic Wall",
 		"Width": 3.7,
-		"Height": 4.94,
+		"Height": 4.93,
 		"Image": "electronic-audio-experiments-prismatic-wall.png"
+	},
+	{
+		"Brand": "EAE",
+		"Name": "Scattering",
+		"Width": 3.7,
+		"Height": 4.93,
+		"Image": "electronic-audio-experiments-scattering.png"
 	},
 	{
 		"Brand": "EAE",
