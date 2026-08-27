@@ -750,7 +750,7 @@
 	},
 	{
 		"Brand": "Aion FX",
-		"Name": "Azimuthe",
+		"Name": "Azimuth",
 		"Width": 2.6,
 		"Height": 4.97,
 		"Image": "aion-azimuth.png"
@@ -1363,6 +1363,13 @@
 		"Width": 2.89,
 		"Height": 4.88,
 		"Image": "alexander-syntax-error-xp.png"
+	},
+	{
+		"Brand": "Alexander",
+		"Name": "Velvet Noise",
+		"Width": 2.6,
+		"Height": 4.88,
+		"Image": "alexander-velvet-noise.png"
 	},
 	{
 		"Brand": "Alexander",
@@ -6588,14 +6595,14 @@
 	},
 	{
 		"Brand": "BOSS",
-		"Name": "Gigmaster 5",
+		"Name": "Gigcaster 5",
 		"Width": 7,
 		"Height": 8.53,
 		"Image": "boss-gigmaster-5.png"
 	},
 	{
 		"Brand": "BOSS",
-		"Name": "Gigmaster 8",
+		"Name": "Gigcaster 8",
 		"Width": 8.53,
 		"Height": 10.6,
 		"Image": "boss-gigmaster-8.png"
@@ -6791,7 +6798,7 @@
 	},
 	{
 		"Brand": "BOSS",
-		"Name": "MS-3 Multieffects Switcher",
+		"Name": "MS-3 Multi Effects Switcher",
 		"Width": 10.88,
 		"Height": 3.75,
 		"Image": "boss-ms3.png"
@@ -8346,42 +8353,42 @@
 	},
 	{
 		"Brand": "Caroline",
-		"Name": "Meteore",
+		"Name": "Météore",
 		"Width": 3.7,
 		"Height": 4.89,
 		"Image": "caroline-meteore.png"
 	},
 	{
 		"Brand": "Caroline",
-		"Name": "Meteore (10th Anniversary Special)",
+		"Name": "Météore (10th Anniversary Special)",
 		"Width": 3.7,
 		"Height": 4.89,
 		"Image": "caroline-meteore-10th-anniversary-special.png"
 	},
 	{
 		"Brand": "Caroline",
-		"Name": "Meteore (Cosmic Purple)",
+		"Name": "Météore (Cosmic Purple)",
 		"Width": 3.7,
 		"Height": 4.89,
 		"Image": "caroline-meteore-cosmic-purple.png"
 	},
 	{
 		"Brand": "Caroline",
-		"Name": "Meteore (Purple)",
+		"Name": "Météore (Purple)",
 		"Width": 3.7,
 		"Height": 4.89,
 		"Image": "caroline-meteore-purple.png"
 	},
 	{
 		"Brand": "Caroline",
-		"Name": "Meteore (Rose Gold)",
+		"Name": "Météore (Rose Gold)",
 		"Width": 3.7,
 		"Height": 4.89,
 		"Image": "caroline-meteore-rose-gold.png"
 	},
 	{
 		"Brand": "Caroline",
-		"Name": "Meteore (Throwback Can)",
+		"Name": "Météore (Throwback Can)",
 		"Width": 3.7,
 		"Height": 4.88,
 		"Image": "caroline-meteore-throwback.png"
@@ -8819,6 +8826,13 @@
 		"Width": 2.7,
 		"Height": 4.5,
 		"Image": "catalinbread-echorec-space-black.png"
+	},
+	{
+		"Brand": "Catalinbread",
+		"Name": "EG1 Lo-Fi Delay",
+		"Width": 2.7,
+		"Height": 4.5,
+		"Image": "catalinbread-eg1-lofi-delay.png"
 	},
 	{
 		"Brand": "Catalinbread",
@@ -9851,7 +9865,7 @@
 	},
 	{
 		"Brand": "Chase Bliss",
-		"Name": "Midibox",
+		"Name": "MIDIbox",
 		"Width": 3.47,
 		"Height": 1.58,
 		"Image": "chasebliss-midibox.png"
@@ -12805,7 +12819,7 @@
 	},
 	{
 		"Brand": "Devi Ever: FX",
-		"Name": "Torn's Speaker",
+		"Name": "Torn's Peaker",
 		"Width": 2.74,
 		"Height": 4.66,
 		"Image": "devi-ever-torns-peaker-old.png"
@@ -13974,7 +13988,7 @@
 	},
 	{
 		"Brand": "DOD",
-		"Name": "Yngwie J. Malmsteem Preamp Overdrive YJM308",
+		"Name": "Yngwie J. Malmsteen Preamp Overdrive YJM308",
 		"Width": 3.03,
 		"Height": 4.68,
 		"Image": "dod-yjm308.png"
@@ -21247,7 +21261,7 @@
 	},
 	{
 		"Brand": "Fredric Effects",
-		"Name": "Super Umpleasant Companion",
+		"Name": "Super Unpleasant Companion",
 		"Width": 3.39,
 		"Height": 5.9,
 		"Image": "fredric-super-unpleasant-companion.png"
@@ -39769,6 +39783,13 @@
 	},
 	{
 		"Brand": "MXR",
+		"Name": "Mr. Talk Box ",
+		"Width": 4.26,
+		"Height": 6.62,
+		"Image": "mxr-mrt01.png"
+	},
+	{
+		"Brand": "MXR",
 		"Name": "Noise Clamp",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -39980,8 +40001,8 @@
 	{
 		"Brand": "MXR",
 		"Name": "Talk Box",
-		"Width": 4.33,
-		"Height": 6.53,
+		"Width": 4.26,
+		"Height": 6.49,
 		"Image": "mxr-m222.png"
 	},
 	{
