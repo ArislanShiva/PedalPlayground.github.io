@@ -26244,10 +26244,17 @@
 		"Image": "human-gear-fine-od.png"
 	},
 	{
-		"Brand": "Humanoid",
+		"Brand": "Humanoid FX",
+		"Name": "Entity",
+		"Width": 2.7,
+		"Height": 4.63,
+		"Image": "humanoid-entity.png"
+	},
+	{
+		"Brand": "Humanoid FX",
 		"Name": "The Goblin",
-		"Width": 2.75,
-		"Height": 4.62,
+		"Width": 2.7,
+		"Height": 4.63,
 		"Image": "humanoid-the-goblin.png"
 	},
 	{
