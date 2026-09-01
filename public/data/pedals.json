@@ -12307,6 +12307,160 @@
 		"Image": "dawnerprince-viberator.png"
 	},
 	{
+		"Brand": "Dazatronyx",
+		"Name": "AC128 Arbitrary Fuzz",
+		"Width": 3.3,
+		"Height": 4.9,
+		"Image": "dazatronyx-ac128-arbitrary-fuzz.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Big Fuzz",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-big-fuzz.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Big Fuzz Console",
+		"Width": 7.4,
+		"Height": 4.81,
+		"Image": "dazatronyx-big-fuzz-console.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Black Russian",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-black-russian.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Black Russian XXL",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "dazatronyx-black-russian-xxl.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Brown Sound",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-brown-sound.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "FFS",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-ffs.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Germanium Amplifier",
+		"Width": 2.7,
+		"Height": 4.52,
+		"Image": "dazatronyx-germanium-amplifier.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Harmonic Optical Tremolo Mk1",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "dazatronyx-harmonic-optical-tremolo-mk1.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Optical Tremolo",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-optical-tremolo.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Professional Drive",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "dazatronyx-professional-drive.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Rad Distortion",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-rad-distortion.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Sonic Sustainer",
+		"Width": 2.6,
+		"Height": 4.96,
+		"Image": "dazatronyx-sonic-sustainer.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Stereo Panning Optical Tremolo",
+		"Width": 4.7,
+		"Height": 3.81,
+		"Image": "dazatronyx-stereo-panning-optical-tremolo.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "THD",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-thd.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Transistor",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "dazatronyx-transistor.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Tsuchi Fuzz",
+		"Width": 2.7,
+		"Height": 4.52,
+		"Image": "dazatronyx-tsuchi-fuzz.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "TSX",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-tsx-overdrive.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "TSX XXL",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "dazatronyx-tsx-xxl.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Tweedsville",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-tweedsville.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Twin FET Booster",
+		"Width": 2.4,
+		"Height": 4.64,
+		"Image": "dazatronyx-twin-fet-booster.png"
+	},
+	{
+		"Brand": "Dazatronyx",
+		"Name": "Ultra Rad Distortion",
+		"Width": 3.7,
+		"Height": 4.9,
+		"Image": "dazatronyx-ultra-rad-distortion.png"
+	},
+	{
 		"Brand": "Dead Air",
 		"Name": "Chaos Drive",
 		"Width": 2.6,
