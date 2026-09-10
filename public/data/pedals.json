@@ -16515,6 +16515,13 @@
 	},
 	{
 		"Brand": "EarthQuaker",
+		"Name": "Stereo Easy Listening",
+		"Width": 2.88,
+		"Height": 4.94,
+		"Image": "earthquaker-stereo-easy-listening.png"
+	},
+	{
+		"Brand": "EarthQuaker",
 		"Name": "Sunn O))) Halflife",
 		"Width": 2.7,
 		"Height": 4.94,
@@ -31453,14 +31460,14 @@
 	},
 	{
 		"Brand": "Keeley",
-		"Name": "Tube Drive",
+		"Name": "Tube Drive (12AX7 Black)",
 		"Width": 4,
 		"Height": 5.04,
 		"Image": "keeley-tube-drive.png"
 	},
 	{
 		"Brand": "Keeley",
-		"Name": "Tube Drive (12AT7WA)",
+		"Name": "Tube Drive (12AT7WA Gold)",
 		"Width": 4,
 		"Height": 5.04,
 		"Image": "keeley-tube-drive-12at7wa.png"
@@ -46446,6 +46453,13 @@
 		"Image": "polyend-step.png"
 	},
 	{
+		"Brand": "Positive Grid",
+		"Name": "Spark Pedal",
+		"Width": 6.89,
+		"Height": 4.18,
+		"Image": "positive-grid-spark-pedal.png"
+	},
+	{
 		"Brand": "Prescription Electronics",
 		"Name": "Rx Overdriver",
 		"Width": 3.7,
@@ -50238,6 +50252,13 @@
 		"Width": 4.89,
 		"Height": 3.68,
 		"Image": "solidgoldfx-funkzilla.png"
+	},
+	{
+		"Brand": "SolidGoldFX",
+		"Name": "Fuzzbox",
+		"Width": 2.6,
+		"Height": 4.85,
+		"Image": "solidgoldfx-fuzzbox.png"
 	},
 	{
 		"Brand": "SolidGoldFX",
@@ -58751,6 +58772,13 @@
 		"Width": 2.31,
 		"Height": 4.44,
 		"Image": "walrus-fundamental-fuzz.png"
+	},
+	{
+		"Brand": "Walrus Audio",
+		"Name": "Fundamental Lo-Fi",
+		"Width": 2.31,
+		"Height": 4.44,
+		"Image": "walrus-fundamental-lofi.png"
 	},
 	{
 		"Brand": "Walrus Audio",
