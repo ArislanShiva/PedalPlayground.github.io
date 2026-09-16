@@ -14443,6 +14443,13 @@
 	},
 	{
 		"Brand": "Dr Scientist",
+		"Name": "Dungeon Crawler",
+		"Width": 3.7,
+		"Height": 4.88,
+		"Image": "dr-scientist-dungeon-crawler.png"
+	},
+	{
+		"Brand": "Dr Scientist",
 		"Name": "Dusk",
 		"Width": 2.71,
 		"Height": 4.97,
@@ -50479,6 +50486,13 @@
 	},
 	{
 		"Brand": "Sonicake",
+		"Name": "BBD Wonder",
+		"Width": 4.88,
+		"Height": 3.69,
+		"Image": "sonicake-bbd-wonder.png"
+	},
+	{
+		"Brand": "Sonicake",
 		"Name": "Fazy Cream",
 		"Width": 1.66,
 		"Height": 3.78,
@@ -50616,6 +50630,13 @@
 		"Width": 4.88,
 		"Height": 3.69,
 		"Image": "sonicake-tone-group.png"
+	},
+	{
+		"Brand": "Sonicake",
+		"Name": "T&T",
+		"Width": 4.88,
+		"Height": 3.69,
+		"Image": "sonicake-t-and-t.png"
 	},
 	{
 		"Brand": "Sonicake",
