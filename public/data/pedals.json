@@ -48225,6 +48225,13 @@
 	},
 	{
 		"Brand": "Rodenberg",
+		"Name": "DAPHNE",
+		"Width": 3.96,
+		"Height": 4.77,
+		"Image": "rodenberg-daphne.png"
+	},
+	{
+		"Brand": "Rodenberg",
 		"Name": "GAS",
 		"Width": 3.96,
 		"Height": 4.77,
@@ -48236,6 +48243,13 @@
 		"Width": 2.68,
 		"Height": 4.5,
 		"Image": "rodenberg-gas707b.png"
+	},
+	{
+		"Brand": "Rodenberg",
+		"Name": "KILLMISTER",
+		"Width": 1.87,
+		"Height": 3.78,
+		"Image": "rodenberg-killmister.png"
 	},
 	{
 		"Brand": "Rodenberg",
@@ -48260,10 +48274,52 @@
 	},
 	{
 		"Brand": "Rodenberg",
+		"Name": "LUKE MKII",
+		"Width": 2.66,
+		"Height": 4.56,
+		"Image": "rodenberg-luke-mk2.png"
+	},
+	{
+		"Brand": "Rodenberg",
+		"Name": "M2 Clean Boost",
+		"Width": 2.66,
+		"Height": 4.56,
+		"Image": "rodenberg-m2-clean-boost.png"
+	},
+	{
+		"Brand": "Rodenberg",
+		"Name": "SL Clean Boost",
+		"Width": 2.66,
+		"Height": 4.56,
+		"Image": "rodenberg-sl-clean-boost.png"
+	},
+	{
+		"Brand": "Rodenberg",
 		"Name": "SL-OD",
 		"Width": 5.88,
 		"Height": 4.7,
 		"Image": "rodenberg-sl-od.png"
+	},
+	{
+		"Brand": "Rodenberg",
+		"Name": "SL-OD DLX DRIVE",
+		"Width": 3.96,
+		"Height": 4.77,
+		"Image": "rodenberg-sl-od-dlx.png"
+	},
+	{
+		"Brand": "Rodenberg",
+		"Name": "SL-OD OD DELUXE",
+		"Width": 5.8,
+		"Height": 4.76,
+		"Image": "rodenberg-sl-od-od-deluxe.png"
+	},
+	{
+		"Brand": "Rodenberg",
+		"Name": "SL-OD OD DELUXE REDLINE",
+		"Width": 5.8,
+		"Height": 4.76,
+		"Image": "rodenberg-sl-od-od-deluxe-redline.png"
 	},
 	{
 		"Brand": "Rodenberg",
@@ -55097,6 +55153,13 @@
 		"Width": 3.98,
 		"Height": 4.89,
 		"Image": "thorpyfx-er-2-block-2.png"
+	},
+	{
+		"Brand": "ThorpyFX",
+		"Name": "ER-2 Block 3 Uni-Vibe",
+		"Width": 3.98,
+		"Height": 4.89,
+		"Image": "thorpyfx-er-2-block-3.png"
 	},
 	{
 		"Brand": "ThorpyFX",
