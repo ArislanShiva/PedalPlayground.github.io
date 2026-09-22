@@ -34631,6 +34631,13 @@
 	},
 	{
 		"Brand": "Mad Professor",
+		"Name": "Milestone Fuzz (Handwired)",
+		"Width": 2.6,
+		"Height": 5.02,
+		"Image": "mad-professor-milestone-fuzz-hw.png"
+	},
+	{
+		"Brand": "Mad Professor",
 		"Name": "Royal Blue Overdrive",
 		"Width": 2.62,
 		"Height": 4.5,
@@ -52963,77 +52970,119 @@
 		"Image": "surfy-surfyvibe.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "Black Eye II",
 		"Width": 4.7,
 		"Height": 3.88,
 		"Image": "sushi-box-black-eye-2.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "Dreamcatcher",
 		"Width": 5.7,
 		"Height": 4.88,
 		"Image": "sushi-box-dreamcatcher.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "Elementary",
 		"Width": 2.6,
 		"Height": 5.04,
 		"Image": "sushi-box-elementary.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "Finally v2",
 		"Width": 2.71,
 		"Height": 5.04,
 		"Image": "sushi-box-finally-v2.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "JC Emerald",
 		"Width": 4.7,
 		"Height": 3.88,
 		"Image": "sushi-box-jc-emerald.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
+		"Name": "Mayday",
+		"Width": 2.71,
+		"Height": 5.04,
+		"Image": "sushi-box-mayday.png"
+	},
+	{
+		"Brand": "Sushi Box FX",
 		"Name": "More",
 		"Width": 2.6,
 		"Height": 5.04,
 		"Image": "sushi-box-more.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
+		"Name": "More V2",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "sushi-box-more-v2.png"
+	},
+	{
+		"Brand": "Sushi Box FX",
 		"Name": "Neptunium",
 		"Width": 2.71,
 		"Height": 5.04,
 		"Image": "sushi-box-neptunium.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
+		"Name": "Redacted B",
+		"Width": 3.81,
+		"Height": 4.91,
+		"Image": "sushi-box-redacted-b.png"
+	},
+	{
+		"Brand": "Sushi Box FX",
+		"Name": "Redacted II",
+		"Width": 5.79,
+		"Height": 4.92,
+		"Image": "sushi-box-redacted-2.png"
+	},
+	{
+		"Brand": "Sushi Box FX",
+		"Name": "Single Slice Compressor",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "sushi-box-single-slice-compressor.png"
+	},
+	{
+		"Brand": "Sushi Box FX",
 		"Name": "Slampegg Bee Pre",
 		"Width": 2.6,
 		"Height": 5.04,
 		"Image": "sushi-box-slampegg-bee-pre.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "The Detective",
 		"Width": 5.7,
 		"Height": 4.88,
 		"Image": "sushi-box-the-detective.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
+		"Name": "The Watt",
+		"Width": 4.79,
+		"Height": 3.89,
+		"Image": "sushi-box-the-watt.png"
+	},
+	{
+		"Brand": "Sushi Box FX",
 		"Name": "Underground Accelerator",
 		"Width": 2.6,
 		"Height": 5.04,
 		"Image": "sushi-box-underground-accelerator.png"
 	},
 	{
-		"Brand": "Sushi Box",
+		"Brand": "Sushi Box FX",
 		"Name": "Venus Z",
 		"Width": 4.79,
 		"Height": 3.88,
