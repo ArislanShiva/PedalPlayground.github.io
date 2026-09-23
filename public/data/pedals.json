@@ -9571,6 +9571,20 @@
 	},
 	{
 		"Brand": "Champion Leccy",
+		"Name": "The Skitter V3 (Black)",
+		"Width": 3.7,
+		"Height": 4.79,
+		"Image": "champion-leccy-the-skitter-v3-black.png"
+	},
+	{
+		"Brand": "Champion Leccy",
+		"Name": "The Skitter V3 (Yellow)",
+		"Width": 3.7,
+		"Height": 4.79,
+		"Image": "champion-leccy-the-skitter-v3-yellow.png"
+	},
+	{
+		"Brand": "Champion Leccy",
 		"Name": "The Skitzy (Beige)",
 		"Width": 3.7,
 		"Height": 4.81,
@@ -24063,7 +24077,7 @@
 		"Brand": "Great Eastern FX Co.",
 		"Name": "Distortion Filter D312A",
 		"Width": 3.7,
-		"Height": 4.86,
+		"Height": 4.88,
 		"Image": "great-eastern-d312a.png"
 	},
 	{
@@ -24093,6 +24107,13 @@
 		"Width": 2.6,
 		"Height": 5,
 		"Image": "great-eastern-sso.png"
+	},
+	{
+		"Brand": "Great Eastern FX Co.",
+		"Name": "Transformer Boost",
+		"Width": 2.4,
+		"Height": 4.62,
+		"Image": "great-eastern-transformer-boost.png"
 	},
 	{
 		"Brand": "Great Eastern FX Co.",
@@ -28451,9 +28472,16 @@
 	{
 		"Brand": "Jam Pedals",
 		"Name": "Wahcko",
-		"Width": 4.7,
+		"Width": 4.75,
 		"Height": 10,
 		"Image": "jam-wahcko.png"
+	},
+	{
+		"Brand": "Jam Pedals",
+		"Name": "Wahcko Mk.2",
+		"Width": 4.55,
+		"Height": 10,
+		"Image": "jam-wahcko-mk2.png"
 	},
 	{
 		"Brand": "Jam Pedals",
@@ -36724,6 +36752,13 @@
 	},
 	{
 		"Brand": "Mojo Hand FX",
+		"Name": "Crosstown Rasta",
+		"Width": 2.65,
+		"Height": 4.5,
+		"Image": "mojohand-crosstown-rasta.png"
+	},
+	{
+		"Brand": "Mojo Hand FX",
 		"Name": "Dewdrop",
 		"Width": 2.9,
 		"Height": 4.8,
@@ -36777,6 +36812,13 @@
 		"Width": 2.92,
 		"Height": 4.8,
 		"Image": "mojohand-ironbell-pink.png"
+	},
+	{
+		"Brand": "Mojo Hand FX",
+		"Name": "Kensrue Rook",
+		"Width": 2.65,
+		"Height": 4.5,
+		"Image": "mojohand-kensrue-rook.png"
 	},
 	{
 		"Brand": "Mojo Hand FX",
