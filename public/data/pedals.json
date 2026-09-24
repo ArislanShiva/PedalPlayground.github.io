@@ -6455,6 +6455,13 @@
 	},
 	{
 		"Brand": "BOSS",
+		"Name": "EX-4 Effects Expander",
+		"Width": 4.66,
+		"Height": 5.44,
+		"Image": "boss-ex4.png"
+	},
+	{
+		"Brand": "BOSS",
 		"Name": "FB-2 Feedbacker/Booster",
 		"Width": 2.875,
 		"Height": 5.125,
