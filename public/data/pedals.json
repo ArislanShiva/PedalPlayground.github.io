@@ -45012,6 +45012,13 @@
 	},
 	{
 		"Brand": "PastFX",
+		"Name": "Delay Machine II",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-delay-machine-2.png"
+	},
+	{
+		"Brand": "PastFX",
 		"Name": "Deluxe Elastic Mattress",
 		"Width": 2.67,
 		"Height": 4.5,
@@ -45023,6 +45030,13 @@
 		"Width": 2.67,
 		"Height": 4.5,
 		"Image": "pastfx-distortiion.png"
+	},
+	{
+		"Brand": "PastFX",
+		"Name": "Doppelflänger",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-doppelflanger.png"
 	},
 	{
 		"Brand": "PastFX",
@@ -45072,6 +45086,13 @@
 		"Width": 2.67,
 		"Height": 4.5,
 		"Image": "pastfx-ic-mufnstuf.png"
+	},
+	{
+		"Brand": "PastFX",
+		"Name": "Integrated Preamplifier +",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-integrated-preamplifier-plus.png"
 	},
 	{
 		"Brand": "PastFX",
@@ -45128,6 +45149,13 @@
 		"Width": 2.67,
 		"Height": 4.5,
 		"Image": "pastfx-og2.png"
+	},
+	{
+		"Brand": "PastFX",
+		"Name": "Parametric Filter",
+		"Width": 2.67,
+		"Height": 4.5,
+		"Image": "pastfx-parametric-filter.png"
 	},
 	{
 		"Brand": "PastFX",
