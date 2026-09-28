@@ -46531,6 +46531,13 @@
 	},
 	{
 		"Brand": "Polyend",
+		"Name": "Loop",
+		"Width": 7.09,
+		"Height": 4.91,
+		"Image": "polyend-loop.png"
+	},
+	{
+		"Brand": "Polyend",
 		"Name": "Mess",
 		"Width": 7.09,
 		"Height": 4.91,
@@ -53587,6 +53594,13 @@
 	},
 	{
 		"Brand": "Tampco",
+		"Name": "Distorter Compact",
+		"Width": 2.6,
+		"Height": 5.09,
+		"Image": "tampco-distorter-compact.png"
+	},
+	{
+		"Brand": "Tampco",
 		"Name": "Singer Overdrive",
 		"Width": 2.6,
 		"Height": 5.09,
@@ -53612,6 +53626,27 @@
 		"Width": 2.6,
 		"Height": 5.09,
 		"Image": "tampco-tone-oven.png"
+	},
+	{
+		"Brand": "Tampco",
+		"Name": "Tone Oven Custom (Black)",
+		"Width": 2.6,
+		"Height": 5.09,
+		"Image": "tampco-tone-oven-custom-black.png"
+	},
+	{
+		"Brand": "Tampco",
+		"Name": "Tone Oven Custom (Green)",
+		"Width": 2.6,
+		"Height": 5.09,
+		"Image": "tampco-tone-oven-custom-green.png"
+	},
+	{
+		"Brand": "Tampco",
+		"Name": "Tone Oven Custom (Red)",
+		"Width": 2.6,
+		"Height": 5.09,
+		"Image": "tampco-tone-oven-custom.png"
 	},
 	{
 		"Brand": "Tape Audio Co.",
@@ -56238,6 +56273,13 @@
 		"Width": 4.99,
 		"Height": 5.7,
 		"Image": "tubesteader-sunkeeper.png"
+	},
+	{
+		"Brand": "Tubesteader",
+		"Name": "Sunstead",
+		"Width": 4.99,
+		"Height": 5.7,
+		"Image": "tubesteader-sunstead.png"
 	},
 	{
 		"Brand": "Tube Works",
