@@ -20890,6 +20890,13 @@
 	},
 	{
 		"Brand": "Fortin",
+		"Name": "3.33",
+		"Width": 2.7,
+		"Height": 4.94,
+		"Image": "fortin-333.png"
+	},
+	{
+		"Brand": "Fortin",
 		"Name": "33",
 		"Width": 2.5,
 		"Height": 4.6,
@@ -52030,6 +52037,13 @@
 		"Width": 4,
 		"Height": 4.55,
 		"Image": "strymon-iridium-silver.png"
+	},
+	{
+		"Brand": "Strymon",
+		"Name": "La Brea",
+		"Width": 2.83,
+		"Height": 4.43,
+		"Image": "strymon-la-brea.png"
 	},
 	{
 		"Brand": "Strymon",
