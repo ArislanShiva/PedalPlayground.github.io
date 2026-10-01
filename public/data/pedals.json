@@ -3935,13 +3935,6 @@
 	},
 	{
 		"Brand": "Beetronics",
-		"Name": "Loong",
-		"Width": 4.92,
-		"Height": 4.22,
-		"Image": "beetronics-loong.png"
-	},
-	{
-		"Brand": "Beetronics",
 		"Name": "Nectar",
 		"Width": 2.72,
 		"Height": 4.43,
@@ -55860,6 +55853,13 @@
 		"Width": 1.75,
 		"Height": 3.66,
 		"Image": "tonecity-london-bender.png"
+	},
+	{
+		"Brand": "Tone City",
+		"Name": "Loong",
+		"Width": 4.92,
+		"Height": 4.22,
+		"Image": "tonecity-loong.png"
 	},
 	{
 		"Brand": "Tone City",
