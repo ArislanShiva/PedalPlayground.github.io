@@ -3935,6 +3935,13 @@
 	},
 	{
 		"Brand": "Beetronics",
+		"Name": "Loong",
+		"Width": 4.92,
+		"Height": 4.22,
+		"Image": "beetronics-loong.png"
+	},
+	{
+		"Brand": "Beetronics",
 		"Name": "Nectar",
 		"Width": 2.72,
 		"Height": 4.43,
@@ -4016,6 +4023,13 @@
 		"Width": 4.17,
 		"Height": 3.5,
 		"Image": "beetronics-tuna-fuzz-gold.png"
+	},
+	{
+		"Brand": "Beetronics",
+		"Name": "Tuna Trem",
+		"Width": 4.82,
+		"Height": 3.6,
+		"Image": "beetronics-tuna-trem.png"
 	},
 	{
 		"Brand": "Beetronics",
@@ -55723,10 +55737,24 @@
 	},
 	{
 		"Brand": "Tone City",
+		"Name": "Blue Crystal",
+		"Width": 2.36,
+		"Height": 4.55,
+		"Image": "tonecity-blue-crystal.png"
+	},
+	{
+		"Brand": "Tone City",
 		"Name": "Blues Man",
 		"Width": 1.75,
 		"Height": 3.66,
 		"Image": "tonecity-bluesman.png"
+	},
+	{
+		"Brand": "Tone City",
+		"Name": "Buzz Bee",
+		"Width": 1.75,
+		"Height": 3.66,
+		"Image": "tonecity-buzz-bee.png"
 	},
 	{
 		"Brand": "Tone City",
@@ -55765,6 +55793,13 @@
 	},
 	{
 		"Brand": "Tone City",
+		"Name": "Golden Face",
+		"Width": 2.36,
+		"Height": 4.55,
+		"Image": "tonecity-golden-face.png"
+	},
+	{
+		"Brand": "Tone City",
 		"Name": "Golden Plexi",
 		"Width": 1.75,
 		"Height": 3.66,
@@ -55776,6 +55811,20 @@
 		"Width": 1.75,
 		"Height": 3.66,
 		"Image": "tonecity-goldenplexi2.png"
+	},
+	{
+		"Brand": "Tone City",
+		"Name": "Green Tube",
+		"Width": 2.36,
+		"Height": 4.55,
+		"Image": "tonecity-green-tube.png"
+	},
+	{
+		"Brand": "Tone City",
+		"Name": "Heat",
+		"Width": 1.75,
+		"Height": 3.66,
+		"Image": "tonecity-heat.png"
 	},
 	{
 		"Brand": "Tone City",
@@ -55807,6 +55856,13 @@
 	},
 	{
 		"Brand": "Tone City",
+		"Name": "London Bender",
+		"Width": 1.75,
+		"Height": 3.66,
+		"Image": "tonecity-london-bender.png"
+	},
+	{
+		"Brand": "Tone City",
 		"Name": "Mandragora",
 		"Width": 1.75,
 		"Height": 3.66,
@@ -55832,6 +55888,13 @@
 		"Width": 4.7,
 		"Height": 3.9,
 		"Image": "tonecity-model-m.png"
+	},
+	{
+		"Brand": "Tone City",
+		"Name": "Nashville",
+		"Width": 1.75,
+		"Height": 3.66,
+		"Image": "tonecity-nashville.png"
 	},
 	{
 		"Brand": "Tone City",
