@@ -22703,7 +22703,7 @@
 	},
 	{
 		"Brand": "Fuzz Imp",
-		"Name": "Creatue",
+		"Name": "Creature",
 		"Width": 2.6,
 		"Height": 4.98,
 		"Image": "fuzz-imp-creature.png"
@@ -25902,6 +25902,34 @@
 	},
 	{
 		"Brand": "Hologram Electronics",
+		"Name": "Chroma Console (Blue)",
+		"Width": 5,
+		"Height": 5.82,
+		"Image": "hologram-chroma-console-blue.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Chroma Console (Green)",
+		"Width": 5,
+		"Height": 5.82,
+		"Image": "hologram-chroma-console-green.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Chroma Console (Red)",
+		"Width": 5,
+		"Height": 5.82,
+		"Image": "hologram-chroma-console-red.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Chroma Console (Yellow)",
+		"Width": 5,
+		"Height": 5.82,
+		"Image": "hologram-chroma-console-yellow.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
 		"Name": "Dream Sequence",
 		"Width": 7.66,
 		"Height": 4.81,
@@ -25934,6 +25962,34 @@
 		"Width": 7.1,
 		"Height": 4.74,
 		"Image": "hologram-microcosm-black.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Microcosm (Blue)",
+		"Width": 7.1,
+		"Height": 4.74,
+		"Image": "hologram-microcosm-blue.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Microcosm (Green)",
+		"Width": 7.1,
+		"Height": 4.74,
+		"Image": "hologram-microcosm-green.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Microcosm (Red)",
+		"Width": 7.1,
+		"Height": 4.74,
+		"Image": "hologram-microcosm-red.png"
+	},
+	{
+		"Brand": "Hologram Electronics",
+		"Name": "Microcosm (Yellow)",
+		"Width": 7.1,
+		"Height": 4.74,
+		"Image": "hologram-microcosm-yellow.png"
 	},
 	{
 		"Brand": "Hologram Electronics",
@@ -58516,6 +58572,13 @@
 	},
 	{
 		"Brand": "Warm Audio",
+		"Name": "Centavo Mod",
+		"Width": 2.5,
+		"Height": 4.72,
+		"Image": "warm-audio-centavo-mod.png"
+	},
+	{
+		"Brand": "Warm Audio",
 		"Name": "Centavo (Silver)",
 		"Width": 6.75,
 		"Height": 5.28,
@@ -58545,15 +58608,15 @@
 	{
 		"Brand": "Warm Audio",
 		"Name": "Fluff Drive (Teal)",
-		"Width": 2.82,
-		"Height": 5.13,
+		"Width": 2.75,
+		"Height": 5,
 		"Image": "warm-audio-flfw-teal.png"
 	},
 	{
 		"Brand": "Warm Audio",
 		"Name": "Fluff Drive (White)",
-		"Width": 2.82,
-		"Height": 5.13,
+		"Width": 2.75,
+		"Height": 5,
 		"Image": "warm-audio-flfw-white.png"
 	},
 	{
@@ -58600,6 +58663,13 @@
 	},
 	{
 		"Brand": "Warm Audio",
+		"Name": "The Black Keys Peach Fuzz",
+		"Width": 3.3,
+		"Height": 5.5,
+		"Image": "warm-audio-the-black-keys-peach-fuzz.png"
+	},
+	{
+		"Brand": "Warm Audio",
 		"Name": "Throne of Tone",
 		"Width": 5,
 		"Height": 5.73,
@@ -58608,8 +58678,8 @@
 	{
 		"Brand": "Warm Audio",
 		"Name": "TubeSquealer",
-		"Width": 2.82,
-		"Height": 5.13,
+		"Width": 2.75,
+		"Height": 5,
 		"Image": "warm-audio-wats.png"
 	},
 	{
@@ -58618,6 +58688,13 @@
 		"Width": 6.5,
 		"Height": 4.11,
 		"Image": "warm-audio-wac1.png"
+	},
+	{
+		"Brand": "Warm Audio",
+		"Name": "WA-C1-MOD",
+		"Width": 2.8,
+		"Height": 5.18,
+		"Image": "warm-audio-wac1mod.png"
 	},
 	{
 		"Brand": "Warm Audio",
