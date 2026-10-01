@@ -22702,6 +22702,13 @@
 		"Image": "flb-treasure-chest.png"
 	},
 	{
+		"Brand": "Fuzz Imp",
+		"Name": "Creatue",
+		"Width": 2.6,
+		"Height": 4.98,
+		"Image": "fuzz-imp-creature.png"
+	},
+	{
 		"Brand": "Fuzzhugger",
 		"Name": "Algal Bloom 7K DLX",
 		"Width": 3.7,
