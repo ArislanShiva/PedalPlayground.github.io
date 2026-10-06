@@ -10698,6 +10698,13 @@
 	},
 	{
 		"Brand": "Collision Devices",
+		"Name": "Snack Modulation",
+		"Width": 1.97,
+		"Height": 5.36,
+		"Image": "collision-devices-snack-modulation.png"
+	},
+	{
+		"Brand": "Collision Devices",
 		"Name": "Snack Pitcher",
 		"Width": 1.97,
 		"Height": 5.36,
@@ -29241,6 +29248,13 @@
 	},
 	{
 		"Brand": "JHS",
+		"Name": "Moonshine V2 (Barrel Aged)",
+		"Width": 2.93,
+		"Height": 4.98,
+		"Image": "jhs-moonshine-v2-barrel-aged.png"
+	},
+	{
+		"Brand": "JHS",
 		"Name": "Morning Glory Clean",
 		"Width": 2.6,
 		"Height": 5.01,
@@ -30827,6 +30841,20 @@
 		"Width": 2.73,
 		"Height": 4.5,
 		"Image": "keeley-compressor-plus-sweetwater.png"
+	},
+	{
+		"Brand": "Keeley",
+		"Name": "Compressor Plus Germanium (Aluminum)",
+		"Width": 2.6,
+		"Height": 4.8,
+		"Image": "keeley-compressor-plus-ge-aluminum.png"
+	},
+	{
+		"Brand": "Keeley",
+		"Name": "Compressor Plus Germanium (Black)",
+		"Width": 2.6,
+		"Height": 4.8,
+		"Image": "keeley-compressor-plus-ge-black.png"
 	},
 	{
 		"Brand": "Keeley",
@@ -55377,6 +55405,13 @@
 		"Width": 3.98,
 		"Height": 4.89,
 		"Image": "thorpyfx-camoflange-mk2.png"
+	},
+	{
+		"Brand": "ThorpyFX",
+		"Name": "EAO",
+		"Width": 2.76,
+		"Height": 4.89,
+		"Image": "thorpyfx-eao.png"
 	},
 	{
 		"Brand": "ThorpyFX",

@@ -1498,6 +1498,27 @@
 		"Image": "skb-injection-molded.png"
 	},
 	{
+		"Brand": "Sonicake",
+		"Name": "L Pedalboard",
+		"Width": 18.11,
+		"Height": 12.72,
+		"Image": "sonicake-l-pedalboard.png"
+	},
+	{
+		"Brand": "Sonicake",
+		"Name": "M Pedalboard",
+		"Width": 14.96,
+		"Height": 11.42,
+		"Image": "sonicake-m-pedalboard.png"
+	},
+	{
+		"Brand": "Sonicake",
+		"Name": "S Pedalboard",
+		"Width": 14.17,
+		"Height": 5.71,
+		"Image": "sonicake-s-pedalboard.png"
+	},
+	{
 		"Brand": "Stompbox EX",
 		"Name": "Portable 20",
 		"Width": 20,
