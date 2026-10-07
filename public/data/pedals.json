@@ -15611,6 +15611,41 @@
 		"Image": "dunlop-wa45.png"
 	},
 	{
+		"Brand": "Dunlop",
+		"Name": "XP Series Expression Pedal (Kemper)",
+		"Width": 3.84,
+		"Height": 10,
+		"Image": "dunlop-xpkp.png"
+	},
+	{
+		"Brand": "Dunlop",
+		"Name": "XP Series Expression Pedal (Line 6)",
+		"Width": 3.84,
+		"Height": 10,
+		"Image": "dunlop-xpl6.png"
+	},
+	{
+		"Brand": "Dunlop",
+		"Name": "XP Series Expression Pedal (Line 6 Helix)",
+		"Width": 3.84,
+		"Height": 10,
+		"Image": "dunlop-xpl6h.png"
+	},
+	{
+		"Brand": "Dunlop",
+		"Name": "XP Series Expression Pedal (Neural DSP)",
+		"Width": 3.84,
+		"Height": 10,
+		"Image": "dunlop-xpnd.png"
+	},
+	{
+		"Brand": "Dunlop",
+		"Name": "XP Series Expression Pedal (Tone Master Pro)",
+		"Width": 3.84,
+		"Height": 10,
+		"Image": "dunlop-xptmp.png"
+	},
+	{
 		"Brand": "Durham Electronics",
 		"Name": "Crazy Horse",
 		"Width": 2.73,
