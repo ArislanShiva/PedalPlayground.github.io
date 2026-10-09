@@ -37753,6 +37753,13 @@
 	},
 	{
 		"Brand": "Mooer",
+		"Name": "L6 Controller MKII",
+		"Width": 14.57,
+		"Height": 3.82,
+		"Image": "mooer-l6-mk2.png"
+	},
+	{
+		"Brand": "Mooer",
 		"Name": "Leveline",
 		"Width": 2.25,
 		"Height": 5.35,
@@ -61768,6 +61775,13 @@
 		"Width": 3.1,
 		"Height": 5.13,
 		"Image": "zoom-ms90lp-plus.png"
+	},
+	{
+		"Brand": "Zoom",
+		"Name": "Neurig",
+		"Width": 9.31,
+		"Height": 4.74,
+		"Image": "zoom-neurig.png"
 	},
 	{
 		"Brand": "Zorg",
