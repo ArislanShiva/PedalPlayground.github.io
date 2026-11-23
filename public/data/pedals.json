@@ -18790,6 +18790,13 @@
 	},
 	{
 		"Brand": "EAE",
+		"Name": "Floating Isles",
+		"Width": 2.6,
+		"Height": 5.1,
+		"Image": "electronic-audio-experiments-floating-isles.png"
+	},
+	{
+		"Brand": "EAE",
 		"Name": "Glaive",
 		"Width": 2.6,
 		"Height": 5.05,
