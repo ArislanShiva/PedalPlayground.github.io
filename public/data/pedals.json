@@ -18792,7 +18792,7 @@
 		"Brand": "EAE",
 		"Name": "Floating Isles",
 		"Width": 2.6,
-		"Height": 5.1,
+		"Height": 5.09,
 		"Image": "electronic-audio-experiments-floating-isles.png"
 	},
 	{
@@ -49520,6 +49520,13 @@
 	},
 	{
 		"Brand": "Seymour Duncan",
+		"Name": "805+ Overdrive",
+		"Width": 2.6,
+		"Height": 5.22,
+		"Image": "seymour-duncan-805-plus.png"
+	},
+	{
+		"Brand": "Seymour Duncan",
 		"Name": "Andromeda",
 		"Width": 5.6,
 		"Height": 5.07,
@@ -49627,7 +49634,7 @@
 		"Brand": "Seymour Duncan",
 		"Name": "Studio Bass",
 		"Width": 2.6,
-		"Height": 5.18,
+		"Height": 5.22,
 		"Image": "seymour-duncan-studio-bass.png"
 	},
 	{
@@ -60963,6 +60970,13 @@
 		"Width": 3.26,
 		"Height": 5.04,
 		"Image": "wayhuge-whe207.png"
+	},
+	{
+		"Brand": "Way Huge",
+		"Name": "Green Rhino (Smalls)",
+		"Width": 2.36,
+		"Height": 4.13,
+		"Image": "wayhuge-wm24.png"
 	},
 	{
 		"Brand": "Way Huge",
