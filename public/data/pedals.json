@@ -5071,7 +5071,7 @@
 		"Brand": "Black Mass Electronics",
 		"Name": "Ceremonial Show of Force",
 		"Width": 2.6,
-		"Height": 5.03,
+		"Height": 5.04,
 		"Image": "blackmass-csof.png"
 	},
 	{
@@ -5085,15 +5085,22 @@
 		"Brand": "Black Mass Electronics",
 		"Name": "Kill Chain",
 		"Width": 2.6,
-		"Height": 4.97,
+		"Height": 5.04,
 		"Image": "blackmass-kill-chain.png"
 	},
 	{
 		"Brand": "Black Mass Electronics",
 		"Name": "Malicious Intent",
 		"Width": 2.6,
-		"Height": 5.03,
+		"Height": 5.04,
 		"Image": "blackmass-malicious-intent.png"
+	},
+	{
+		"Brand": "Black Mass Electronics",
+		"Name": "Malicious Intent (Ge)",
+		"Width": 2.6,
+		"Height": 5.04,
+		"Image": "blackmass-malicious-intent-ge.png"
 	},
 	{
 		"Brand": "Black Mass Electronics",
@@ -47007,6 +47014,13 @@
 	},
 	{
 		"Brand": "Pladask Elektrisk",
+		"Name": "Stereo Friksjon",
+		"Width": 2.6,
+		"Height": 5.01,
+		"Image": "pladask-stereo-friksjon.png"
+	},
+	{
+		"Brand": "Pladask Elektrisk",
 		"Name": "Stereo Matrise",
 		"Width": 5.96,
 		"Height": 4.95,
@@ -52894,7 +52908,14 @@
 	},
 	{
 		"Brand": "Subdecay",
-		"Name": "Liquid Sunshine",
+		"Name": "Liquid Sunshine MK2",
+		"Width": 2.76,
+		"Height": 4.5,
+		"Image": "subdecay-liquid-sunshine-mk2.png"
+	},
+	{
+		"Brand": "Subdecay",
+		"Name": "Liquid Sunshine MK3",
 		"Width": 2.71,
 		"Height": 4.5,
 		"Image": "subdecay-liquid-sunshine.png"
